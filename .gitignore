@@ -3,26 +3,80 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
 venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables
 .env
-
-# 로그 파일들
-*.log
-
-# 임시 파일들
-data_temp/
-*.tmp
-*.temp
-
-# 대용량 데이터 파일 (선택적으로 제외)
-# data/*.json
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
+*~
 
 # OS
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
+
+# Project specific
+data_temp/
+logs/
+*.log
+temp/
+tmp/
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
