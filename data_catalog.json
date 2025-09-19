@@ -84,7 +84,4867 @@
         "database"
       ],
       "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-02-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-02-01.pdf",
+      "file_size": 182795,
+      "created_at": "2025-09-19T11:13:45.898021",
+      "updated_at": "2025-09-19T11:13:45.898029",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-04-0B-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-0B-01.pdf",
+      "file_size": 131096,
+      "created_at": "2025-09-19T11:13:45.898360",
+      "updated_at": "2025-09-19T11:13:45.898364",
+      "description": "SDG 지표 0B 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_04",
+        "indicator_0B"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-11-06-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-06-01.pdf",
+      "file_size": 735299,
+      "created_at": "2025-09-19T11:13:45.898557",
+      "updated_at": "2025-09-19T11:13:45.898559",
+      "description": "SDG 지표 06 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_11",
+        "indicator_06"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-10-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-10-01.pdf",
+      "file_size": 273536,
+      "created_at": "2025-09-19T11:13:45.898779",
+      "updated_at": "2025-09-19T11:13:45.898787",
+      "description": "SDG 지표 10 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_10"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-06-06-01a",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-06-01a.pdf",
+      "file_size": 511978,
+      "created_at": "2025-09-19T11:13:45.899000",
+      "updated_at": "2025-09-19T11:13:45.899001",
+      "description": "SDG 지표 06 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_06",
+        "indicator_06"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-05-06-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-06-01.pdf",
+      "file_size": 156516,
+      "created_at": "2025-09-19T11:13:45.899274",
+      "updated_at": "2025-09-19T11:13:45.899284",
+      "description": "SDG 지표 06 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_05",
+        "indicator_06"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-02-02-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-02-01.pdf",
+      "file_size": 250073,
+      "created_at": "2025-09-19T11:13:45.899526",
+      "updated_at": "2025-09-19T11:13:45.899527",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_02",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-10-0B-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-0B-01.pdf",
+      "file_size": 124802,
+      "created_at": "2025-09-19T11:13:45.899767",
+      "updated_at": "2025-09-19T11:13:45.899769",
+      "description": "SDG 지표 0B 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_10",
+        "indicator_0B"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-04-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-04-02.pdf",
+      "file_size": 205115,
+      "created_at": "2025-09-19T11:13:45.900014",
+      "updated_at": "2025-09-19T11:13:45.900015",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-14-0a-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-0a-01.pdf",
+      "file_size": 275532,
+      "created_at": "2025-09-19T11:13:45.900277",
+      "updated_at": "2025-09-19T11:13:45.900278",
+      "description": "SDG 지표 0a 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_14",
+        "indicator_0a"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-06-01-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-01-01.pdf",
+      "file_size": 229833,
+      "created_at": "2025-09-19T11:13:45.900545",
+      "updated_at": "2025-09-19T11:13:45.900547",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_06",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-01-05-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-05-01.pdf",
+      "file_size": 245442,
+      "created_at": "2025-09-19T11:13:45.900861",
+      "updated_at": "2025-09-19T11:13:45.900862",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_01",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-01-0a-02b",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-0a-02b.pdf",
+      "file_size": 262850,
+      "created_at": "2025-09-19T11:13:45.901177",
+      "updated_at": "2025-09-19T11:13:45.901179",
+      "description": "SDG 지표 0a 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_01",
+        "indicator_0a"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-15-09-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-09-01.pdf",
+      "file_size": 249388,
+      "created_at": "2025-09-19T11:13:45.901506",
+      "updated_at": "2025-09-19T11:13:45.901507",
+      "description": "SDG 지표 09 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_15",
+        "indicator_09"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-15-05-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-05-01.pdf",
+      "file_size": 272901,
+      "created_at": "2025-09-19T11:13:45.901838",
+      "updated_at": "2025-09-19T11:13:45.901839",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_15",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-08-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-08-02.pdf",
+      "file_size": 386232,
+      "created_at": "2025-09-19T11:13:45.902180",
+      "updated_at": "2025-09-19T11:13:45.902181",
+      "description": "SDG 지표 08 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_08"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-12-01-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-01-01.pdf",
+      "file_size": 296437,
+      "created_at": "2025-09-19T11:13:45.902529",
+      "updated_at": "2025-09-19T11:13:45.902530",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_12",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-02-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-02-02.pdf",
+      "file_size": 188166,
+      "created_at": "2025-09-19T11:13:45.902981",
+      "updated_at": "2025-09-19T11:13:45.902985",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-09-0B-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-0B-01.pdf",
+      "file_size": 236400,
+      "created_at": "2025-09-19T11:13:45.903399",
+      "updated_at": "2025-09-19T11:13:45.903401",
+      "description": "SDG 지표 0B 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_09",
+        "indicator_0B"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-14-03-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-03-01.pdf",
+      "file_size": 362534,
+      "created_at": "2025-09-19T11:13:45.903787",
+      "updated_at": "2025-09-19T11:13:45.903788",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_14",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-11-06-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-06-02.pdf",
+      "file_size": 214218,
+      "created_at": "2025-09-19T11:13:45.904151",
+      "updated_at": "2025-09-19T11:13:45.904153",
+      "description": "SDG 지표 06 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_11",
+        "indicator_06"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-10-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-10-02.pdf",
+      "file_size": 310687,
+      "created_at": "2025-09-19T11:13:45.904739",
+      "updated_at": "2025-09-19T11:13:45.904741",
+      "description": "SDG 지표 10 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_10"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-06-06-01b",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-06-01b.pdf",
+      "file_size": 305579,
+      "created_at": "2025-09-19T11:13:45.905165",
+      "updated_at": "2025-09-19T11:13:45.905166",
+      "description": "SDG 지표 06 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_06",
+        "indicator_06"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-05-06-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-06-02.pdf",
+      "file_size": 259821,
+      "created_at": "2025-09-19T11:13:45.905553",
+      "updated_at": "2025-09-19T11:13:45.905554",
+      "description": "SDG 지표 06 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_05",
+        "indicator_06"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-01-05-03",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-05-03.pdf",
+      "file_size": 226514,
+      "created_at": "2025-09-19T11:13:45.905951",
+      "updated_at": "2025-09-19T11:13:45.905952",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_01",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-08-06-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-06-01.pdf",
+      "file_size": 221753,
+      "created_at": "2025-09-19T11:13:45.906352",
+      "updated_at": "2025-09-19T11:13:45.906353",
+      "description": "SDG 지표 06 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_08",
+        "indicator_06"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-12-0c-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-0c-01.pdf",
+      "file_size": 191977,
+      "created_at": "2025-09-19T11:13:45.906761",
+      "updated_at": "2025-09-19T11:13:45.906761",
+      "description": "SDG 지표 0c 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_12",
+        "indicator_0c"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-02-02-03",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-02-03.pdf",
+      "file_size": 168188,
+      "created_at": "2025-09-19T11:13:45.907165",
+      "updated_at": "2025-09-19T11:13:45.907166",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_02",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-04-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-04-01.pdf",
+      "file_size": 174771,
+      "created_at": "2025-09-19T11:13:45.907579",
+      "updated_at": "2025-09-19T11:13:45.907580",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-08-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-08-01.pdf",
+      "file_size": 145606,
+      "created_at": "2025-09-19T11:13:45.908092",
+      "updated_at": "2025-09-19T11:13:45.908096",
+      "description": "SDG 지표 08 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_08"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-01-05-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-05-02.pdf",
+      "file_size": 243929,
+      "created_at": "2025-09-19T11:13:45.908556",
+      "updated_at": "2025-09-19T11:13:45.908558",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_01",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-16-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-16-01.pdf",
+      "file_size": 255244,
+      "created_at": "2025-09-19T11:13:45.909027",
+      "updated_at": "2025-09-19T11:13:45.909028",
+      "description": "SDG 지표 16 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_16"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-01-0a-02a",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-0a-02a.pdf",
+      "file_size": 215448,
+      "created_at": "2025-09-19T11:13:45.909480",
+      "updated_at": "2025-09-19T11:13:45.909482",
+      "description": "SDG 지표 0a 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_01",
+        "indicator_0a"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-08-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-08-01.pdf",
+      "file_size": 390106,
+      "created_at": "2025-09-19T11:13:45.909940",
+      "updated_at": "2025-09-19T11:13:45.909942",
+      "description": "SDG 지표 08 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_08"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-04-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-04-01.pdf",
+      "file_size": 148515,
+      "created_at": "2025-09-19T11:13:45.910397",
+      "updated_at": "2025-09-19T11:13:45.910398",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-02-03",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-02-03.pdf",
+      "file_size": 221594,
+      "created_at": "2025-09-19T11:13:45.910882",
+      "updated_at": "2025-09-19T11:13:45.910883",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-12-0a-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-0a-01.pdf",
+      "file_size": 162437,
+      "created_at": "2025-09-19T11:13:45.911375",
+      "updated_at": "2025-09-19T11:13:45.911376",
+      "description": "SDG 지표 0a 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_12",
+        "indicator_0a"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-08-04-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-04-01.pdf",
+      "file_size": 225029,
+      "created_at": "2025-09-19T11:13:45.913102",
+      "updated_at": "2025-09-19T11:13:45.913104",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_08",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-14-01-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-01-01.pdf",
+      "file_size": 334756,
+      "created_at": "2025-09-19T11:13:45.913628",
+      "updated_at": "2025-09-19T11:13:45.913629",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_14",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-06-0A-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-0A-01.pdf",
+      "file_size": 160652,
+      "created_at": "2025-09-19T11:13:45.914144",
+      "updated_at": "2025-09-19T11:13:45.914145",
+      "description": "SDG 지표 0A 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_06",
+        "indicator_0A"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-08-08-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-08-01.pdf",
+      "file_size": 216137,
+      "created_at": "2025-09-19T11:13:45.914651",
+      "updated_at": "2025-09-19T11:13:45.914652",
+      "description": "SDG 지표 08 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_08",
+        "indicator_08"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-0d-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-0d-02.pdf",
+      "file_size": 209055,
+      "created_at": "2025-09-19T11:13:45.915408",
+      "updated_at": "2025-09-19T11:13:45.915418",
+      "description": "SDG 지표 0d 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_0d"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-06-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-06-01.pdf",
+      "file_size": 142791,
+      "created_at": "2025-09-19T11:13:45.916033",
+      "updated_at": "2025-09-19T11:13:45.916034",
+      "description": "SDG 지표 06 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_06"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-02-0b-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-0b-01.pdf",
+      "file_size": 145857,
+      "created_at": "2025-09-19T11:13:45.916674",
+      "updated_at": "2025-09-19T11:13:45.916675",
+      "description": "SDG 지표 0b 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_02",
+        "indicator_0b"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-10-02-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-02-01.pdf",
+      "file_size": 200568,
+      "created_at": "2025-09-19T11:13:45.917262",
+      "updated_at": "2025-09-19T11:13:45.917264",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_10",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-09-02-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-02-02.pdf",
+      "file_size": 206651,
+      "created_at": "2025-09-19T11:13:45.917858",
+      "updated_at": "2025-09-19T11:13:45.917860",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_09",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-0b-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-0b-01.pdf",
+      "file_size": 257336,
+      "created_at": "2025-09-19T11:13:45.918566",
+      "updated_at": "2025-09-19T11:13:45.918568",
+      "description": "SDG 지표 0b 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_0b"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-04-02-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-02-01.pdf",
+      "file_size": 192662,
+      "created_at": "2025-09-19T11:13:45.919170",
+      "updated_at": "2025-09-19T11:13:45.919172",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_04",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-14-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-14-01.pdf",
+      "file_size": 238250,
+      "created_at": "2025-09-19T11:13:45.919793",
+      "updated_at": "2025-09-19T11:13:45.919794",
+      "description": "SDG 지표 14 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_14"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-06-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-06-01.pdf",
+      "file_size": 209223,
+      "created_at": "2025-09-19T11:13:45.920481",
+      "updated_at": "2025-09-19T11:13:45.920485",
+      "description": "SDG 지표 06 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_06"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-06-03-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-03-02.pdf",
+      "file_size": 251652,
+      "created_at": "2025-09-19T11:13:45.921148",
+      "updated_at": "2025-09-19T11:13:45.921149",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_06",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-05-04-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-04-01.pdf",
+      "file_size": 293427,
+      "created_at": "2025-09-19T11:13:45.921801",
+      "updated_at": "2025-09-19T11:13:45.921802",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_05",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-08-04-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-04-02.pdf",
+      "file_size": 204769,
+      "created_at": "2025-09-19T11:13:45.922429",
+      "updated_at": "2025-09-19T11:13:45.922431",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_08",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-18-03",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-18-03.pdf",
+      "file_size": 132897,
+      "created_at": "2025-09-19T11:13:45.923064",
+      "updated_at": "2025-09-19T11:13:45.923065",
+      "description": "SDG 지표 18 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_18"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-08-08-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-08-02.pdf",
+      "file_size": 278775,
+      "created_at": "2025-09-19T11:13:45.923719",
+      "updated_at": "2025-09-19T11:13:45.923720",
+      "description": "SDG 지표 08 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_08",
+        "indicator_08"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-11-04-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-04-01.pdf",
+      "file_size": 338731,
+      "created_at": "2025-09-19T11:13:45.924462",
+      "updated_at": "2025-09-19T11:13:45.924463",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_11",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-0d-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-0d-01.pdf",
+      "file_size": 339913,
+      "created_at": "2025-09-19T11:13:45.925142",
+      "updated_at": "2025-09-19T11:13:45.925143",
+      "description": "SDG 지표 0d 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_0d"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-01-05-04",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-05-04.pdf",
+      "file_size": 156760,
+      "created_at": "2025-09-19T11:13:45.925817",
+      "updated_at": "2025-09-19T11:13:45.925818",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_01",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-18-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-18-02.pdf",
+      "file_size": 138110,
+      "created_at": "2025-09-19T11:13:45.926510",
+      "updated_at": "2025-09-19T11:13:45.926511",
+      "description": "SDG 지표 18 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_18"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-15-07-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-07-01.pdf",
+      "file_size": 203251,
+      "created_at": "2025-09-19T11:13:45.927217",
+      "updated_at": "2025-09-19T11:13:45.927218",
+      "description": "SDG 지표 07 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_15",
+        "indicator_07"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-09-02-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-02-01.pdf",
+      "file_size": 187735,
+      "created_at": "2025-09-19T11:13:45.927931",
+      "updated_at": "2025-09-19T11:13:45.927932",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_09",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-04-02-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-02-02.pdf",
+      "file_size": 241613,
+      "created_at": "2025-09-19T11:13:45.928726",
+      "updated_at": "2025-09-19T11:13:45.928728",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_04",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-14-0c-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-0c-01.pdf",
+      "file_size": 218981,
+      "created_at": "2025-09-19T11:13:45.929475",
+      "updated_at": "2025-09-19T11:13:45.929476",
+      "description": "SDG 지표 0c 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_14",
+        "indicator_0c"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-06-03-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-03-01.pdf",
+      "file_size": 358066,
+      "created_at": "2025-09-19T11:13:45.930364",
+      "updated_at": "2025-09-19T11:13:45.930377",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_06",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-04-06-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-06-01.pdf",
+      "file_size": 255154,
+      "created_at": "2025-09-19T11:13:45.931334",
+      "updated_at": "2025-09-19T11:13:45.931344",
+      "description": "SDG 지표 06 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_04",
+        "indicator_06"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-10-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-10-01.pdf",
+      "file_size": 158538,
+      "created_at": "2025-09-19T11:13:45.932706",
+      "updated_at": "2025-09-19T11:13:45.932747",
+      "description": "SDG 지표 10 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_10"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-19-02b",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-19-02b.pdf",
+      "file_size": 180239,
+      "created_at": "2025-09-19T11:13:45.933775",
+      "updated_at": "2025-09-19T11:13:45.933786",
+      "description": "SDG 지표 19 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_19"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-11-0b-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-0b-01.pdf",
+      "file_size": 226795,
+      "created_at": "2025-09-19T11:13:45.934688",
+      "updated_at": "2025-09-19T11:13:45.934692",
+      "description": "SDG 지표 0b 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_11",
+        "indicator_0b"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-02-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-02-01.pdf",
+      "file_size": 218244,
+      "created_at": "2025-09-19T11:13:45.935758",
+      "updated_at": "2025-09-19T11:13:45.935760",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-05-0B-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-0B-01.pdf",
+      "file_size": 181364,
+      "created_at": "2025-09-19T11:13:45.936621",
+      "updated_at": "2025-09-19T11:13:45.936622",
+      "description": "SDG 지표 0B 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_05",
+        "indicator_0B"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-02-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-02-01.pdf",
+      "file_size": 131124,
+      "created_at": "2025-09-19T11:13:45.937474",
+      "updated_at": "2025-09-19T11:13:45.937475",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-10-06-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-06-01.pdf",
+      "file_size": 188160,
+      "created_at": "2025-09-19T11:13:45.938354",
+      "updated_at": "2025-09-19T11:13:45.938355",
+      "description": "SDG 지표 06 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_10",
+        "indicator_06"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-14-05-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-05-01.pdf",
+      "file_size": 274956,
+      "created_at": "2025-09-19T11:13:45.939503",
+      "updated_at": "2025-09-19T11:13:45.939504",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_14",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-13-01-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-13-01-01.pdf",
+      "file_size": 245177,
+      "created_at": "2025-09-19T11:13:45.940394",
+      "updated_at": "2025-09-19T11:13:45.940395",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_13",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-01-0a-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-0a-01.pdf",
+      "file_size": 168497,
+      "created_at": "2025-09-19T11:13:45.941301",
+      "updated_at": "2025-09-19T11:13:45.941302",
+      "description": "SDG 지표 0a 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_01",
+        "indicator_0a"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-04-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-04-02.pdf",
+      "file_size": 261853,
+      "created_at": "2025-09-19T11:13:45.942174",
+      "updated_at": "2025-09-19T11:13:45.942175",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-07-01-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-07-01-01.pdf",
+      "file_size": 207205,
+      "created_at": "2025-09-19T11:13:45.943076",
+      "updated_at": "2025-09-19T11:13:45.943078",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_07",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-15-0a-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-0a-01.pdf",
+      "file_size": 215105,
+      "created_at": "2025-09-19T11:13:45.943983",
+      "updated_at": "2025-09-19T11:13:45.943984",
+      "description": "SDG 지표 0a 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_15",
+        "indicator_0a"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-0b-03_NEW",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-0b-03_NEW.pdf",
+      "file_size": 301134,
+      "created_at": "2025-09-19T11:13:45.944889",
+      "updated_at": "2025-09-19T11:13:45.944890",
+      "description": "SDG 지표 0b 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_0b"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-19-02a",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-19-02a.pdf",
+      "file_size": 127567,
+      "created_at": "2025-09-19T11:13:45.945817",
+      "updated_at": "2025-09-19T11:13:45.945818",
+      "description": "SDG 지표 19 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_19"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-11-0b-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-0b-02.pdf",
+      "file_size": 195838,
+      "created_at": "2025-09-19T11:13:45.946748",
+      "updated_at": "2025-09-19T11:13:45.946749",
+      "description": "SDG 지표 0b 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_11",
+        "indicator_0b"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-02-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-02-02.pdf",
+      "file_size": 192510,
+      "created_at": "2025-09-19T11:13:45.947691",
+      "updated_at": "2025-09-19T11:13:45.947692",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-08-0b-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-0b-01.pdf",
+      "file_size": 239633,
+      "created_at": "2025-09-19T11:13:45.948631",
+      "updated_at": "2025-09-19T11:13:45.948632",
+      "description": "SDG 지표 0b 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_08",
+        "indicator_0b"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-13-01-03",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-13-01-03.pdf",
+      "file_size": 156688,
+      "created_at": "2025-09-19T11:13:45.949708",
+      "updated_at": "2025-09-19T11:13:45.949714",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_13",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-12-07-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-07-01.pdf",
+      "file_size": 315693,
+      "created_at": "2025-09-19T11:13:45.950796",
+      "updated_at": "2025-09-19T11:13:45.950799",
+      "description": "SDG 지표 07 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_12",
+        "indicator_07"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-15-03-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-03-01.pdf",
+      "file_size": 687222,
+      "created_at": "2025-09-19T11:13:45.951803",
+      "updated_at": "2025-09-19T11:13:45.951805",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_15",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-13-01-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-13-01-02.pdf",
+      "file_size": 226359,
+      "created_at": "2025-09-19T11:13:45.952872",
+      "updated_at": "2025-09-19T11:13:45.952874",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_13",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-04-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-04-01.pdf",
+      "file_size": 440588,
+      "created_at": "2025-09-19T11:13:45.954069",
+      "updated_at": "2025-09-19T11:13:45.954072",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-02-04-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-04-01.pdf",
+      "file_size": 472190,
+      "created_at": "2025-09-19T11:13:45.955904",
+      "updated_at": "2025-09-19T11:13:45.955907",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_02",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-07-01-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-07-01-02.pdf",
+      "file_size": 361568,
+      "created_at": "2025-09-19T11:13:45.957000",
+      "updated_at": "2025-09-19T11:13:45.957001",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_07",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-08-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-08-01.pdf",
+      "file_size": 187968,
+      "created_at": "2025-09-19T11:13:45.958110",
+      "updated_at": "2025-09-19T11:13:45.958111",
+      "description": "SDG 지표 08 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_08"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-07-0a-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-07-0a-01.pdf",
+      "file_size": 151083,
+      "created_at": "2025-09-19T11:13:45.959266",
+      "updated_at": "2025-09-19T11:13:45.959267",
+      "description": "SDG 지표 0a 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_07",
+        "indicator_0a"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-15-01-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-01-01.pdf",
+      "file_size": 241977,
+      "created_at": "2025-09-19T11:13:45.960407",
+      "updated_at": "2025-09-19T11:13:45.960408",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_15",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-10-04-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-04-02.pdf",
+      "file_size": 438644,
+      "created_at": "2025-09-19T11:13:45.961494",
+      "updated_at": "2025-09-19T11:13:45.961496",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_10",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-12-05-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-05-01.pdf",
+      "file_size": 241137,
+      "created_at": "2025-09-19T11:13:45.962577",
+      "updated_at": "2025-09-19T11:13:45.962578",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_12",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-06-05-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-05-01.pdf",
+      "file_size": 236819,
+      "created_at": "2025-09-19T11:13:45.963629",
+      "updated_at": "2025-09-19T11:13:45.963630",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_06",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-09-04-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-04-01.pdf",
+      "file_size": 272097,
+      "created_at": "2025-09-19T11:13:45.964784",
+      "updated_at": "2025-09-19T11:13:45.964786",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_09",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-13-0a-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-13-0a-01.pdf",
+      "file_size": 201228,
+      "created_at": "2025-09-19T11:13:45.965985",
+      "updated_at": "2025-09-19T11:13:45.965986",
+      "description": "SDG 지표 0a 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_13",
+        "indicator_0a"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-05-02-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-02-01.pdf",
+      "file_size": 263657,
+      "created_at": "2025-09-19T11:13:45.967182",
+      "updated_at": "2025-09-19T11:13:45.967185",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_05",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-08-10-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-10-02.pdf",
+      "file_size": 169139,
+      "created_at": "2025-09-19T11:13:45.968337",
+      "updated_at": "2025-09-19T11:13:45.968338",
+      "description": "SDG 지표 10 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_08",
+        "indicator_10"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-06-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-06-01.pdf",
+      "file_size": 172919,
+      "created_at": "2025-09-19T11:13:45.969491",
+      "updated_at": "2025-09-19T11:13:45.969493",
+      "description": "SDG 지표 06 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_06"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-11-02-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-02-01.pdf",
+      "file_size": 336601,
+      "created_at": "2025-09-19T11:13:45.970847",
+      "updated_at": "2025-09-19T11:13:45.970849",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_11",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-0b-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-0b-01.pdf",
+      "file_size": 239532,
+      "created_at": "2025-09-19T11:13:45.972390",
+      "updated_at": "2025-09-19T11:13:45.972391",
+      "description": "SDG 지표 0b 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_0b"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-15-01-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-01-02.pdf",
+      "file_size": 277372,
+      "created_at": "2025-09-19T11:13:45.973523",
+      "updated_at": "2025-09-19T11:13:45.973524",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_15",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-10-04-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-04-01.pdf",
+      "file_size": 203145,
+      "created_at": "2025-09-19T11:13:45.974648",
+      "updated_at": "2025-09-19T11:13:45.974650",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_10",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-0B-03",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-0B-03.pdf",
+      "file_size": 790398,
+      "created_at": "2025-09-19T11:13:45.975786",
+      "updated_at": "2025-09-19T11:13:45.975787",
+      "description": "SDG 지표 0B 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_0B"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-02-04-01proxy",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-04-01proxy.pdf",
+      "file_size": 395573,
+      "created_at": "2025-09-19T11:13:45.977000",
+      "updated_at": "2025-09-19T11:13:45.977002",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_02",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-06-05-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-05-02.pdf",
+      "file_size": 256700,
+      "created_at": "2025-09-19T11:13:45.978181",
+      "updated_at": "2025-09-19T11:13:45.978182",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_06",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-12-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-12-01.pdf",
+      "file_size": 139302,
+      "created_at": "2025-09-19T11:13:45.979371",
+      "updated_at": "2025-09-19T11:13:45.979372",
+      "description": "SDG 지표 12 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_12"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-04-04-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-04-01.pdf",
+      "file_size": 255509,
+      "created_at": "2025-09-19T11:13:45.980583",
+      "updated_at": "2025-09-19T11:13:45.980584",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_04",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-08-02-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-02-01.pdf",
+      "file_size": 217448,
+      "created_at": "2025-09-19T11:13:45.981870",
+      "updated_at": "2025-09-19T11:13:45.981872",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_08",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-05-02-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-02-02.pdf",
+      "file_size": 182590,
+      "created_at": "2025-09-19T11:13:45.983683",
+      "updated_at": "2025-09-19T11:13:45.983687",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_05",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-07-03-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-07-03-01.pdf",
+      "file_size": 215283,
+      "created_at": "2025-09-19T11:13:45.984975",
+      "updated_at": "2025-09-19T11:13:45.984976",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_07",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-15-0C-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-0C-01.pdf",
+      "file_size": 203377,
+      "created_at": "2025-09-19T11:13:45.986220",
+      "updated_at": "2025-09-19T11:13:45.986221",
+      "description": "SDG 지표 0C 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_15",
+        "indicator_0C"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-13-03-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-13-03-01.pdf",
+      "file_size": 407369,
+      "created_at": "2025-09-19T11:13:45.987589",
+      "updated_at": "2025-09-19T11:13:45.987590",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_13",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-08-10-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-10-01.pdf",
+      "file_size": 258979,
+      "created_at": "2025-09-19T11:13:45.989080",
+      "updated_at": "2025-09-19T11:13:45.989081",
+      "description": "SDG 지표 10 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_08",
+        "indicator_10"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-06-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-06-02.pdf",
+      "file_size": 435163,
+      "created_at": "2025-09-19T11:13:45.990441",
+      "updated_at": "2025-09-19T11:13:45.990442",
+      "description": "SDG 지표 06 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_06"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-0B-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-0B-02.pdf",
+      "file_size": 174354,
+      "created_at": "2025-09-19T11:13:45.991747",
+      "updated_at": "2025-09-19T11:13:45.991748",
+      "description": "SDG 지표 0B 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_0B"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-04-06-01_NEW",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-06-01_NEW.pdf",
+      "file_size": 251886,
+      "created_at": "2025-09-19T11:13:45.993028",
+      "updated_at": "2025-09-19T11:13:45.993029",
+      "description": "SDG 지표 06 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_04",
+        "indicator_06"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-14-07-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-07-01.pdf",
+      "file_size": 317959,
+      "created_at": "2025-09-19T11:13:45.994321",
+      "updated_at": "2025-09-19T11:13:45.994322",
+      "description": "SDG 지표 07 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_14",
+        "indicator_07"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-01-03-01a",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-03-01a.pdf",
+      "file_size": 162466,
+      "created_at": "2025-09-19T11:13:45.995655",
+      "updated_at": "2025-09-19T11:13:45.995656",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_01",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-17-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-17-01.pdf",
+      "file_size": 212989,
+      "created_at": "2025-09-19T11:13:45.996977",
+      "updated_at": "2025-09-19T11:13:45.996978",
+      "description": "SDG 지표 17 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_17"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-0A-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-0A-01.pdf",
+      "file_size": 157408,
+      "created_at": "2025-09-19T11:13:45.998322",
+      "updated_at": "2025-09-19T11:13:45.998323",
+      "description": "SDG 지표 0A 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_0A"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-04-01-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-01-01.pdf",
+      "file_size": 272224,
+      "created_at": "2025-09-19T11:13:45.999788",
+      "updated_at": "2025-09-19T11:13:45.999790",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_04",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-09-01-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-01-02.pdf",
+      "file_size": 555165,
+      "created_at": "2025-09-19T11:13:46.001363",
+      "updated_at": "2025-09-19T11:13:46.001364",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_09",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-01-04-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-04-02.pdf",
+      "file_size": 626670,
+      "created_at": "2025-09-19T11:13:46.002824",
+      "updated_at": "2025-09-19T11:13:46.002825",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_01",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-09-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-09-01.pdf",
+      "file_size": 153566,
+      "created_at": "2025-09-19T11:13:46.004387",
+      "updated_at": "2025-09-19T11:13:46.004388",
+      "description": "SDG 지표 09 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_09"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-18-01b",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-18-01b.pdf",
+      "file_size": 279700,
+      "created_at": "2025-09-19T11:13:46.005758",
+      "updated_at": "2025-09-19T11:13:46.005759",
+      "description": "SDG 지표 18 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_18"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-05-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-05-01.pdf",
+      "file_size": 290555,
+      "created_at": "2025-09-19T11:13:46.007159",
+      "updated_at": "2025-09-19T11:13:46.007160",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-05-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-05-01.pdf",
+      "file_size": 263009,
+      "created_at": "2025-09-19T11:13:46.008608",
+      "updated_at": "2025-09-19T11:13:46.008609",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-03-03",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-03-03.pdf",
+      "file_size": 275749,
+      "created_at": "2025-09-19T11:13:46.010021",
+      "updated_at": "2025-09-19T11:13:46.010022",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-09-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-09-01.pdf",
+      "file_size": 260043,
+      "created_at": "2025-09-19T11:13:46.011422",
+      "updated_at": "2025-09-19T11:13:46.011424",
+      "description": "SDG 지표 09 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_09"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-15-04-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-04-02.pdf",
+      "file_size": 392793,
+      "created_at": "2025-09-19T11:13:46.013130",
+      "updated_at": "2025-09-19T11:13:46.013131",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_15",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-02-0A-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-0A-01.pdf",
+      "file_size": 331523,
+      "created_at": "2025-09-19T11:13:46.014581",
+      "updated_at": "2025-09-19T11:13:46.014582",
+      "description": "SDG 지표 0A 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_02",
+        "indicator_0A"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-10-01-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-01-01.pdf",
+      "file_size": 193121,
+      "created_at": "2025-09-19T11:13:46.016077",
+      "updated_at": "2025-09-19T11:13:46.016079",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_10",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-11-07-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-07-02.pdf",
+      "file_size": 295173,
+      "created_at": "2025-09-19T11:13:46.017634",
+      "updated_at": "2025-09-19T11:13:46.017636",
+      "description": "SDG 지표 07 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_11",
+        "indicator_07"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-14-02-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-02-01.pdf",
+      "file_size": 155242,
+      "created_at": "2025-09-19T11:13:46.019241",
+      "updated_at": "2025-09-19T11:13:46.019243",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_14",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-06-0B-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-0B-01.pdf",
+      "file_size": 159049,
+      "created_at": "2025-09-19T11:13:46.021042",
+      "updated_at": "2025-09-19T11:13:46.021043",
+      "description": "SDG 지표 0B 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_06",
+        "indicator_0B"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-09-0C-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-0C-01.pdf",
+      "file_size": 184361,
+      "created_at": "2025-09-19T11:13:46.022521",
+      "updated_at": "2025-09-19T11:13:46.022522",
+      "description": "SDG 지표 0C 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_09",
+        "indicator_0C"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-03-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-03-02.pdf",
+      "file_size": 192916,
+      "created_at": "2025-09-19T11:13:46.024076",
+      "updated_at": "2025-09-19T11:13:46.024077",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-02-03-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-03-02.pdf",
+      "file_size": 242468,
+      "created_at": "2025-09-19T11:13:46.025575",
+      "updated_at": "2025-09-19T11:13:46.025576",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_02",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-07-01A",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-07-01A.pdf",
+      "file_size": 497019,
+      "created_at": "2025-09-19T11:13:46.027441",
+      "updated_at": "2025-09-19T11:13:46.027442",
+      "description": "SDG 지표 07 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_07"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-08-07-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-07-01.pdf",
+      "file_size": 236577,
+      "created_at": "2025-09-19T11:13:46.028979",
+      "updated_at": "2025-09-19T11:13:46.028980",
+      "description": "SDG 지표 07 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_08",
+        "indicator_07"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-12-0b-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-0b-01.pdf",
+      "file_size": 238165,
+      "created_at": "2025-09-19T11:13:46.030540",
+      "updated_at": "2025-09-19T11:13:46.030541",
+      "description": "SDG 지표 0b 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_12",
+        "indicator_0b"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-01-03-01b",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-03-01b.pdf",
+      "file_size": 233324,
+      "created_at": "2025-09-19T11:13:46.032360",
+      "updated_at": "2025-09-19T11:13:46.032361",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_01",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-04-01-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-01-02.pdf",
+      "file_size": 243567,
+      "created_at": "2025-09-19T11:13:46.034178",
+      "updated_at": "2025-09-19T11:13:46.034180",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_04",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-15-08-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-08-01.pdf",
+      "file_size": 219413,
+      "created_at": "2025-09-19T11:13:46.035800",
+      "updated_at": "2025-09-19T11:13:46.035801",
+      "description": "SDG 지표 08 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_15",
+        "indicator_08"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-09-01-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-01-01.pdf",
+      "file_size": 182118,
+      "created_at": "2025-09-19T11:13:46.037370",
+      "updated_at": "2025-09-19T11:13:46.037371",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_09",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-01-04-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-04-01.pdf",
+      "file_size": 316302,
+      "created_at": "2025-09-19T11:13:46.038972",
+      "updated_at": "2025-09-19T11:13:46.038974",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_01",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-07-01c",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-07-01c.pdf",
+      "file_size": 509089,
+      "created_at": "2025-09-19T11:13:46.040794",
+      "updated_at": "2025-09-19T11:13:46.040795",
+      "description": "SDG 지표 07 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_07"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-18-01a",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-18-01a.pdf",
+      "file_size": 228608,
+      "created_at": "2025-09-19T11:13:46.042382",
+      "updated_at": "2025-09-19T11:13:46.042383",
+      "description": "SDG 지표 18 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_18"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-05-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-05-02.pdf",
+      "file_size": 152777,
+      "created_at": "2025-09-19T11:13:46.044006",
+      "updated_at": "2025-09-19T11:13:46.044007",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-09-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-09-02.pdf",
+      "file_size": 243105,
+      "created_at": "2025-09-19T11:13:46.045634",
+      "updated_at": "2025-09-19T11:13:46.045635",
+      "description": "SDG 지표 09 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_09"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-15-04-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-04-01.pdf",
+      "file_size": 275939,
+      "created_at": "2025-09-19T11:13:46.048994",
+      "updated_at": "2025-09-19T11:13:46.048995",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_15",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-02-0A-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-0A-02.pdf",
+      "file_size": 139208,
+      "created_at": "2025-09-19T11:13:46.051032",
+      "updated_at": "2025-09-19T11:13:46.051033",
+      "description": "SDG 지표 0A 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_02",
+        "indicator_0A"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-11-07-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-07-01.pdf",
+      "file_size": 297197,
+      "created_at": "2025-09-19T11:13:46.052678",
+      "updated_at": "2025-09-19T11:13:46.052679",
+      "description": "SDG 지표 07 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_11",
+        "indicator_07"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-09-03",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-09-03.pdf",
+      "file_size": 164734,
+      "created_at": "2025-09-19T11:13:46.054314",
+      "updated_at": "2025-09-19T11:13:46.054315",
+      "description": "SDG 지표 09 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_09"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-03-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-03-01.pdf",
+      "file_size": 329467,
+      "created_at": "2025-09-19T11:13:46.055960",
+      "updated_at": "2025-09-19T11:13:46.055961",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-04-0c-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-0c-01.pdf",
+      "file_size": 248696,
+      "created_at": "2025-09-19T11:13:46.057916",
+      "updated_at": "2025-09-19T11:13:46.057917",
+      "description": "SDG 지표 0c 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_04",
+        "indicator_0c"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-02-03-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-03-01.pdf",
+      "file_size": 232466,
+      "created_at": "2025-09-19T11:13:46.059594",
+      "updated_at": "2025-09-19T11:13:46.059596",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_02",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-10-0C-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-0C-01.pdf",
+      "file_size": 206196,
+      "created_at": "2025-09-19T11:13:46.061262",
+      "updated_at": "2025-09-19T11:13:46.061263",
+      "description": "SDG 지표 0C 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_10",
+        "indicator_0C"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-01-04",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-01-04.pdf",
+      "file_size": 232401,
+      "created_at": "2025-09-19T11:13:46.063191",
+      "updated_at": "2025-09-19T11:13:46.063192",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-07-01b",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-07-01b.pdf",
+      "file_size": 522793,
+      "created_at": "2025-09-19T11:13:46.064973",
+      "updated_at": "2025-09-19T11:13:46.064975",
+      "description": "SDG 지표 07 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_07"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-15-06-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-06-01.pdf",
+      "file_size": 220451,
+      "created_at": "2025-09-19T11:13:46.066886",
+      "updated_at": "2025-09-19T11:13:46.066889",
+      "description": "SDG 지표 06 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_15",
+        "indicator_06"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-12-02-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-02-01.pdf",
+      "file_size": 224206,
+      "created_at": "2025-09-19T11:13:46.068669",
+      "updated_at": "2025-09-19T11:13:46.068670",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_12",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-14-0b-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-0b-01.pdf",
+      "file_size": 289886,
+      "created_at": "2025-09-19T11:13:46.070808",
+      "updated_at": "2025-09-19T11:13:46.070810",
+      "description": "SDG 지표 0b 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_14",
+        "indicator_0b"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-07-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-07-02.pdf",
+      "file_size": 206346,
+      "created_at": "2025-09-19T11:13:46.072590",
+      "updated_at": "2025-09-19T11:13:46.072591",
+      "description": "SDG 지표 07 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_07"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-09-03-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-03-01.pdf",
+      "file_size": 248113,
+      "created_at": "2025-09-19T11:13:46.074501",
+      "updated_at": "2025-09-19T11:13:46.074503",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_09",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-08-05-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-05-02.pdf",
+      "file_size": 216775,
+      "created_at": "2025-09-19T11:13:46.076341",
+      "updated_at": "2025-09-19T11:13:46.076342",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_08",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-02-01-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-01-01.pdf",
+      "file_size": 296252,
+      "created_at": "2025-09-19T11:13:46.078164",
+      "updated_at": "2025-09-19T11:13:46.078166",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_02",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-10-0A-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-0A-01.pdf",
+      "file_size": 135308,
+      "created_at": "2025-09-19T11:13:46.079960",
+      "updated_at": "2025-09-19T11:13:46.079961",
+      "description": "SDG 지표 0A 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_10",
+        "indicator_0A"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-01-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-01-01.pdf",
+      "file_size": 202256,
+      "created_at": "2025-09-19T11:13:46.081953",
+      "updated_at": "2025-09-19T11:13:46.081955",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-04-0A-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-0A-01.pdf",
+      "file_size": 264214,
+      "created_at": "2025-09-19T11:13:46.084264",
+      "updated_at": "2025-09-19T11:13:46.084265",
+      "description": "SDG 지표 0A 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_04",
+        "indicator_0A"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-08-09-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-09-02.pdf",
+      "file_size": 332646,
+      "created_at": "2025-09-19T11:13:46.086135",
+      "updated_at": "2025-09-19T11:13:46.086136",
+      "description": "SDG 지표 09 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_08",
+        "indicator_09"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-02-02-02a",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-02-02a.pdf",
+      "file_size": 248109,
+      "created_at": "2025-09-19T11:13:46.088062",
+      "updated_at": "2025-09-19T11:13:46.088064",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_02",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-11-05-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-05-01.pdf",
+      "file_size": 245638,
+      "created_at": "2025-09-19T11:13:46.089944",
+      "updated_at": "2025-09-19T11:13:46.089946",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_11",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-05-05-01b",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-05-01b.pdf",
+      "file_size": 249425,
+      "created_at": "2025-09-19T11:13:46.091771",
+      "updated_at": "2025-09-19T11:13:46.091772",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_05",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-19-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-19-01.pdf",
+      "file_size": 134248,
+      "created_at": "2025-09-19T11:13:46.093903",
+      "updated_at": "2025-09-19T11:13:46.093904",
+      "description": "SDG 지표 19 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_19"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-11-05-03",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-05-03.pdf",
+      "file_size": 232448,
+      "created_at": "2025-09-19T11:13:46.095765",
+      "updated_at": "2025-09-19T11:13:46.095766",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_11",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-02-0C-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-0C-01.pdf",
+      "file_size": 239008,
+      "created_at": "2025-09-19T11:13:46.097618",
+      "updated_at": "2025-09-19T11:13:46.097619",
+      "description": "SDG 지표 0C 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_02",
+        "indicator_0C"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-10-03-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-03-01.pdf",
+      "file_size": 257296,
+      "created_at": "2025-09-19T11:13:46.099870",
+      "updated_at": "2025-09-19T11:13:46.099876",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_10",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-01-03",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-01-03.pdf",
+      "file_size": 307419,
+      "created_at": "2025-09-19T11:13:46.102428",
+      "updated_at": "2025-09-19T11:13:46.102433",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-07-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-07-01.pdf",
+      "file_size": 173241,
+      "created_at": "2025-09-19T11:13:46.104544",
+      "updated_at": "2025-09-19T11:13:46.104546",
+      "description": "SDG 지표 07 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_07"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-12-02-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-02-02.pdf",
+      "file_size": 204201,
+      "created_at": "2025-09-19T11:13:46.106539",
+      "updated_at": "2025-09-19T11:13:46.106540",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_12",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-07-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-07-01.pdf",
+      "file_size": 300204,
+      "created_at": "2025-09-19T11:13:46.108452",
+      "updated_at": "2025-09-19T11:13:46.108453",
+      "description": "SDG 지표 07 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_07"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-04-03-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-03-01.pdf",
+      "file_size": 222452,
+      "created_at": "2025-09-19T11:13:46.110787",
+      "updated_at": "2025-09-19T11:13:46.110789",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_04",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-15-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-15-01.pdf",
+      "file_size": 177027,
+      "created_at": "2025-09-19T11:13:46.112807",
+      "updated_at": "2025-09-19T11:13:46.112809",
+      "description": "SDG 지표 15 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_15"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-09-03-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-03-02.pdf",
+      "file_size": 217967,
+      "created_at": "2025-09-19T11:13:46.114784",
+      "updated_at": "2025-09-19T11:13:46.114786",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_09",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-08-05-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-05-01.pdf",
+      "file_size": 215172,
+      "created_at": "2025-09-19T11:13:46.116995",
+      "updated_at": "2025-09-19T11:13:46.117000",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_08",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-05-05-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-05-02.pdf",
+      "file_size": 214609,
+      "created_at": "2025-09-19T11:13:46.119543",
+      "updated_at": "2025-09-19T11:13:46.119549",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_05",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-02-01-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-01-02.pdf",
+      "file_size": 279514,
+      "created_at": "2025-09-19T11:13:46.121873",
+      "updated_at": "2025-09-19T11:13:46.121876",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_02",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-09-0A-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-0A-01.pdf",
+      "file_size": 131309,
+      "created_at": "2025-09-19T11:13:46.123951",
+      "updated_at": "2025-09-19T11:13:46.123953",
+      "description": "SDG 지표 0A 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_09",
+        "indicator_0A"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-01-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-01-02.pdf",
+      "file_size": 249280,
+      "created_at": "2025-09-19T11:13:46.125995",
+      "updated_at": "2025-09-19T11:13:46.125996",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-08-09-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-09-01.pdf",
+      "file_size": 256998,
+      "created_at": "2025-09-19T11:13:46.128455",
+      "updated_at": "2025-09-19T11:13:46.128457",
+      "description": "SDG 지표 09 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_08",
+        "indicator_09"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-11-05-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-05-02.pdf",
+      "file_size": 244206,
+      "created_at": "2025-09-19T11:13:46.130504",
+      "updated_at": "2025-09-19T11:13:46.130505",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_11",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-02-02-02b",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-02-02b.pdf",
+      "file_size": 241212,
+      "created_at": "2025-09-19T11:13:46.132673",
+      "updated_at": "2025-09-19T11:13:46.132675",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_02",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-05-05-01a",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-05-01a.pdf",
+      "file_size": 153333,
+      "created_at": "2025-09-19T11:13:46.134854",
+      "updated_at": "2025-09-19T11:13:46.134858",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_05",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-05-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-05-01.pdf",
+      "file_size": 224948,
+      "created_at": "2025-09-19T11:13:46.136977",
+      "updated_at": "2025-09-19T11:13:46.136979",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-02-05-01a",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-05-01a.pdf",
+      "file_size": 218063,
+      "created_at": "2025-09-19T11:13:46.139404",
+      "updated_at": "2025-09-19T11:13:46.139405",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_02",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-10-07-03",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-07-03.pdf",
+      "file_size": 260854,
+      "created_at": "2025-09-19T11:13:46.141472",
+      "updated_at": "2025-09-19T11:13:46.141473",
+      "description": "SDG 지표 07 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_10",
+        "indicator_07"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-11-01-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-01-01.pdf",
+      "file_size": 470281,
+      "created_at": "2025-09-19T11:13:46.143529",
+      "updated_at": "2025-09-19T11:13:46.143530",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_11",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-0a-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-0a-01.pdf",
+      "file_size": 278066,
+      "created_at": "2025-09-19T11:13:46.145672",
+      "updated_at": "2025-09-19T11:13:46.145674",
+      "description": "SDG 지표 0a 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_0a"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-05-01-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-01-01.pdf",
+      "file_size": 296341,
+      "created_at": "2025-09-19T11:13:46.147811",
+      "updated_at": "2025-09-19T11:13:46.147812",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_05",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-09-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-09-01.pdf",
+      "file_size": 183984,
+      "created_at": "2025-09-19T11:13:46.150405",
+      "updated_at": "2025-09-19T11:13:46.150409",
+      "description": "SDG 지표 09 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_09"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-12-03-01B",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-03-01B.pdf",
+      "file_size": 267420,
+      "created_at": "2025-09-19T11:13:46.152734",
+      "updated_at": "2025-09-19T11:13:46.152737",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_12",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-03-03",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-03-03.pdf",
+      "file_size": 195719,
+      "created_at": "2025-09-19T11:13:46.154917",
+      "updated_at": "2025-09-19T11:13:46.154918",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-03-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-03-02.pdf",
+      "file_size": 160410,
+      "created_at": "2025-09-19T11:13:46.157075",
+      "updated_at": "2025-09-19T11:13:46.157076",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-13-0b-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-13-0b-01.pdf",
+      "file_size": 199441,
+      "created_at": "2025-09-19T11:13:46.159261",
+      "updated_at": "2025-09-19T11:13:46.159263",
+      "description": "SDG 지표 0b 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_13",
+        "indicator_0b"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-01-02-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-02-01.pdf",
+      "file_size": 220208,
+      "created_at": "2025-09-19T11:13:46.161722",
+      "updated_at": "2025-09-19T11:13:46.161724",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_01",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-10-07-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-07-02.pdf",
+      "file_size": 326736,
+      "created_at": "2025-09-19T11:13:46.163882",
+      "updated_at": "2025-09-19T11:13:46.163883",
+      "description": "SDG 지표 07 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_10",
+        "indicator_07"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-07-0b-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-07-0b-01.pdf",
+      "file_size": 162612,
+      "created_at": "2025-09-19T11:13:46.166261",
+      "updated_at": "2025-09-19T11:13:46.166265",
+      "description": "SDG 지표 0b 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_07",
+        "indicator_0b"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-15-02-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-02-01.pdf",
+      "file_size": 313609,
+      "created_at": "2025-09-19T11:13:46.168580",
+      "updated_at": "2025-09-19T11:13:46.168582",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_15",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-12-06-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-06-01.pdf",
+      "file_size": 224352,
+      "created_at": "2025-09-19T11:13:46.171072",
+      "updated_at": "2025-09-19T11:13:46.171073",
+      "description": "SDG 지표 06 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_12",
+        "indicator_06"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-06-02-01a",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-02-01a.pdf",
+      "file_size": 216027,
+      "created_at": "2025-09-19T11:13:46.173355",
+      "updated_at": "2025-09-19T11:13:46.173357",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_06",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-03-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-03-02.pdf",
+      "file_size": 147122,
+      "created_at": "2025-09-19T11:13:46.175591",
+      "updated_at": "2025-09-19T11:13:46.175592",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-05-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-05-02.pdf",
+      "file_size": 157346,
+      "created_at": "2025-09-19T11:13:46.177846",
+      "updated_at": "2025-09-19T11:13:46.177847",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-02-05-01b",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-05-01b.pdf",
+      "file_size": 233500,
+      "created_at": "2025-09-19T11:13:46.180543",
+      "updated_at": "2025-09-19T11:13:46.180545",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_02",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-14-04-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-04-01.pdf",
+      "file_size": 261650,
+      "created_at": "2025-09-19T11:13:46.183071",
+      "updated_at": "2025-09-19T11:13:46.183076",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_14",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-08-01-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-01-01.pdf",
+      "file_size": 205715,
+      "created_at": "2025-09-19T11:13:46.185427",
+      "updated_at": "2025-09-19T11:13:46.185432",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_08",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-02-05-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-05-02.pdf",
+      "file_size": 273670,
+      "created_at": "2025-09-19T11:13:46.187786",
+      "updated_at": "2025-09-19T11:13:46.187787",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_02",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-12-03-01A",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-03-01A.pdf",
+      "file_size": 342106,
+      "created_at": "2025-09-19T11:13:46.190428",
+      "updated_at": "2025-09-19T11:13:46.190429",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_12",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-11-0c-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-0c-01.pdf",
+      "file_size": 260152,
+      "created_at": "2025-09-19T11:13:46.192717",
+      "updated_at": "2025-09-19T11:13:46.192718",
+      "description": "SDG 지표 0c 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_11",
+        "indicator_0c"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-03-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-03-01.pdf",
+      "file_size": 164713,
+      "created_at": "2025-09-19T11:13:46.195055",
+      "updated_at": "2025-09-19T11:13:46.195056",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-01-02-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-02-02.pdf",
+      "file_size": 752216,
+      "created_at": "2025-09-19T11:13:46.197378",
+      "updated_at": "2025-09-19T11:13:46.197380",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_01",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-04-07-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-07-01.pdf",
+      "file_size": 407701,
+      "created_at": "2025-09-19T11:13:46.199972",
+      "updated_at": "2025-09-19T11:13:46.199978",
+      "description": "SDG 지표 07 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_04",
+        "indicator_07"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-11-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-11-01.pdf",
+      "file_size": 221201,
+      "created_at": "2025-09-19T11:13:46.202602",
+      "updated_at": "2025-09-19T11:13:46.202604",
+      "description": "SDG 지표 11 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_11"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-10-07-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-07-01.pdf",
+      "file_size": 244031,
+      "created_at": "2025-09-19T11:13:46.204970",
+      "updated_at": "2025-09-19T11:13:46.204971",
+      "description": "SDG 지표 07 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_10",
+        "indicator_07"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-05-0c-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-0c-01.pdf",
+      "file_size": 304207,
+      "created_at": "2025-09-19T11:13:46.207395",
+      "updated_at": "2025-09-19T11:13:46.207397",
+      "description": "SDG 지표 0c 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_05",
+        "indicator_0c"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-03-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-03-01.pdf",
+      "file_size": 234813,
+      "created_at": "2025-09-19T11:13:46.209777",
+      "updated_at": "2025-09-19T11:13:46.209778",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-06-02-01b",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-02-01b.pdf",
+      "file_size": 204316,
+      "created_at": "2025-09-19T11:13:46.212145",
+      "updated_at": "2025-09-19T11:13:46.212146",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_06",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-07-02-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-07-02-01.pdf",
+      "file_size": 248793,
+      "created_at": "2025-09-19T11:13:46.214558",
+      "updated_at": "2025-09-19T11:13:46.214559",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_07",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-15-0B-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-0B-01.pdf",
+      "file_size": 216338,
+      "created_at": "2025-09-19T11:13:46.218417",
+      "updated_at": "2025-09-19T11:13:46.218422",
+      "description": "SDG 지표 0B 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_15",
+        "indicator_0B"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-05-03-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-03-02.pdf",
+      "file_size": 190040,
+      "created_at": "2025-09-19T11:13:46.221019",
+      "updated_at": "2025-09-19T11:13:46.221023",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_05",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-08-03-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-03-01.pdf",
+      "file_size": 205875,
+      "created_at": "2025-09-19T11:13:46.223463",
+      "updated_at": "2025-09-19T11:13:46.223465",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_08",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-14-06-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-06-01.pdf",
+      "file_size": 380432,
+      "created_at": "2025-09-19T11:13:46.226227",
+      "updated_at": "2025-09-19T11:13:46.226229",
+      "description": "SDG 지표 06 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_14",
+        "indicator_06"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-11-03-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-03-02.pdf",
+      "file_size": 282936,
+      "created_at": "2025-09-19T11:13:46.228732",
+      "updated_at": "2025-09-19T11:13:46.228734",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_11",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-01-01-01a",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-01-01a.pdf",
+      "file_size": 215574,
+      "created_at": "2025-09-19T11:13:46.231173",
+      "updated_at": "2025-09-19T11:13:46.231174",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_01",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-16-07-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-07-02.pdf",
+      "file_size": 419902,
+      "created_at": "2025-09-19T11:13:46.233928",
+      "updated_at": "2025-09-19T11:13:46.233931",
+      "description": "SDG 지표 07 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_16",
+        "indicator_07"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-03-05",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-03-05.pdf",
+      "file_size": 222401,
+      "created_at": "2025-09-19T11:13:46.236502",
+      "updated_at": "2025-09-19T11:13:46.236504",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-13-02-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-13-02-01.pdf",
+      "file_size": 182236,
+      "created_at": "2025-09-19T11:13:46.239341",
+      "updated_at": "2025-09-19T11:13:46.239343",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_13",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-01-0b-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-0b-01.pdf",
+      "file_size": 167181,
+      "created_at": "2025-09-19T11:13:46.241927",
+      "updated_at": "2025-09-19T11:13:46.241929",
+      "description": "SDG 지표 0b 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_01",
+        "indicator_0b"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-12-04-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-04-02.pdf",
+      "file_size": 276658,
+      "created_at": "2025-09-19T11:13:46.244658",
+      "updated_at": "2025-09-19T11:13:46.244661",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_12",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-03-04",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-03-04.pdf",
+      "file_size": 251115,
+      "created_at": "2025-09-19T11:13:46.247168",
+      "updated_at": "2025-09-19T11:13:46.247169",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-05-0a-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-0a-01.pdf",
+      "file_size": 500102,
+      "created_at": "2025-09-19T11:13:46.249796",
+      "updated_at": "2025-09-19T11:13:46.249799",
+      "description": "SDG 지표 0a 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_05",
+        "indicator_0a"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-01-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-01-01.pdf",
+      "file_size": 517415,
+      "created_at": "2025-09-19T11:13:46.252985",
+      "updated_at": "2025-09-19T11:13:46.252987",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-10-05-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-05-01.pdf",
+      "file_size": 295876,
+      "created_at": "2025-09-19T11:13:46.255565",
+      "updated_at": "2025-09-19T11:13:46.255567",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_10",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-08-02_NEW",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-08-02_NEW.pdf",
+      "file_size": 415210,
+      "created_at": "2025-09-19T11:13:46.258112",
+      "updated_at": "2025-09-19T11:13:46.258113",
+      "description": "SDG 지표 08 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_08"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-10-07-04",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-07-04.pdf",
+      "file_size": 408976,
+      "created_at": "2025-09-19T11:13:46.260676",
+      "updated_at": "2025-09-19T11:13:46.260677",
+      "description": "SDG 지표 07 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_10",
+        "indicator_07"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-09-05-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-05-02.pdf",
+      "file_size": 233607,
+      "created_at": "2025-09-19T11:13:46.263418",
+      "updated_at": "2025-09-19T11:13:46.263419",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_09",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-13-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-13-01.pdf",
+      "file_size": 270785,
+      "created_at": "2025-09-19T11:13:46.266237",
+      "updated_at": "2025-09-19T11:13:46.266243",
+      "description": "SDG 지표 13 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_13"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-04-05-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-05-01.pdf",
+      "file_size": 216185,
+      "created_at": "2025-09-19T11:13:46.269008",
+      "updated_at": "2025-09-19T11:13:46.269010",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_04",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-02-02-04b",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-02-04b.pdf",
+      "file_size": 334517,
+      "created_at": "2025-09-19T11:13:46.271659",
+      "updated_at": "2025-09-19T11:13:46.271661",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_02",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-11-0a-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-0a-01.pdf",
+      "file_size": 397009,
+      "created_at": "2025-09-19T11:13:46.274275",
+      "updated_at": "2025-09-19T11:13:46.274276",
+      "description": "SDG 지표 0a 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_11",
+        "indicator_0a"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-01-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-01-01.pdf",
+      "file_size": 313523,
+      "created_at": "2025-09-19T11:13:46.277143",
+      "updated_at": "2025-09-19T11:13:46.277144",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-06-04-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-04-02.pdf",
+      "file_size": 279234,
+      "created_at": "2025-09-19T11:13:46.279802",
+      "updated_at": "2025-09-19T11:13:46.279803",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_06",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-05-03-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-03-01.pdf",
+      "file_size": 187855,
+      "created_at": "2025-09-19T11:13:46.283217",
+      "updated_at": "2025-09-19T11:13:46.283226",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_05",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-11-03-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-03-01.pdf",
+      "file_size": 291245,
+      "created_at": "2025-09-19T11:13:46.286713",
+      "updated_at": "2025-09-19T11:13:46.286725",
+      "description": "SDG 지표 03 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_11",
+        "indicator_03"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-0C-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-0C-01.pdf",
+      "file_size": 183168,
+      "created_at": "2025-09-19T11:13:46.290443",
+      "updated_at": "2025-09-19T11:13:46.290447",
+      "description": "SDG 지표 0C 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_0C"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-01-01-01b",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-01-01b.pdf",
+      "file_size": 220807,
+      "created_at": "2025-09-19T11:13:46.293248",
+      "updated_at": "2025-09-19T11:13:46.293251",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_01",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-13-02-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-13-02-02.pdf",
+      "file_size": 152380,
+      "created_at": "2025-09-19T11:13:46.295937",
+      "updated_at": "2025-09-19T11:13:46.295939",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_13",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-12-04-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-04-01.pdf",
+      "file_size": 312975,
+      "created_at": "2025-09-19T11:13:46.298998",
+      "updated_at": "2025-09-19T11:13:46.299001",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_12",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-08-0a-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-0a-01.pdf",
+      "file_size": 184386,
+      "created_at": "2025-09-19T11:13:46.302096",
+      "updated_at": "2025-09-19T11:13:46.302101",
+      "description": "SDG 지표 0a 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_08",
+        "indicator_0a"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-05-0A-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-0A-02.pdf",
+      "file_size": 286686,
+      "created_at": "2025-09-19T11:13:46.305464",
+      "updated_at": "2025-09-19T11:13:46.305467",
+      "description": "SDG 지표 0A 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_05",
+        "indicator_0A"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-17-01-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-01-02.pdf",
+      "file_size": 209329,
+      "created_at": "2025-09-19T11:13:46.308441",
+      "updated_at": "2025-09-19T11:13:46.308443",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_17",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-09-05-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-05-01.pdf",
+      "file_size": 228776,
+      "created_at": "2025-09-19T11:13:46.311188",
+      "updated_at": "2025-09-19T11:13:46.311190",
+      "description": "SDG 지표 05 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_09",
+        "indicator_05"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-03-01-02",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-01-02.pdf",
+      "file_size": 200444,
+      "created_at": "2025-09-19T11:13:46.313913",
+      "updated_at": "2025-09-19T11:13:46.313914",
+      "description": "SDG 지표 01 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_03",
+        "indicator_01"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-12-08-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-08-01.pdf",
+      "file_size": 407367,
+      "created_at": "2025-09-19T11:13:46.317431",
+      "updated_at": "2025-09-19T11:13:46.317437",
+      "description": "SDG 지표 08 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_12",
+        "indicator_08"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-02-02-04a",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-02-04a.pdf",
+      "file_size": 293273,
+      "created_at": "2025-09-19T11:13:46.320258",
+      "updated_at": "2025-09-19T11:13:46.320261",
+      "description": "SDG 지표 02 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_02",
+        "indicator_02"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Metadata-06-04-01",
+      "data_source": "un_sdg",
+      "data_type": "metadata",
+      "version": "v1",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-04-01.pdf",
+      "file_size": 292648,
+      "created_at": "2025-09-19T11:13:46.323064",
+      "updated_at": "2025-09-19T11:13:46.323065",
+      "description": "SDG 지표 04 메타데이터",
+      "tags": [
+        "sdg",
+        "metadata",
+        "goal_06",
+        "indicator_04"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "Global-Indicator-Framework-after-2025-review-English.xlsx",
+      "data_source": "un_sdg",
+      "data_type": "framework",
+      "version": "v1",
+      "file_path": "data_sources/un_sdg/raw/framework/Global-Indicator-Framework-after-2025-review-English.xlsx",
+      "file_size": 45818,
+      "created_at": "2025-09-19T11:13:46.326115",
+      "updated_at": "2025-09-19T11:13:46.326117",
+      "description": "SDGs 글로벌 지표 프레임워크 (2025년 리뷰 후)",
+      "tags": [
+        "sdg",
+        "framework",
+        "indicators",
+        "global"
+      ],
+      "quality_score": null
     }
   ],
-  "last_updated": "2025-09-19T11:08:29.096972"
+  "last_updated": "2025-09-19T11:13:46.326813"
 }

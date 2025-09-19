@@ -1,0 +1,4667 @@
+{
+  "sdg_indicators": [
+    {
+      "indicator_id": "02",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "0B",
+      "goal_id": 4,
+      "title": "",
+      "description": "SDG 지표 0B 메타데이터"
+    },
+    {
+      "indicator_id": "06",
+      "goal_id": 11,
+      "title": "",
+      "description": "SDG 지표 06 메타데이터"
+    },
+    {
+      "indicator_id": "10",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 10 메타데이터"
+    },
+    {
+      "indicator_id": "06",
+      "goal_id": 6,
+      "title": "",
+      "description": "SDG 지표 06 메타데이터"
+    },
+    {
+      "indicator_id": "06",
+      "goal_id": 5,
+      "title": "",
+      "description": "SDG 지표 06 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 2,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "0B",
+      "goal_id": 10,
+      "title": "",
+      "description": "SDG 지표 0B 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "0a",
+      "goal_id": 14,
+      "title": "",
+      "description": "SDG 지표 0a 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 6,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 1,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "0a",
+      "goal_id": 1,
+      "title": "",
+      "description": "SDG 지표 0a 메타데이터"
+    },
+    {
+      "indicator_id": "09",
+      "goal_id": 15,
+      "title": "",
+      "description": "SDG 지표 09 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 15,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "08",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 08 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 12,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "0B",
+      "goal_id": 9,
+      "title": "",
+      "description": "SDG 지표 0B 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 14,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "06",
+      "goal_id": 11,
+      "title": "",
+      "description": "SDG 지표 06 메타데이터"
+    },
+    {
+      "indicator_id": "10",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 10 메타데이터"
+    },
+    {
+      "indicator_id": "06",
+      "goal_id": 6,
+      "title": "",
+      "description": "SDG 지표 06 메타데이터"
+    },
+    {
+      "indicator_id": "06",
+      "goal_id": 5,
+      "title": "",
+      "description": "SDG 지표 06 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 1,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "06",
+      "goal_id": 8,
+      "title": "",
+      "description": "SDG 지표 06 메타데이터"
+    },
+    {
+      "indicator_id": "0c",
+      "goal_id": 12,
+      "title": "",
+      "description": "SDG 지표 0c 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 2,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "08",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 08 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 1,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "16",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 16 메타데이터"
+    },
+    {
+      "indicator_id": "0a",
+      "goal_id": 1,
+      "title": "",
+      "description": "SDG 지표 0a 메타데이터"
+    },
+    {
+      "indicator_id": "08",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 08 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "0a",
+      "goal_id": 12,
+      "title": "",
+      "description": "SDG 지표 0a 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 8,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 14,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "0A",
+      "goal_id": 6,
+      "title": "",
+      "description": "SDG 지표 0A 메타데이터"
+    },
+    {
+      "indicator_id": "08",
+      "goal_id": 8,
+      "title": "",
+      "description": "SDG 지표 08 메타데이터"
+    },
+    {
+      "indicator_id": "0d",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 0d 메타데이터"
+    },
+    {
+      "indicator_id": "06",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 06 메타데이터"
+    },
+    {
+      "indicator_id": "0b",
+      "goal_id": 2,
+      "title": "",
+      "description": "SDG 지표 0b 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 10,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 9,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "0b",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 0b 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 4,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "14",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 14 메타데이터"
+    },
+    {
+      "indicator_id": "06",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 06 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 6,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 5,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 8,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "18",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 18 메타데이터"
+    },
+    {
+      "indicator_id": "08",
+      "goal_id": 8,
+      "title": "",
+      "description": "SDG 지표 08 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 11,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "0d",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 0d 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 1,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "18",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 18 메타데이터"
+    },
+    {
+      "indicator_id": "07",
+      "goal_id": 15,
+      "title": "",
+      "description": "SDG 지표 07 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 9,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 4,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "0c",
+      "goal_id": 14,
+      "title": "",
+      "description": "SDG 지표 0c 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 6,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "06",
+      "goal_id": 4,
+      "title": "",
+      "description": "SDG 지표 06 메타데이터"
+    },
+    {
+      "indicator_id": "10",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 10 메타데이터"
+    },
+    {
+      "indicator_id": "19",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 19 메타데이터"
+    },
+    {
+      "indicator_id": "0b",
+      "goal_id": 11,
+      "title": "",
+      "description": "SDG 지표 0b 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "0B",
+      "goal_id": 5,
+      "title": "",
+      "description": "SDG 지표 0B 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "06",
+      "goal_id": 10,
+      "title": "",
+      "description": "SDG 지표 06 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 14,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 13,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "0a",
+      "goal_id": 1,
+      "title": "",
+      "description": "SDG 지표 0a 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 7,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "0a",
+      "goal_id": 15,
+      "title": "",
+      "description": "SDG 지표 0a 메타데이터"
+    },
+    {
+      "indicator_id": "0b",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 0b 메타데이터"
+    },
+    {
+      "indicator_id": "19",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 19 메타데이터"
+    },
+    {
+      "indicator_id": "0b",
+      "goal_id": 11,
+      "title": "",
+      "description": "SDG 지표 0b 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "0b",
+      "goal_id": 8,
+      "title": "",
+      "description": "SDG 지표 0b 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 13,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "07",
+      "goal_id": 12,
+      "title": "",
+      "description": "SDG 지표 07 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 15,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 13,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 2,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 7,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "08",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 08 메타데이터"
+    },
+    {
+      "indicator_id": "0a",
+      "goal_id": 7,
+      "title": "",
+      "description": "SDG 지표 0a 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 15,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 10,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 12,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 6,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 9,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "0a",
+      "goal_id": 13,
+      "title": "",
+      "description": "SDG 지표 0a 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 5,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "10",
+      "goal_id": 8,
+      "title": "",
+      "description": "SDG 지표 10 메타데이터"
+    },
+    {
+      "indicator_id": "06",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 06 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 11,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "0b",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 0b 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 15,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 10,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "0B",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 0B 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 2,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 6,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "12",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 12 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 4,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 8,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 5,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 7,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "0C",
+      "goal_id": 15,
+      "title": "",
+      "description": "SDG 지표 0C 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 13,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "10",
+      "goal_id": 8,
+      "title": "",
+      "description": "SDG 지표 10 메타데이터"
+    },
+    {
+      "indicator_id": "06",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 06 메타데이터"
+    },
+    {
+      "indicator_id": "0B",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 0B 메타데이터"
+    },
+    {
+      "indicator_id": "06",
+      "goal_id": 4,
+      "title": "",
+      "description": "SDG 지표 06 메타데이터"
+    },
+    {
+      "indicator_id": "07",
+      "goal_id": 14,
+      "title": "",
+      "description": "SDG 지표 07 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 1,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "17",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 17 메타데이터"
+    },
+    {
+      "indicator_id": "0A",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 0A 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 4,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 9,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 1,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "09",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 09 메타데이터"
+    },
+    {
+      "indicator_id": "18",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 18 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "09",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 09 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 15,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "0A",
+      "goal_id": 2,
+      "title": "",
+      "description": "SDG 지표 0A 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 10,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "07",
+      "goal_id": 11,
+      "title": "",
+      "description": "SDG 지표 07 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 14,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "0B",
+      "goal_id": 6,
+      "title": "",
+      "description": "SDG 지표 0B 메타데이터"
+    },
+    {
+      "indicator_id": "0C",
+      "goal_id": 9,
+      "title": "",
+      "description": "SDG 지표 0C 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 2,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "07",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 07 메타데이터"
+    },
+    {
+      "indicator_id": "07",
+      "goal_id": 8,
+      "title": "",
+      "description": "SDG 지표 07 메타데이터"
+    },
+    {
+      "indicator_id": "0b",
+      "goal_id": 12,
+      "title": "",
+      "description": "SDG 지표 0b 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 1,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 4,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "08",
+      "goal_id": 15,
+      "title": "",
+      "description": "SDG 지표 08 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 9,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 1,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "07",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 07 메타데이터"
+    },
+    {
+      "indicator_id": "18",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 18 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "09",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 09 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 15,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "0A",
+      "goal_id": 2,
+      "title": "",
+      "description": "SDG 지표 0A 메타데이터"
+    },
+    {
+      "indicator_id": "07",
+      "goal_id": 11,
+      "title": "",
+      "description": "SDG 지표 07 메타데이터"
+    },
+    {
+      "indicator_id": "09",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 09 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "0c",
+      "goal_id": 4,
+      "title": "",
+      "description": "SDG 지표 0c 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 2,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "0C",
+      "goal_id": 10,
+      "title": "",
+      "description": "SDG 지표 0C 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "07",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 07 메타데이터"
+    },
+    {
+      "indicator_id": "06",
+      "goal_id": 15,
+      "title": "",
+      "description": "SDG 지표 06 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 12,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "0b",
+      "goal_id": 14,
+      "title": "",
+      "description": "SDG 지표 0b 메타데이터"
+    },
+    {
+      "indicator_id": "07",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 07 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 9,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 8,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 2,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "0A",
+      "goal_id": 10,
+      "title": "",
+      "description": "SDG 지표 0A 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "0A",
+      "goal_id": 4,
+      "title": "",
+      "description": "SDG 지표 0A 메타데이터"
+    },
+    {
+      "indicator_id": "09",
+      "goal_id": 8,
+      "title": "",
+      "description": "SDG 지표 09 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 2,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 11,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 5,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "19",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 19 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 11,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "0C",
+      "goal_id": 2,
+      "title": "",
+      "description": "SDG 지표 0C 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 10,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "07",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 07 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 12,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "07",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 07 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 4,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "15",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 15 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 9,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 8,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 5,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 2,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "0A",
+      "goal_id": 9,
+      "title": "",
+      "description": "SDG 지표 0A 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "09",
+      "goal_id": 8,
+      "title": "",
+      "description": "SDG 지표 09 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 11,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 2,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 5,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 2,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "07",
+      "goal_id": 10,
+      "title": "",
+      "description": "SDG 지표 07 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 11,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "0a",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 0a 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 5,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "09",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 09 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 12,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "0b",
+      "goal_id": 13,
+      "title": "",
+      "description": "SDG 지표 0b 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 1,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "07",
+      "goal_id": 10,
+      "title": "",
+      "description": "SDG 지표 07 메타데이터"
+    },
+    {
+      "indicator_id": "0b",
+      "goal_id": 7,
+      "title": "",
+      "description": "SDG 지표 0b 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 15,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "06",
+      "goal_id": 12,
+      "title": "",
+      "description": "SDG 지표 06 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 6,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 2,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 14,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 8,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 2,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 12,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "0c",
+      "goal_id": 11,
+      "title": "",
+      "description": "SDG 지표 0c 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 1,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "07",
+      "goal_id": 4,
+      "title": "",
+      "description": "SDG 지표 07 메타데이터"
+    },
+    {
+      "indicator_id": "11",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 11 메타데이터"
+    },
+    {
+      "indicator_id": "07",
+      "goal_id": 10,
+      "title": "",
+      "description": "SDG 지표 07 메타데이터"
+    },
+    {
+      "indicator_id": "0c",
+      "goal_id": 5,
+      "title": "",
+      "description": "SDG 지표 0c 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 6,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 7,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "0B",
+      "goal_id": 15,
+      "title": "",
+      "description": "SDG 지표 0B 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 5,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 8,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "06",
+      "goal_id": 14,
+      "title": "",
+      "description": "SDG 지표 06 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 11,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 1,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "07",
+      "goal_id": 16,
+      "title": "",
+      "description": "SDG 지표 07 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 13,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "0b",
+      "goal_id": 1,
+      "title": "",
+      "description": "SDG 지표 0b 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 12,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "0a",
+      "goal_id": 5,
+      "title": "5a1 Metadata",
+      "description": "SDG 지표 0a 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 10,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "08",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 08 메타데이터"
+    },
+    {
+      "indicator_id": "07",
+      "goal_id": 10,
+      "title": "",
+      "description": "SDG 지표 07 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 9,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "13",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 13 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 4,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 2,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "0a",
+      "goal_id": 11,
+      "title": "",
+      "description": "SDG 지표 0a 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 6,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 5,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "03",
+      "goal_id": 11,
+      "title": "",
+      "description": "SDG 지표 03 메타데이터"
+    },
+    {
+      "indicator_id": "0C",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 0C 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 1,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 13,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 12,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    },
+    {
+      "indicator_id": "0a",
+      "goal_id": 8,
+      "title": "",
+      "description": "SDG 지표 0a 메타데이터"
+    },
+    {
+      "indicator_id": "0A",
+      "goal_id": 5,
+      "title": "",
+      "description": "SDG 지표 0A 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 17,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "05",
+      "goal_id": 9,
+      "title": "",
+      "description": "SDG 지표 05 메타데이터"
+    },
+    {
+      "indicator_id": "01",
+      "goal_id": 3,
+      "title": "",
+      "description": "SDG 지표 01 메타데이터"
+    },
+    {
+      "indicator_id": "08",
+      "goal_id": 12,
+      "title": "",
+      "description": "SDG 지표 08 메타데이터"
+    },
+    {
+      "indicator_id": "02",
+      "goal_id": 2,
+      "title": "",
+      "description": "SDG 지표 02 메타데이터"
+    },
+    {
+      "indicator_id": "04",
+      "goal_id": 6,
+      "title": "",
+      "description": "SDG 지표 04 메타데이터"
+    }
+  ],
+  "sdg_metadata_files": [
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-16-02-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-02-01.pdf",
+      "file_size_bytes": 182795,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0B",
+      "filename": "Metadata-04-0B-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-0B-01.pdf",
+      "file_size_bytes": 131096,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 4,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "06",
+      "filename": "Metadata-11-06-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-06-01.pdf",
+      "file_size_bytes": 735299,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 19,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "10",
+      "filename": "Metadata-16-10-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-10-01.pdf",
+      "file_size_bytes": 273536,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 11,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "06",
+      "filename": "Metadata-06-06-01a",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-06-01a.pdf",
+      "file_size_bytes": 511978,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 24,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "06",
+      "filename": "Metadata-05-06-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-06-01.pdf",
+      "file_size_bytes": 156516,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-02-02-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-02-01.pdf",
+      "file_size_bytes": 250073,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 10,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0B",
+      "filename": "Metadata-10-0B-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-0B-01.pdf",
+      "file_size_bytes": 124802,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 4,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-03-04-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-04-02.pdf",
+      "file_size_bytes": 205115,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0a",
+      "filename": "Metadata-14-0a-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-0a-01.pdf",
+      "file_size_bytes": 275532,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-06-01-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-01-01.pdf",
+      "file_size_bytes": 229833,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 10,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-01-05-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-05-01.pdf",
+      "file_size_bytes": 245442,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0a",
+      "filename": "Metadata-01-0a-02b",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-0a-02b.pdf",
+      "file_size_bytes": 262850,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "09",
+      "filename": "Metadata-15-09-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-09-01.pdf",
+      "file_size_bytes": 249388,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 10,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-15-05-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-05-01.pdf",
+      "file_size_bytes": 272901,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 14,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "08",
+      "filename": "Metadata-03-08-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-08-02.pdf",
+      "file_size_bytes": 386232,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 12,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-12-01-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-01-01.pdf",
+      "file_size_bytes": 296437,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-16-02-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-02-02.pdf",
+      "file_size_bytes": 188166,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0B",
+      "filename": "Metadata-09-0B-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-0B-01.pdf",
+      "file_size_bytes": 236400,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-14-03-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-03-01.pdf",
+      "file_size_bytes": 362534,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 12,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "06",
+      "filename": "Metadata-11-06-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-06-02.pdf",
+      "file_size_bytes": 214218,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "10",
+      "filename": "Metadata-16-10-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-10-02.pdf",
+      "file_size_bytes": 310687,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 13,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "06",
+      "filename": "Metadata-06-06-01b",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-06-01b.pdf",
+      "file_size_bytes": 305579,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 14,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "06",
+      "filename": "Metadata-05-06-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-06-02.pdf",
+      "file_size_bytes": 259821,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 9,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-01-05-03",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-05-03.pdf",
+      "file_size_bytes": 226514,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "06",
+      "filename": "Metadata-08-06-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-06-01.pdf",
+      "file_size_bytes": 221753,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0c",
+      "filename": "Metadata-12-0c-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-0c-01.pdf",
+      "file_size_bytes": 191977,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-02-02-03",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-02-03.pdf",
+      "file_size_bytes": 168188,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-03-04-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-04-01.pdf",
+      "file_size_bytes": 174771,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "08",
+      "filename": "Metadata-17-08-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-08-01.pdf",
+      "file_size_bytes": 145606,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-01-05-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-05-02.pdf",
+      "file_size_bytes": 243929,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "16",
+      "filename": "Metadata-17-16-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-16-01.pdf",
+      "file_size_bytes": 255244,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 9,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0a",
+      "filename": "Metadata-01-0a-02a",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-0a-02a.pdf",
+      "file_size_bytes": 215448,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "08",
+      "filename": "Metadata-03-08-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-08-01.pdf",
+      "file_size_bytes": 390106,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 24,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-17-04-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-04-01.pdf",
+      "file_size_bytes": 148515,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-16-02-03",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-02-03.pdf",
+      "file_size_bytes": 221594,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0a",
+      "filename": "Metadata-12-0a-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-0a-01.pdf",
+      "file_size_bytes": 162437,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-08-04-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-04-01.pdf",
+      "file_size_bytes": 225029,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-14-01-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-01-01.pdf",
+      "file_size_bytes": 334756,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 10,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0A",
+      "filename": "Metadata-06-0A-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-0A-01.pdf",
+      "file_size_bytes": 160652,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "08",
+      "filename": "Metadata-08-08-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-08-01.pdf",
+      "file_size_bytes": 216137,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0d",
+      "filename": "Metadata-03-0d-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-0d-02.pdf",
+      "file_size_bytes": 209055,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "06",
+      "filename": "Metadata-17-06-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-06-01.pdf",
+      "file_size_bytes": 142791,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0b",
+      "filename": "Metadata-02-0b-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-0b-01.pdf",
+      "file_size_bytes": 145857,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-10-02-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-02-01.pdf",
+      "file_size_bytes": 200568,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-09-02-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-02-02.pdf",
+      "file_size_bytes": 206651,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0b",
+      "filename": "Metadata-16-0b-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-0b-01.pdf",
+      "file_size_bytes": 257336,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-04-02-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-02-01.pdf",
+      "file_size_bytes": 192662,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "14",
+      "filename": "Metadata-17-14-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-14-01.pdf",
+      "file_size_bytes": 238250,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "06",
+      "filename": "Metadata-03-06-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-06-01.pdf",
+      "file_size_bytes": 209223,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-06-03-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-03-02.pdf",
+      "file_size_bytes": 251652,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 9,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-05-04-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-04-01.pdf",
+      "file_size_bytes": 293427,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 9,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-08-04-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-04-02.pdf",
+      "file_size_bytes": 204769,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "18",
+      "filename": "Metadata-17-18-03",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-18-03.pdf",
+      "file_size_bytes": 132897,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 4,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "08",
+      "filename": "Metadata-08-08-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-08-02.pdf",
+      "file_size_bytes": 278775,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 9,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-11-04-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-04-01.pdf",
+      "file_size_bytes": 338731,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 11,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0d",
+      "filename": "Metadata-03-0d-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-0d-01.pdf",
+      "file_size_bytes": 339913,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 9,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-01-05-04",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-05-04.pdf",
+      "file_size_bytes": 156760,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "18",
+      "filename": "Metadata-17-18-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-18-02.pdf",
+      "file_size_bytes": 138110,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "07",
+      "filename": "Metadata-15-07-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-07-01.pdf",
+      "file_size_bytes": 203251,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-09-02-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-02-01.pdf",
+      "file_size_bytes": 187735,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-04-02-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-02-02.pdf",
+      "file_size_bytes": 241613,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0c",
+      "filename": "Metadata-14-0c-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-0c-01.pdf",
+      "file_size_bytes": 218981,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-06-03-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-03-01.pdf",
+      "file_size_bytes": 358066,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 14,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "06",
+      "filename": "Metadata-04-06-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-06-01.pdf",
+      "file_size_bytes": 255154,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "10",
+      "filename": "Metadata-17-10-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-10-01.pdf",
+      "file_size_bytes": 158538,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "19",
+      "filename": "Metadata-17-19-02b",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-19-02b.pdf",
+      "file_size_bytes": 180239,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0b",
+      "filename": "Metadata-11-0b-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-0b-01.pdf",
+      "file_size_bytes": 226795,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-03-02-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-02-01.pdf",
+      "file_size_bytes": 218244,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0B",
+      "filename": "Metadata-05-0B-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-0B-01.pdf",
+      "file_size_bytes": 181364,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-17-02-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-02-01.pdf",
+      "file_size_bytes": 131124,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 4,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "06",
+      "filename": "Metadata-10-06-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-06-01.pdf",
+      "file_size_bytes": 188160,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-14-05-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-05-01.pdf",
+      "file_size_bytes": 274956,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 15,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-13-01-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-13-01-01.pdf",
+      "file_size_bytes": 245177,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0a",
+      "filename": "Metadata-01-0a-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-0a-01.pdf",
+      "file_size_bytes": 168497,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-16-04-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-04-02.pdf",
+      "file_size_bytes": 261853,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-07-01-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-07-01-01.pdf",
+      "file_size_bytes": 207205,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0a",
+      "filename": "Metadata-15-0a-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-0a-01.pdf",
+      "file_size_bytes": 215105,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0b",
+      "filename": "Metadata-03-0b-03_NEW",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-0b-03_NEW.pdf",
+      "file_size_bytes": 301134,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 11,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "19",
+      "filename": "Metadata-17-19-02a",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-19-02a.pdf",
+      "file_size_bytes": 127567,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 4,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0b",
+      "filename": "Metadata-11-0b-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-0b-02.pdf",
+      "file_size_bytes": 195838,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-03-02-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-02-02.pdf",
+      "file_size_bytes": 192510,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0b",
+      "filename": "Metadata-08-0b-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-0b-01.pdf",
+      "file_size_bytes": 239633,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-13-01-03",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-13-01-03.pdf",
+      "file_size_bytes": 156688,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "07",
+      "filename": "Metadata-12-07-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-07-01.pdf",
+      "file_size_bytes": 315693,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 9,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-15-03-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-03-01.pdf",
+      "file_size_bytes": 687222,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 15,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-13-01-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-13-01-02.pdf",
+      "file_size_bytes": 226359,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-16-04-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-04-01.pdf",
+      "file_size_bytes": 440588,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 16,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-02-04-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-04-01.pdf",
+      "file_size_bytes": 472190,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 27,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-07-01-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-07-01-02.pdf",
+      "file_size_bytes": 361568,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 10,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "08",
+      "filename": "Metadata-16-08-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-08-01.pdf",
+      "file_size_bytes": 187968,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0a",
+      "filename": "Metadata-07-0a-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-07-0a-01.pdf",
+      "file_size_bytes": 151083,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-15-01-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-01-01.pdf",
+      "file_size_bytes": 241977,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-10-04-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-04-02.pdf",
+      "file_size_bytes": 438644,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 11,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-12-05-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-05-01.pdf",
+      "file_size_bytes": 241137,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-06-05-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-05-01.pdf",
+      "file_size_bytes": 236819,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 11,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-09-04-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-04-01.pdf",
+      "file_size_bytes": 272097,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 9,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0a",
+      "filename": "Metadata-13-0a-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-13-0a-01.pdf",
+      "file_size_bytes": 201228,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-05-02-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-02-01.pdf",
+      "file_size_bytes": 263657,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 12,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "10",
+      "filename": "Metadata-08-10-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-10-02.pdf",
+      "file_size_bytes": 169139,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "06",
+      "filename": "Metadata-16-06-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-06-01.pdf",
+      "file_size_bytes": 172919,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-11-02-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-02-01.pdf",
+      "file_size_bytes": 336601,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 15,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0b",
+      "filename": "Metadata-03-0b-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-0b-01.pdf",
+      "file_size_bytes": 239532,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-15-01-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-01-02.pdf",
+      "file_size_bytes": 277372,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 15,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-10-04-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-04-01.pdf",
+      "file_size_bytes": 203145,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0B",
+      "filename": "Metadata-03-0B-03",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-0B-03.pdf",
+      "file_size_bytes": 790398,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 30,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-02-04-01proxy",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-04-01proxy.pdf",
+      "file_size_bytes": 395573,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 16,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-06-05-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-05-02.pdf",
+      "file_size_bytes": 256700,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 11,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "12",
+      "filename": "Metadata-17-12-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-12-01.pdf",
+      "file_size_bytes": 139302,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-04-04-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-04-01.pdf",
+      "file_size_bytes": 255509,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-08-02-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-02-01.pdf",
+      "file_size_bytes": 217448,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-05-02-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-02-02.pdf",
+      "file_size_bytes": 182590,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-07-03-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-07-03-01.pdf",
+      "file_size_bytes": 215283,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0C",
+      "filename": "Metadata-15-0C-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-0C-01.pdf",
+      "file_size_bytes": 203377,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-13-03-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-13-03-01.pdf",
+      "file_size_bytes": 407369,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 17,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "10",
+      "filename": "Metadata-08-10-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-10-01.pdf",
+      "file_size_bytes": 258979,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "06",
+      "filename": "Metadata-16-06-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-06-02.pdf",
+      "file_size_bytes": 435163,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 19,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0B",
+      "filename": "Metadata-03-0B-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-0B-02.pdf",
+      "file_size_bytes": 174354,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 4,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "06",
+      "filename": "Metadata-04-06-01_NEW",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-06-01_NEW.pdf",
+      "file_size_bytes": 251886,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "07",
+      "filename": "Metadata-14-07-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-07-01.pdf",
+      "file_size_bytes": 317959,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 11,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-01-03-01a",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-03-01a.pdf",
+      "file_size_bytes": 162466,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "17",
+      "filename": "Metadata-17-17-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-17-01.pdf",
+      "file_size_bytes": 212989,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0A",
+      "filename": "Metadata-16-0A-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-0A-01.pdf",
+      "file_size_bytes": 157408,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-04-01-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-01-01.pdf",
+      "file_size_bytes": 272224,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-09-01-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-01-02.pdf",
+      "file_size_bytes": 555165,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 14,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-01-04-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-04-02.pdf",
+      "file_size_bytes": 626670,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 21,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "09",
+      "filename": "Metadata-17-09-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-09-01.pdf",
+      "file_size_bytes": 153566,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 4,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "18",
+      "filename": "Metadata-17-18-01b",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-18-01b.pdf",
+      "file_size_bytes": 279700,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 13,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-03-05-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-05-01.pdf",
+      "file_size_bytes": 290555,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 12,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-17-05-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-05-01.pdf",
+      "file_size_bytes": 263009,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-16-03-03",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-03-03.pdf",
+      "file_size_bytes": 275749,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 9,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "09",
+      "filename": "Metadata-03-09-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-09-01.pdf",
+      "file_size_bytes": 260043,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 9,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-15-04-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-04-02.pdf",
+      "file_size_bytes": 392793,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 13,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0A",
+      "filename": "Metadata-02-0A-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-0A-01.pdf",
+      "file_size_bytes": 331523,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 10,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-10-01-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-01-01.pdf",
+      "file_size_bytes": 193121,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "07",
+      "filename": "Metadata-11-07-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-07-02.pdf",
+      "file_size_bytes": 295173,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 10,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-14-02-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-02-01.pdf",
+      "file_size_bytes": 155242,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0B",
+      "filename": "Metadata-06-0B-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-0B-01.pdf",
+      "file_size_bytes": 159049,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0C",
+      "filename": "Metadata-09-0C-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-0C-01.pdf",
+      "file_size_bytes": 184361,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-16-03-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-03-02.pdf",
+      "file_size_bytes": 192916,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-02-03-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-03-02.pdf",
+      "file_size_bytes": 242468,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "07",
+      "filename": "Metadata-16-07-01A",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-07-01A.pdf",
+      "file_size_bytes": 497019,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 21,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "07",
+      "filename": "Metadata-08-07-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-07-01.pdf",
+      "file_size_bytes": 236577,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0b",
+      "filename": "Metadata-12-0b-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-0b-01.pdf",
+      "file_size_bytes": 238165,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-01-03-01b",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-03-01b.pdf",
+      "file_size_bytes": 233324,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-04-01-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-01-02.pdf",
+      "file_size_bytes": 243567,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "08",
+      "filename": "Metadata-15-08-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-08-01.pdf",
+      "file_size_bytes": 219413,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 10,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-09-01-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-01-01.pdf",
+      "file_size_bytes": 182118,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-01-04-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-04-01.pdf",
+      "file_size_bytes": 316302,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 10,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "07",
+      "filename": "Metadata-16-07-01c",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-07-01c.pdf",
+      "file_size_bytes": 509089,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 17,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "18",
+      "filename": "Metadata-17-18-01a",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-18-01a.pdf",
+      "file_size_bytes": 228608,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 9,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-03-05-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-05-02.pdf",
+      "file_size_bytes": 152777,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "09",
+      "filename": "Metadata-03-09-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-09-02.pdf",
+      "file_size_bytes": 243105,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-15-04-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-04-01.pdf",
+      "file_size_bytes": 275939,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 15,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0A",
+      "filename": "Metadata-02-0A-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-0A-02.pdf",
+      "file_size_bytes": 139208,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "07",
+      "filename": "Metadata-11-07-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-07-01.pdf",
+      "file_size_bytes": 297197,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 15,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "09",
+      "filename": "Metadata-03-09-03",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-09-03.pdf",
+      "file_size_bytes": 164734,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-16-03-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-03-01.pdf",
+      "file_size_bytes": 329467,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 13,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0c",
+      "filename": "Metadata-04-0c-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-0c-01.pdf",
+      "file_size_bytes": 248696,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-02-03-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-03-01.pdf",
+      "file_size_bytes": 232466,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0C",
+      "filename": "Metadata-10-0C-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-0C-01.pdf",
+      "file_size_bytes": 206196,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-16-01-04",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-01-04.pdf",
+      "file_size_bytes": 232401,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "07",
+      "filename": "Metadata-16-07-01b",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-07-01b.pdf",
+      "file_size_bytes": 522793,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 20,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "06",
+      "filename": "Metadata-15-06-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-06-01.pdf",
+      "file_size_bytes": 220451,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 9,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-12-02-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-02-01.pdf",
+      "file_size_bytes": 224206,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0b",
+      "filename": "Metadata-14-0b-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-0b-01.pdf",
+      "file_size_bytes": 289886,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 9,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "07",
+      "filename": "Metadata-03-07-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-07-02.pdf",
+      "file_size_bytes": 206346,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 10,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-09-03-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-03-01.pdf",
+      "file_size_bytes": 248113,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-08-05-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-05-02.pdf",
+      "file_size_bytes": 216775,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-02-01-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-01-01.pdf",
+      "file_size_bytes": 296252,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 13,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0A",
+      "filename": "Metadata-10-0A-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-0A-01.pdf",
+      "file_size_bytes": 135308,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-16-01-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-01-01.pdf",
+      "file_size_bytes": 202256,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0A",
+      "filename": "Metadata-04-0A-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-0A-01.pdf",
+      "file_size_bytes": 264214,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 11,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "09",
+      "filename": "Metadata-08-09-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-09-02.pdf",
+      "file_size_bytes": 332646,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 13,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-02-02-02a",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-02-02a.pdf",
+      "file_size_bytes": 248109,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 10,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-11-05-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-05-01.pdf",
+      "file_size_bytes": 245638,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-05-05-01b",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-05-01b.pdf",
+      "file_size_bytes": 249425,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "19",
+      "filename": "Metadata-17-19-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-19-01.pdf",
+      "file_size_bytes": 134248,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-11-05-03",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-05-03.pdf",
+      "file_size_bytes": 232448,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0C",
+      "filename": "Metadata-02-0C-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-0C-01.pdf",
+      "file_size_bytes": 239008,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-10-03-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-03-01.pdf",
+      "file_size_bytes": 257296,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-16-01-03",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-01-03.pdf",
+      "file_size_bytes": 307419,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 13,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "07",
+      "filename": "Metadata-17-07-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-07-01.pdf",
+      "file_size_bytes": 173241,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-12-02-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-02-02.pdf",
+      "file_size_bytes": 204201,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "07",
+      "filename": "Metadata-03-07-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-07-01.pdf",
+      "file_size_bytes": 300204,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 10,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-04-03-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-03-01.pdf",
+      "file_size_bytes": 222452,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "15",
+      "filename": "Metadata-17-15-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-15-01.pdf",
+      "file_size_bytes": 177027,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-09-03-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-03-02.pdf",
+      "file_size_bytes": 217967,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-08-05-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-05-01.pdf",
+      "file_size_bytes": 215172,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-05-05-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-05-02.pdf",
+      "file_size_bytes": 214609,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-02-01-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-01-02.pdf",
+      "file_size_bytes": 279514,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 11,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0A",
+      "filename": "Metadata-09-0A-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-0A-01.pdf",
+      "file_size_bytes": 131309,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 4,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-16-01-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-01-02.pdf",
+      "file_size_bytes": 249280,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "09",
+      "filename": "Metadata-08-09-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-09-01.pdf",
+      "file_size_bytes": 256998,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-11-05-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-05-02.pdf",
+      "file_size_bytes": 244206,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-02-02-02b",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-02-02b.pdf",
+      "file_size_bytes": 241212,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 9,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-05-05-01a",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-05-01a.pdf",
+      "file_size_bytes": 153333,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-16-05-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-05-01.pdf",
+      "file_size_bytes": 224948,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-02-05-01a",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-05-01a.pdf",
+      "file_size_bytes": 218063,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "07",
+      "filename": "Metadata-10-07-03",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-07-03.pdf",
+      "file_size_bytes": 260854,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 11,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-11-01-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-01-01.pdf",
+      "file_size_bytes": 470281,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 15,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0a",
+      "filename": "Metadata-03-0a-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-0a-01.pdf",
+      "file_size_bytes": 278066,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-05-01-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-01-01.pdf",
+      "file_size_bytes": 296341,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 10,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "09",
+      "filename": "Metadata-16-09-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-09-01.pdf",
+      "file_size_bytes": 183984,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-12-03-01B",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-03-01B.pdf",
+      "file_size_bytes": 267420,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-03-03-03",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-03-03.pdf",
+      "file_size_bytes": 195719,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-03-03-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-03-02.pdf",
+      "file_size_bytes": 160410,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0b",
+      "filename": "Metadata-13-0b-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-13-0b-01.pdf",
+      "file_size_bytes": 199441,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-01-02-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-02-01.pdf",
+      "file_size_bytes": 220208,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "07",
+      "filename": "Metadata-10-07-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-07-02.pdf",
+      "file_size_bytes": 326736,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 10,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0b",
+      "filename": "Metadata-07-0b-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-07-0b-01.pdf",
+      "file_size_bytes": 162612,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-15-02-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-02-01.pdf",
+      "file_size_bytes": 313609,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 14,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "06",
+      "filename": "Metadata-12-06-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-06-01.pdf",
+      "file_size_bytes": 224352,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 9,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-06-02-01a",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-02-01a.pdf",
+      "file_size_bytes": 216027,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 11,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-17-03-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-03-02.pdf",
+      "file_size_bytes": 147122,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-16-05-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-05-02.pdf",
+      "file_size_bytes": 157346,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-02-05-01b",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-05-01b.pdf",
+      "file_size_bytes": 233500,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-14-04-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-04-01.pdf",
+      "file_size_bytes": 261650,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 13,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-08-01-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-01-01.pdf",
+      "file_size_bytes": 205715,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-02-05-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-05-02.pdf",
+      "file_size_bytes": 273670,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-12-03-01A",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-03-01A.pdf",
+      "file_size_bytes": 342106,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 12,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0c",
+      "filename": "Metadata-11-0c-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-0c-01.pdf",
+      "file_size_bytes": 260152,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 9,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-03-03-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-03-01.pdf",
+      "file_size_bytes": 164713,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-01-02-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-02-02.pdf",
+      "file_size_bytes": 752216,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 25,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "07",
+      "filename": "Metadata-04-07-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-07-01.pdf",
+      "file_size_bytes": 407701,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 17,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "11",
+      "filename": "Metadata-17-11-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-11-01.pdf",
+      "file_size_bytes": 221201,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "07",
+      "filename": "Metadata-10-07-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-07-01.pdf",
+      "file_size_bytes": 244031,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0c",
+      "filename": "Metadata-05-0c-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-0c-01.pdf",
+      "file_size_bytes": 304207,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 11,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-17-03-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-03-01.pdf",
+      "file_size_bytes": 234813,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 9,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-06-02-01b",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-02-01b.pdf",
+      "file_size_bytes": 204316,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 10,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-07-02-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-07-02-01.pdf",
+      "file_size_bytes": 248793,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0B",
+      "filename": "Metadata-15-0B-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-15-0B-01.pdf",
+      "file_size_bytes": 216338,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-05-03-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-03-02.pdf",
+      "file_size_bytes": 190040,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-08-03-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-03-01.pdf",
+      "file_size_bytes": 205875,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "06",
+      "filename": "Metadata-14-06-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-14-06-01.pdf",
+      "file_size_bytes": 380432,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 14,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-11-03-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-03-02.pdf",
+      "file_size_bytes": 282936,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 10,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-01-01-01a",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-01-01a.pdf",
+      "file_size_bytes": 215574,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "07",
+      "filename": "Metadata-16-07-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-16-07-02.pdf",
+      "file_size_bytes": 419902,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 14,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-03-03-05",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-03-05.pdf",
+      "file_size_bytes": 222401,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-13-02-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-13-02-01.pdf",
+      "file_size_bytes": 182236,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0b",
+      "filename": "Metadata-01-0b-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-0b-01.pdf",
+      "file_size_bytes": 167181,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-12-04-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-04-02.pdf",
+      "file_size_bytes": 276658,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-03-03-04",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-03-04.pdf",
+      "file_size_bytes": 251115,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 9,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0a",
+      "filename": "Metadata-05-0a-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-0a-01.pdf",
+      "file_size_bytes": 500102,
+      "file_type": "pdf",
+      "title": "5a1 Metadata",
+      "pages": 19,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-17-01-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-01-01.pdf",
+      "file_size_bytes": 517415,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 8,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-10-05-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-05-01.pdf",
+      "file_size_bytes": 295876,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "08",
+      "filename": "Metadata-03-08-02_NEW",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-08-02_NEW.pdf",
+      "file_size_bytes": 415210,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 15,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "07",
+      "filename": "Metadata-10-07-04",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-10-07-04.pdf",
+      "file_size_bytes": 408976,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-09-05-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-05-02.pdf",
+      "file_size_bytes": 233607,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "13",
+      "filename": "Metadata-17-13-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-13-01.pdf",
+      "file_size_bytes": 270785,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 10,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-04-05-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-04-05-01.pdf",
+      "file_size_bytes": 216185,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-02-02-04b",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-02-04b.pdf",
+      "file_size_bytes": 334517,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 9,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0a",
+      "filename": "Metadata-11-0a-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-0a-01.pdf",
+      "file_size_bytes": 397009,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 12,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-03-01-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-01-01.pdf",
+      "file_size_bytes": 313523,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 10,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-06-04-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-04-02.pdf",
+      "file_size_bytes": 279234,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 11,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-05-03-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-03-01.pdf",
+      "file_size_bytes": 187855,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "03",
+      "filename": "Metadata-11-03-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-11-03-01.pdf",
+      "file_size_bytes": 291245,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 14,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0C",
+      "filename": "Metadata-03-0C-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-0C-01.pdf",
+      "file_size_bytes": 183168,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-01-01-01b",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-01-01-01b.pdf",
+      "file_size_bytes": 220807,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-13-02-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-13-02-02.pdf",
+      "file_size_bytes": 152380,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-12-04-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-04-01.pdf",
+      "file_size_bytes": 312975,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 13,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0a",
+      "filename": "Metadata-08-0a-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-08-0a-01.pdf",
+      "file_size_bytes": 184386,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 5,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "0A",
+      "filename": "Metadata-05-0A-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-05-0A-02.pdf",
+      "file_size_bytes": 286686,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 13,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-17-01-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-17-01-02.pdf",
+      "file_size_bytes": 209329,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "05",
+      "filename": "Metadata-09-05-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-09-05-01.pdf",
+      "file_size_bytes": 228776,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "01",
+      "filename": "Metadata-03-01-02",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-03-01-02.pdf",
+      "file_size_bytes": 200444,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 6,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "08",
+      "filename": "Metadata-12-08-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-12-08-01.pdf",
+      "file_size_bytes": 407367,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 17,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "02",
+      "filename": "Metadata-02-02-04a",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-02-02-04a.pdf",
+      "file_size_bytes": 293273,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 7,
+      "is_processed": true,
+      "processing_status": "completed"
+    },
+    {
+      "indicator_id": "04",
+      "filename": "Metadata-06-04-01",
+      "file_path": "lib/SDG-indicator-metadata/Metadata-06-04-01.pdf",
+      "file_size_bytes": 292648,
+      "file_type": "pdf",
+      "title": "",
+      "pages": 11,
+      "is_processed": true,
+      "processing_status": "completed"
+    }
+  ],
+  "sdg_framework_data": [
+    {
+      "framework_version": "2025-review",
+      "data_source": "UN Statistics Division",
+      "raw_data": {
+        "total_indicators": 285,
+        "columns": [
+          "Unnamed: 0",
+          "Global indicator framework for the Sustainable Development Goals and targets \nof the 2030 Agenda for Sustainable Development*",
+          "Unnamed: 2",
+          "Unnamed: 3"
+        ],
+        "sample_data": [
+          {
+            "Unnamed: 0": NaN,
+            "Global indicator framework for the Sustainable Development Goals and targets \nof the 2030 Agenda for Sustainable Development*": "Sustainable Development Goal indicators should be disaggregated, where relevant, by income, sex, age, race, ethnicity, migratory status, disability and geographic location, or other characteristics, in accordance with the Fundamental Principles of Official Statistics.1 ",
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+          },
+          {
+            "Unnamed: 0": NaN,
+            "Global indicator framework for the Sustainable Development Goals and targets \nof the 2030 Agenda for Sustainable Development*": "Goals and targets (from the 2030 Agenda for Sustainable Development)",
+            "Unnamed: 2": "Indicators",
+            "Unnamed: 3": "UNSD Indicator Codes†"
+          },
+          {
+            "Unnamed: 0": NaN,
+            "Global indicator framework for the Sustainable Development Goals and targets \nof the 2030 Agenda for Sustainable Development*": "Goal 1. End poverty in all its forms everywhere",
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+          },
+          {
+            "Unnamed: 0": NaN,
+            "Global indicator framework for the Sustainable Development Goals and targets \nof the 2030 Agenda for Sustainable Development*": "1.1 By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",
+            "Unnamed: 2": "1.1.1 Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",
+            "Unnamed: 3": "C010101"
+          },
+          {
+            "Unnamed: 0": NaN,
+            "Global indicator framework for the Sustainable Development Goals and targets \nof the 2030 Agenda for Sustainable Development*": "1.2 By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
+            "Unnamed: 2": "1.2.1 Proportion of population living below the national poverty line, by sex and age",
+            "Unnamed: 3": "C010201"
+          }
+        ]
+      },
+      "processed_data": {
+        "total_indicators": 285,
+        "columns": [
+          "Unnamed: 0",
+          "Global indicator framework for the Sustainable Development Goals and targets \nof the 2030 Agenda for Sustainable Development*",
+          "Unnamed: 2",
+          "Unnamed: 3"
+        ],
+        "sample_data": [
+          {
+            "Unnamed: 0": NaN,
+            "Global indicator framework for the Sustainable Development Goals and targets \nof the 2030 Agenda for Sustainable Development*": "Sustainable Development Goal indicators should be disaggregated, where relevant, by income, sex, age, race, ethnicity, migratory status, disability and geographic location, or other characteristics, in accordance with the Fundamental Principles of Official Statistics.1 ",
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+          },
+          {
+            "Unnamed: 0": NaN,
+            "Global indicator framework for the Sustainable Development Goals and targets \nof the 2030 Agenda for Sustainable Development*": "Goals and targets (from the 2030 Agenda for Sustainable Development)",
+            "Unnamed: 2": "Indicators",
+            "Unnamed: 3": "UNSD Indicator Codes†"
+          },
+          {
+            "Unnamed: 0": NaN,
+            "Global indicator framework for the Sustainable Development Goals and targets \nof the 2030 Agenda for Sustainable Development*": "Goal 1. End poverty in all its forms everywhere",
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+          },
+          {
+            "Unnamed: 0": NaN,
+            "Global indicator framework for the Sustainable Development Goals and targets \nof the 2030 Agenda for Sustainable Development*": "1.1 By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",
+            "Unnamed: 2": "1.1.1 Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",
+            "Unnamed: 3": "C010101"
+          },
+          {
+            "Unnamed: 0": NaN,
+            "Global indicator framework for the Sustainable Development Goals and targets \nof the 2030 Agenda for Sustainable Development*": "1.2 By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
+            "Unnamed: 2": "1.2.1 Proportion of population living below the national poverty line, by sex and age",
+            "Unnamed: 3": "C010201"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -3,6 +3,10 @@
 """
 import os
 from pathlib import Path
+from utils.env_loader import load_environment, validate_environment
+
+# 환경 변수 로드
+env_config = load_environment()
 
 # 프로젝트 루트 디렉토리
 PROJECT_ROOT = Path(__file__).parent.parent
@@ -27,16 +31,43 @@ SCRAPING_CONFIG = {
 
 # Supabase 설정
 SUPABASE_CONFIG = {
-    "url": os.getenv("SUPABASE_URL"),
-    "anon_key": os.getenv("SUPABASE_ANON_KEY"),
-    "service_role_key": os.getenv("SUPABASE_SERVICE_ROLE_KEY")
+    "url": env_config["SUPABASE_URL"],
+    "anon_key": env_config["SUPABASE_ANON_KEY"],
+    "service_role_key": env_config["SUPABASE_SERVICE_ROLE_KEY"],
+    "storage_bucket": env_config["SUPABASE_STORAGE_BUCKET"],
+    "backup_bucket": env_config["SUPABASE_BACKUP_BUCKET"]
+}
+
+# 데이터베이스 설정
+DATABASE_CONFIG = {
+    "url": env_config["DATABASE_URL"]
+}
+
+# API 설정
+API_CONFIG = {
+    "host": env_config["API_HOST"],
+    "port": env_config["API_PORT"],
+    "debug": env_config["API_DEBUG"]
 }
 
 # 로깅 설정
 LOGGING_CONFIG = {
-    "level": "INFO",
+    "level": env_config["LOG_LEVEL"],
     "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
-    "file": LOGS_DIR / "scraping.log"
+    "file": env_config["LOG_FILE"]
+}
+
+# 파일 관리 설정
+FILE_CONFIG = {
+    "max_size_mb": env_config["MAX_FILE_SIZE_MB"],
+    "allowed_types": env_config["ALLOWED_FILE_TYPES"],
+    "storage_prefix": env_config["STORAGE_FOLDER_PREFIX"]
+}
+
+# 백업 설정
+BACKUP_CONFIG = {
+    "retention_days": env_config["BACKUP_RETENTION_DAYS"],
+    "auto_enabled": env_config["AUTO_BACKUP_ENABLED"]
 }
 
 # 지원하는 스크래퍼 타입
@@ -54,3 +85,20 @@ SUPPORTED_SCRAPERS = {
         "description": "IRIS+ 메트릭 상세 정보 분석"
     }
 }
+
+# 환경 변수 유효성 검사
+def validate_config():
+    """설정 유효성 검사"""
+    return validate_environment(env_config)
+
+if __name__ == "__main__":
+    # 설정 검증
+    is_valid = validate_config()
+    
+    if is_valid:
+        print("✅ 모든 설정이 올바르게 구성되었습니다.")
+        print(f"📊 Supabase URL: {SUPABASE_CONFIG['url']}")
+        print(f"📁 Storage Bucket: {SUPABASE_CONFIG['storage_bucket']}")
+        print(f"🔧 API Host: {API_CONFIG['host']}:{API_CONFIG['port']}")
+    else:
+        print("❌ 설정을 확인하고 수정하세요.")
