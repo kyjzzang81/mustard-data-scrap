@@ -1,0 +1,4510 @@
+{
+  "metadata": {
+    "source": "https://iris.thegiin.org/metrics/",
+    "total_metrics": 750,
+    "scraped_at": "2025-09-18 15:33:51",
+    "version": "IRIS v5.3b"
+  },
+  "metrics": [
+    {
+      "title": "Account Value",
+      "data_id": "PI1653",
+      "relative_path": "metric/5.3b/pi1653/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1653/"
+    },
+    {
+      "title": "Accounts Payable",
+      "data_id": "FP2852",
+      "relative_path": "metric/5.3b/fp2852/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp2852/"
+    },
+    {
+      "title": "Accounts Receivable",
+      "data_id": "FP2213",
+      "relative_path": "metric/5.3b/fp2213/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp2213/"
+    },
+    {
+      "title": "Active Borrowers per Loan Officer",
+      "data_id": "PI9250",
+      "relative_path": "metric/5.3b/pi9250/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9250/"
+    },
+    {
+      "title": "Active Use",
+      "data_id": "PI7985",
+      "relative_path": "metric/5.3b/pi7985/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7985/"
+    },
+    {
+      "title": "Adaptation Needs Assessment",
+      "data_id": "OI9101",
+      "relative_path": "metric/5.3b/oi9101/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9101/"
+    },
+    {
+      "title": "After-sale Client Support",
+      "data_id": "PI4180",
+      "relative_path": "metric/5.3b/pi4180/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4180/"
+    },
+    {
+      "title": "Anti-Discrimination Policy",
+      "data_id": "OI9331",
+      "relative_path": "metric/5.3b/oi9331/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9331/"
+    },
+    {
+      "title": "Area of Adjacent Protected Land",
+      "data_id": "PI5750",
+      "relative_path": "metric/5.3b/pi5750/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5750/"
+    },
+    {
+      "title": "Area of Buildings Reused",
+      "data_id": "PI9170",
+      "relative_path": "metric/5.3b/pi9170/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9170/"
+    },
+    {
+      "title": "Area of Community Facilities Financed",
+      "data_id": "PI4765",
+      "relative_path": "metric/5.3b/pi4765/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4765/"
+    },
+    {
+      "title": "Area of Fresh Water Bodies Present",
+      "data_id": "PI7170",
+      "relative_path": "metric/5.3b/pi7170/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7170/"
+    },
+    {
+      "title": "Area of Land Deforested",
+      "data_id": "PI1489",
+      "relative_path": "metric/5.3b/pi1489/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1489/"
+    },
+    {
+      "title": "Area of Land Reforested",
+      "data_id": "PI4907",
+      "relative_path": "metric/5.3b/pi4907/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4907/"
+    },
+    {
+      "title": "Area of Marine Habitat Protected",
+      "data_id": "PI1911",
+      "relative_path": "metric/5.3b/pi1911/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1911/"
+    },
+    {
+      "title": "Area of Marine Habitat Restored",
+      "data_id": "PI2252",
+      "relative_path": "metric/5.3b/pi2252/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2252/"
+    },
+    {
+      "title": "Area of Seaweed Farm Certified",
+      "data_id": "PI1142",
+      "relative_path": "metric/5.3b/pi1142/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1142/"
+    },
+    {
+      "title": "Area of Trees Planted: Native Species",
+      "data_id": "PI3848",
+      "relative_path": "metric/5.3b/pi3848/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3848/"
+    },
+    {
+      "title": "Area of Trees Planted: Total",
+      "data_id": "PI4127",
+      "relative_path": "metric/5.3b/pi4127/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4127/"
+    },
+    {
+      "title": "Assets Under Management: Managed by Fund Managers from Historically Marginalized Groups",
+      "data_id": "II4910",
+      "relative_path": "metric/5.3b/ii4910/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/ii4910/"
+    },
+    {
+      "title": "Assets Under Management: Total",
+      "data_id": "ID9608",
+      "relative_path": "metric/5.3b/id9608/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/id9608/"
+    },
+    {
+      "title": "Availability of Basic Services/Facilities",
+      "data_id": "PI0617",
+      "relative_path": "metric/5.3b/pi0617/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi0617/"
+    },
+    {
+      "title": "Average Agricultural Yield",
+      "data_id": "PI5935",
+      "relative_path": "metric/5.3b/pi5935/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5935/"
+    },
+    {
+      "title": "Average Client Agricultural Yield: Total",
+      "data_id": "PI3468",
+      "relative_path": "metric/5.3b/pi3468/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3468/"
+    },
+    {
+      "title": "Average Client Agriculture Yield: Smallholder",
+      "data_id": "PI9421",
+      "relative_path": "metric/5.3b/pi9421/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9421/"
+    },
+    {
+      "title": "Average Daily Traffic",
+      "data_id": "OI0659",
+      "relative_path": "metric/5.3b/oi0659/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi0659/"
+    },
+    {
+      "title": "Average Employee Tenure",
+      "data_id": "OI2248",
+      "relative_path": "metric/5.3b/oi2248/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2248/"
+    },
+    {
+      "title": "Average Insurance Premium",
+      "data_id": "PI1934",
+      "relative_path": "metric/5.3b/pi1934/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1934/"
+    },
+    {
+      "title": "Average Loan Size Disbursed",
+      "data_id": "PI5160",
+      "relative_path": "metric/5.3b/pi5160/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5160/"
+    },
+    {
+      "title": "Average Non-Salaried Wage",
+      "data_id": "OI8791",
+      "relative_path": "metric/5.3b/oi8791/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8791/"
+    },
+    {
+      "title": "Average Student Test Score",
+      "data_id": "PI9024",
+      "relative_path": "metric/5.3b/pi9024/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9024/"
+    },
+    {
+      "title": "Average Supplier Agricultural Yield: Smallholder",
+      "data_id": "PI1405",
+      "relative_path": "metric/5.3b/pi1405/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1405/"
+    },
+    {
+      "title": "Average Supplier Agriculture Yield: Total",
+      "data_id": "PI2046",
+      "relative_path": "metric/5.3b/pi2046/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2046/"
+    },
+    {
+      "title": "Average Vehicle Speed",
+      "data_id": "PI6471",
+      "relative_path": "metric/5.3b/pi6471/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6471/"
+    },
+    {
+      "title": "Bias-Reducing Investment Practices",
+      "data_id": "ID8539",
+      "relative_path": "metric/5.3b/id8539/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/id8539/"
+    },
+    {
+      "title": "Biodegradable Materials",
+      "data_id": "OI5101",
+      "relative_path": "metric/5.3b/oi5101/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5101/"
+    },
+    {
+      "title": "Biodiversity Assessment",
+      "data_id": "OI5929",
+      "relative_path": "metric/5.3b/oi5929/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5929/"
+    },
+    {
+      "title": "Biodiversity Footprint",
+      "data_id": "PI6887",
+      "relative_path": "metric/5.3b/pi6887/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6887/"
+    },
+    {
+      "title": "Board of Directors Remuneration",
+      "data_id": "OD3292",
+      "relative_path": "metric/5.3b/od3292/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od3292/"
+    },
+    {
+      "title": "Board of Directors: Female",
+      "data_id": "OI8118",
+      "relative_path": "metric/5.3b/oi8118/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8118/"
+    },
+    {
+      "title": "Board of Directors: Historically Marginalized",
+      "data_id": "OI6696",
+      "relative_path": "metric/5.3b/oi6696/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6696/"
+    },
+    {
+      "title": "Board of Directors: Independent",
+      "data_id": "OI4070",
+      "relative_path": "metric/5.3b/oi4070/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4070/"
+    },
+    {
+      "title": "Board of Directors: Total",
+      "data_id": "OI1075",
+      "relative_path": "metric/5.3b/oi1075/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1075/"
+    },
+    {
+      "title": "Building Area of Energy Efficiency Improvements",
+      "data_id": "PI1586",
+      "relative_path": "metric/5.3b/pi1586/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1586/"
+    },
+    {
+      "title": "Bulk Cargo Handled",
+      "data_id": "OI5490",
+      "relative_path": "metric/5.3b/oi5490/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5490/"
+    },
+    {
+      "title": "Business Innovation",
+      "data_id": "OI4718",
+      "relative_path": "metric/5.3b/oi4718/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4718/"
+    },
+    {
+      "title": "Capital Available: Borrowed Funds",
+      "data_id": "FP2638",
+      "relative_path": "metric/5.3b/fp2638/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp2638/"
+    },
+    {
+      "title": "Capital Available: Equity Capital",
+      "data_id": "FP5662",
+      "relative_path": "metric/5.3b/fp5662/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp5662/"
+    },
+    {
+      "title": "Capital Available: Total",
+      "data_id": "FP1307",
+      "relative_path": "metric/5.3b/fp1307/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp1307/"
+    },
+    {
+      "title": "Capital Expenditure",
+      "data_id": "FP9573",
+      "relative_path": "metric/5.3b/fp9573/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp9573/"
+    },
+    {
+      "title": "Caregivers Employed: Professionals",
+      "data_id": "OI4919",
+      "relative_path": "metric/5.3b/oi4919/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4919/"
+    },
+    {
+      "title": "Caregivers Employed: Responsive",
+      "data_id": "OI3115",
+      "relative_path": "metric/5.3b/oi3115/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3115/"
+    },
+    {
+      "title": "Caregivers Employed: Total",
+      "data_id": "OI5323",
+      "relative_path": "metric/5.3b/oi5323/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5323/"
+    },
+    {
+      "title": "Cash and Cash Equivalents: Period End",
+      "data_id": "FP6462",
+      "relative_path": "metric/5.3b/fp6462/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp6462/"
+    },
+    {
+      "title": "Cash and Cash Equivalents: Period Start",
+      "data_id": "FP7264",
+      "relative_path": "metric/5.3b/fp7264/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp7264/"
+    },
+    {
+      "title": "Cash Flow: Financing Activities",
+      "data_id": "FP8244",
+      "relative_path": "metric/5.3b/fp8244/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp8244/"
+    },
+    {
+      "title": "Cash Flow: Investing Activities",
+      "data_id": "FP9703",
+      "relative_path": "metric/5.3b/fp9703/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp9703/"
+    },
+    {
+      "title": "Cash Flow: Net Total",
+      "data_id": "FP3466",
+      "relative_path": "metric/5.3b/fp3466/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp3466/"
+    },
+    {
+      "title": "Cash Flow: Operating Activities",
+      "data_id": "FP4812",
+      "relative_path": "metric/5.3b/fp4812/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp4812/"
+    },
+    {
+      "title": "Charitable Donations",
+      "data_id": "FP3774",
+      "relative_path": "metric/5.3b/fp3774/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp3774/"
+    },
+    {
+      "title": "Charitable Practices",
+      "data_id": "OI7421",
+      "relative_path": "metric/5.3b/oi7421/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7421/"
+    },
+    {
+      "title": "Child Developmental Assessment",
+      "data_id": "PD9911",
+      "relative_path": "metric/5.3b/pd9911/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd9911/"
+    },
+    {
+      "title": "Child Stunting Prevalence",
+      "data_id": "PI3594",
+      "relative_path": "metric/5.3b/pi3594/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3594/"
+    },
+    {
+      "title": "Claims Rejected",
+      "data_id": "PI3383",
+      "relative_path": "metric/5.3b/pi3383/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3383/"
+    },
+    {
+      "title": "Claims Rejection Ratio",
+      "data_id": "PI7902",
+      "relative_path": "metric/5.3b/pi7902/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7902/"
+    },
+    {
+      "title": "Claims Submitted",
+      "data_id": "PI8018",
+      "relative_path": "metric/5.3b/pi8018/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8018/"
+    },
+    {
+      "title": "Classroom Area per Student",
+      "data_id": "PI5380",
+      "relative_path": "metric/5.3b/pi5380/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5380/"
+    },
+    {
+      "title": "Classroom Space New/Improved",
+      "data_id": "PI7268",
+      "relative_path": "metric/5.3b/pi7268/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7268/"
+    },
+    {
+      "title": "Client Complaint Tracking System",
+      "data_id": "PI9435",
+      "relative_path": "metric/5.3b/pi9435/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9435/"
+    },
+    {
+      "title": "Client Dropout Reasons",
+      "data_id": "PI9872",
+      "relative_path": "metric/5.3b/pi9872/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9872/"
+    },
+    {
+      "title": "Client Feedback System",
+      "data_id": "OI5049",
+      "relative_path": "metric/5.3b/oi5049/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5049/"
+    },
+    {
+      "title": "Client Household Size",
+      "data_id": "PI4548",
+      "relative_path": "metric/5.3b/pi4548/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4548/"
+    },
+    {
+      "title": "Client Households: Historically Marginalized",
+      "data_id": "PI3268",
+      "relative_path": "metric/5.3b/pi3268/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3268/"
+    },
+    {
+      "title": "Client Households: Low Income",
+      "data_id": "PI7318",
+      "relative_path": "metric/5.3b/pi7318/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7318/"
+    },
+    {
+      "title": "Client Households: New",
+      "data_id": "PI6991",
+      "relative_path": "metric/5.3b/pi6991/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6991/"
+    },
+    {
+      "title": "Client Households: No Direct Payment",
+      "data_id": "PI2180",
+      "relative_path": "metric/5.3b/pi2180/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2180/"
+    },
+    {
+      "title": "Client Households: Peri-urban",
+      "data_id": "PI7952",
+      "relative_path": "metric/5.3b/pi7952/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7952/"
+    },
+    {
+      "title": "Client Households: Poor",
+      "data_id": "PI1726",
+      "relative_path": "metric/5.3b/pi1726/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1726/"
+    },
+    {
+      "title": "Client Households: Provided New Access",
+      "data_id": "PI2845",
+      "relative_path": "metric/5.3b/pi2845/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2845/"
+    },
+    {
+      "title": "Client Households: Receiving Free Products/Services",
+      "data_id": "PI1583",
+      "relative_path": "metric/5.3b/pi1583/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1583/"
+    },
+    {
+      "title": "Client Households: Rural",
+      "data_id": "PI8163",
+      "relative_path": "metric/5.3b/pi8163/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8163/"
+    },
+    {
+      "title": "Client Households: Total",
+      "data_id": "PI7954",
+      "relative_path": "metric/5.3b/pi7954/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7954/"
+    },
+    {
+      "title": "Client Households: Urban",
+      "data_id": "PI1417",
+      "relative_path": "metric/5.3b/pi1417/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1417/"
+    },
+    {
+      "title": "Client Households: Very Poor",
+      "data_id": "PI6705",
+      "relative_path": "metric/5.3b/pi6705/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6705/"
+    },
+    {
+      "title": "Client Income",
+      "data_id": "PI9409",
+      "relative_path": "metric/5.3b/pi9409/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9409/"
+    },
+    {
+      "title": "Client Individuals: Active",
+      "data_id": "PI9327",
+      "relative_path": "metric/5.3b/pi9327/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9327/"
+    },
+    {
+      "title": "Client Individuals: Children/Adolescents",
+      "data_id": "PI1945",
+      "relative_path": "metric/5.3b/pi1945/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1945/"
+    },
+    {
+      "title": "Client Individuals: Female",
+      "data_id": "PI8330",
+      "relative_path": "metric/5.3b/pi8330/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8330/"
+    },
+    {
+      "title": "Client Individuals: Forcibly Displaced",
+      "data_id": "PI5297",
+      "relative_path": "metric/5.3b/pi5297/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5297/"
+    },
+    {
+      "title": "Client Individuals: Historically Marginalized",
+      "data_id": "PI4237",
+      "relative_path": "metric/5.3b/pi4237/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4237/"
+    },
+    {
+      "title": "Client Individuals: Low Income",
+      "data_id": "PI7098",
+      "relative_path": "metric/5.3b/pi7098/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7098/"
+    },
+    {
+      "title": "Client Individuals: New",
+      "data_id": "PI8732",
+      "relative_path": "metric/5.3b/pi8732/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8732/"
+    },
+    {
+      "title": "Client Individuals: No Direct Payment",
+      "data_id": "PI1807",
+      "relative_path": "metric/5.3b/pi1807/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1807/"
+    },
+    {
+      "title": "Client Individuals: People with Disabilities",
+      "data_id": "PI6266",
+      "relative_path": "metric/5.3b/pi6266/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6266/"
+    },
+    {
+      "title": "Client Individuals: Peri-urban",
+      "data_id": "PI3960",
+      "relative_path": "metric/5.3b/pi3960/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3960/"
+    },
+    {
+      "title": "Client Individuals: Poor",
+      "data_id": "PI3193",
+      "relative_path": "metric/5.3b/pi3193/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3193/"
+    },
+    {
+      "title": "Client Individuals: Provided New Access",
+      "data_id": "PI2822",
+      "relative_path": "metric/5.3b/pi2822/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2822/"
+    },
+    {
+      "title": "Client Individuals: Receiving Free Products/Services",
+      "data_id": "PI9622",
+      "relative_path": "metric/5.3b/pi9622/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9622/"
+    },
+    {
+      "title": "Client Individuals: Referred",
+      "data_id": "PI2185",
+      "relative_path": "metric/5.3b/pi2185/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2185/"
+    },
+    {
+      "title": "Client Individuals: Rural",
+      "data_id": "PI1190",
+      "relative_path": "metric/5.3b/pi1190/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1190/"
+    },
+    {
+      "title": "Client Individuals: Smallholder",
+      "data_id": "PI6372",
+      "relative_path": "metric/5.3b/pi6372/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6372/"
+    },
+    {
+      "title": "Client Individuals: Total",
+      "data_id": "PI4060",
+      "relative_path": "metric/5.3b/pi4060/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4060/"
+    },
+    {
+      "title": "Client Individuals: Urban",
+      "data_id": "PI6751",
+      "relative_path": "metric/5.3b/pi6751/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6751/"
+    },
+    {
+      "title": "Client Individuals: Very Poor",
+      "data_id": "PI9835",
+      "relative_path": "metric/5.3b/pi9835/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9835/"
+    },
+    {
+      "title": "Client Model",
+      "data_id": "OD8350",
+      "relative_path": "metric/5.3b/od8350/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od8350/"
+    },
+    {
+      "title": "Client Organizations Founded: Total",
+      "data_id": "PI7869",
+      "relative_path": "metric/5.3b/pi7869/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7869/"
+    },
+    {
+      "title": "Client Organizations Led: Total",
+      "data_id": "PI5576",
+      "relative_path": "metric/5.3b/pi5576/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5576/"
+    },
+    {
+      "title": "Client Organizations: Microenterprises",
+      "data_id": "PI9713",
+      "relative_path": "metric/5.3b/pi9713/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9713/"
+    },
+    {
+      "title": "Client Organizations: New",
+      "data_id": "PI6894",
+      "relative_path": "metric/5.3b/pi6894/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6894/"
+    },
+    {
+      "title": "Client Organizations: No Direct Payment",
+      "data_id": "PI8952",
+      "relative_path": "metric/5.3b/pi8952/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8952/"
+    },
+    {
+      "title": "Client Organizations: Provided New Access",
+      "data_id": "PI2575",
+      "relative_path": "metric/5.3b/pi2575/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2575/"
+    },
+    {
+      "title": "Client Organizations: Receiving Free Services",
+      "data_id": "PI6050",
+      "relative_path": "metric/5.3b/pi6050/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6050/"
+    },
+    {
+      "title": "Client Organizations: SME",
+      "data_id": "PI4940",
+      "relative_path": "metric/5.3b/pi4940/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4940/"
+    },
+    {
+      "title": "Client Organizations: Total",
+      "data_id": "PI9652",
+      "relative_path": "metric/5.3b/pi9652/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9652/"
+    },
+    {
+      "title": "Client Protection Policy",
+      "data_id": "OI4753",
+      "relative_path": "metric/5.3b/oi4753/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4753/"
+    },
+    {
+      "title": "Client Retention Rate",
+      "data_id": "PI9319",
+      "relative_path": "metric/5.3b/pi9319/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9319/"
+    },
+    {
+      "title": "Client Savings Premium",
+      "data_id": "PI1748",
+      "relative_path": "metric/5.3b/pi1748/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1748/"
+    },
+    {
+      "title": "Client State/Province/Region",
+      "data_id": "PD6806",
+      "relative_path": "metric/5.3b/pd6806/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd6806/"
+    },
+    {
+      "title": "Client Time Savings",
+      "data_id": "PI3291",
+      "relative_path": "metric/5.3b/pi3291/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3291/"
+    },
+    {
+      "title": "Client Transactions",
+      "data_id": "PI5184",
+      "relative_path": "metric/5.3b/pi5184/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5184/"
+    },
+    {
+      "title": "Client Type",
+      "data_id": "PD7993",
+      "relative_path": "metric/5.3b/pd7993/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd7993/"
+    },
+    {
+      "title": "Climate Resilience Strategy",
+      "data_id": "OI2092",
+      "relative_path": "metric/5.3b/oi2092/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2092/"
+    },
+    {
+      "title": "Climate Resilient Water Management Practices",
+      "data_id": "OI2340",
+      "relative_path": "metric/5.3b/oi2340/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2340/"
+    },
+    {
+      "title": "Climate Vulnerability Status",
+      "data_id": "PI1002",
+      "relative_path": "metric/5.3b/pi1002/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1002/"
+    },
+    {
+      "title": "Communities Served",
+      "data_id": "PI2476",
+      "relative_path": "metric/5.3b/pi2476/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2476/"
+    },
+    {
+      "title": "Community Engagement Strategy",
+      "data_id": "OI2319",
+      "relative_path": "metric/5.3b/oi2319/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2319/"
+    },
+    {
+      "title": "Community Facilities Type",
+      "data_id": "PD7557",
+      "relative_path": "metric/5.3b/pd7557/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd7557/"
+    },
+    {
+      "title": "Community Health Resilience and Improvement Strategy",
+      "data_id": "OI9417",
+      "relative_path": "metric/5.3b/oi9417/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9417/"
+    },
+    {
+      "title": "Community Service Hours Contributed",
+      "data_id": "OI8429",
+      "relative_path": "metric/5.3b/oi8429/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8429/"
+    },
+    {
+      "title": "Community Service Policy",
+      "data_id": "OI4324",
+      "relative_path": "metric/5.3b/oi4324/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4324/"
+    },
+    {
+      "title": "Companies Considered for Investment: Led by Founders from Historically Marginalized Groups due to Race and/or Ethnicity",
+      "data_id": "II8439",
+      "relative_path": "metric/5.3b/ii8439/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/ii8439/"
+    },
+    {
+      "title": "Companies Considered for Investment: Total",
+      "data_id": "II5202",
+      "relative_path": "metric/5.3b/ii5202/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/ii5202/"
+    },
+    {
+      "title": "Complaints Ratio",
+      "data_id": "PI5216",
+      "relative_path": "metric/5.3b/pi5216/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5216/"
+    },
+    {
+      "title": "Compulsory Deposits",
+      "data_id": "PD9337",
+      "relative_path": "metric/5.3b/pd9337/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd9337/"
+    },
+    {
+      "title": "Compulsory Insurance Products",
+      "data_id": "PD1928",
+      "relative_path": "metric/5.3b/pd1928/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd1928/"
+    },
+    {
+      "title": "Conflict of Interest Policy",
+      "data_id": "OI2596",
+      "relative_path": "metric/5.3b/oi2596/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2596/"
+    },
+    {
+      "title": "Connection Type",
+      "data_id": "PD1310",
+      "relative_path": "metric/5.3b/pd1310/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd1310/"
+    },
+    {
+      "title": "Conservation Priority Characteristics",
+      "data_id": "PD9009",
+      "relative_path": "metric/5.3b/pd9009/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd9009/"
+    },
+    {
+      "title": "Cost of Goods Sold",
+      "data_id": "FP9049",
+      "relative_path": "metric/5.3b/fp9049/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp9049/"
+    },
+    {
+      "title": "Cost Transparency",
+      "data_id": "PI6941",
+      "relative_path": "metric/5.3b/pi6941/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6941/"
+    },
+    {
+      "title": "Critical Equipment/Facility Utilization Rate",
+      "data_id": "PI5743",
+      "relative_path": "metric/5.3b/pi5743/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5743/"
+    },
+    {
+      "title": "Critical Marine Habitats",
+      "data_id": "OI3846",
+      "relative_path": "metric/5.3b/oi3846/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3846/"
+    },
+    {
+      "title": "Crop Type",
+      "data_id": "PD1620",
+      "relative_path": "metric/5.3b/pd1620/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd1620/"
+    },
+    {
+      "title": "Current Assets",
+      "data_id": "FP6926",
+      "relative_path": "metric/5.3b/fp6926/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp6926/"
+    },
+    {
+      "title": "Current Liabilities",
+      "data_id": "FP2269",
+      "relative_path": "metric/5.3b/fp2269/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp2269/"
+    },
+    {
+      "title": "Damage to Infrastructure",
+      "data_id": "PI5566",
+      "relative_path": "metric/5.3b/pi5566/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5566/"
+    },
+    {
+      "title": "Days of School Offered per Year",
+      "data_id": "PD8635",
+      "relative_path": "metric/5.3b/pd8635/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd8635/"
+    },
+    {
+      "title": "Departed Permanent Employees: Full-time",
+      "data_id": "OI3653",
+      "relative_path": "metric/5.3b/oi3653/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3653/"
+    },
+    {
+      "title": "Departed Permanent Employees: Involuntary",
+      "data_id": "OI7225",
+      "relative_path": "metric/5.3b/oi7225/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7225/"
+    },
+    {
+      "title": "Departed Permanent Employees: Total",
+      "data_id": "OI4499",
+      "relative_path": "metric/5.3b/oi4499/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4499/"
+    },
+    {
+      "title": "Departed Permanent Employees: Voluntary",
+      "data_id": "OI8431",
+      "relative_path": "metric/5.3b/oi8431/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8431/"
+    },
+    {
+      "title": "Depreciation and Amortization Expenses",
+      "data_id": "FP9462",
+      "relative_path": "metric/5.3b/fp9462/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp9462/"
+    },
+    {
+      "title": "Developmental Status",
+      "data_id": "PI0045",
+      "relative_path": "metric/5.3b/pi0045/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi0045/"
+    },
+    {
+      "title": "Disease/Condition Addressed",
+      "data_id": "PI1533",
+      "relative_path": "metric/5.3b/pi1533/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1533/"
+    },
+    {
+      "title": "Distributor Individuals: Disabilities",
+      "data_id": "PI1160",
+      "relative_path": "metric/5.3b/pi1160/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1160/"
+    },
+    {
+      "title": "Distributor Individuals: Female",
+      "data_id": "PI6659",
+      "relative_path": "metric/5.3b/pi6659/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6659/"
+    },
+    {
+      "title": "Distributor Individuals: Historically Marginalized",
+      "data_id": "PI8470",
+      "relative_path": "metric/5.3b/pi8470/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8470/"
+    },
+    {
+      "title": "Distributor Individuals: Low Income",
+      "data_id": "PI2125",
+      "relative_path": "metric/5.3b/pi2125/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2125/"
+    },
+    {
+      "title": "Distributor Individuals: Peri-urban",
+      "data_id": "PI3995",
+      "relative_path": "metric/5.3b/pi3995/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3995/"
+    },
+    {
+      "title": "Distributor Individuals: Poor",
+      "data_id": "PI9516",
+      "relative_path": "metric/5.3b/pi9516/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9516/"
+    },
+    {
+      "title": "Distributor Individuals: Rural",
+      "data_id": "PI3972",
+      "relative_path": "metric/5.3b/pi3972/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3972/"
+    },
+    {
+      "title": "Distributor Individuals: Total",
+      "data_id": "PI2758",
+      "relative_path": "metric/5.3b/pi2758/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2758/"
+    },
+    {
+      "title": "Distributor Individuals: Urban",
+      "data_id": "PI8982",
+      "relative_path": "metric/5.3b/pi8982/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8982/"
+    },
+    {
+      "title": "Distributor Individuals: Very Poor",
+      "data_id": "PI9113",
+      "relative_path": "metric/5.3b/pi9113/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9113/"
+    },
+    {
+      "title": "Distributor Organizations: Microenterprises",
+      "data_id": "PI8415",
+      "relative_path": "metric/5.3b/pi8415/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8415/"
+    },
+    {
+      "title": "Distributor Organizations: SME",
+      "data_id": "PI9401",
+      "relative_path": "metric/5.3b/pi9401/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9401/"
+    },
+    {
+      "title": "Distributor Organizations: Total",
+      "data_id": "PI1060",
+      "relative_path": "metric/5.3b/pi1060/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1060/"
+    },
+    {
+      "title": "Diverse Representation Policy",
+      "data_id": "OI9485",
+      "relative_path": "metric/5.3b/oi9485/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9485/"
+    },
+    {
+      "title": "Earnings of Distributor Individuals: Female",
+      "data_id": "PI2551",
+      "relative_path": "metric/5.3b/pi2551/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2551/"
+    },
+    {
+      "title": "Earnings of Distributor Individuals: Historically Marginalized",
+      "data_id": "PI9654",
+      "relative_path": "metric/5.3b/pi9654/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9654/"
+    },
+    {
+      "title": "Earnings of Distributor Individuals: Low Income",
+      "data_id": "PI2594",
+      "relative_path": "metric/5.3b/pi2594/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2594/"
+    },
+    {
+      "title": "Earnings of Distributor Individuals: People with Disabilities",
+      "data_id": "PI4341",
+      "relative_path": "metric/5.3b/pi4341/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4341/"
+    },
+    {
+      "title": "Earnings of Distributor Individuals: Peri-urban",
+      "data_id": "PI9973",
+      "relative_path": "metric/5.3b/pi9973/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9973/"
+    },
+    {
+      "title": "Earnings of Distributor Individuals: Poor",
+      "data_id": "PI3962",
+      "relative_path": "metric/5.3b/pi3962/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3962/"
+    },
+    {
+      "title": "Earnings of Distributor Individuals: Rural",
+      "data_id": "PI8943",
+      "relative_path": "metric/5.3b/pi8943/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8943/"
+    },
+    {
+      "title": "Earnings of Distributor Individuals: Total",
+      "data_id": "PI4881",
+      "relative_path": "metric/5.3b/pi4881/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4881/"
+    },
+    {
+      "title": "Earnings of Distributor Individuals: Urban",
+      "data_id": "PI9676",
+      "relative_path": "metric/5.3b/pi9676/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9676/"
+    },
+    {
+      "title": "Earnings of Distributor Individuals: Very Poor",
+      "data_id": "PI5391",
+      "relative_path": "metric/5.3b/pi5391/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5391/"
+    },
+    {
+      "title": "Earnings of Distributor Organizations: Microenterprises",
+      "data_id": "PI8021",
+      "relative_path": "metric/5.3b/pi8021/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8021/"
+    },
+    {
+      "title": "Earnings of Distributor Organizations: SME",
+      "data_id": "PI2888",
+      "relative_path": "metric/5.3b/pi2888/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2888/"
+    },
+    {
+      "title": "Earnings of Distributor Organizations: Total",
+      "data_id": "PI6218",
+      "relative_path": "metric/5.3b/pi6218/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6218/"
+    },
+    {
+      "title": "EBIT",
+      "data_id": "FP3673",
+      "relative_path": "metric/5.3b/fp3673/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp3673/"
+    },
+    {
+      "title": "EBITDA",
+      "data_id": "FP1657",
+      "relative_path": "metric/5.3b/fp1657/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp1657/"
+    },
+    {
+      "title": "Ecological Restoration Management Area",
+      "data_id": "PI9556",
+      "relative_path": "metric/5.3b/pi9556/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9556/"
+    },
+    {
+      "title": "Ecosystem Services Provided",
+      "data_id": "PD8494",
+      "relative_path": "metric/5.3b/pd8494/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd8494/"
+    },
+    {
+      "title": "Educational Resource to Student Ratio",
+      "data_id": "PI4279",
+      "relative_path": "metric/5.3b/pi4279/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4279/"
+    },
+    {
+      "title": "Effective Interest Rate",
+      "data_id": "PI7467",
+      "relative_path": "metric/5.3b/pi7467/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7467/"
+    },
+    {
+      "title": "Employee Feedback and Grievance System",
+      "data_id": "OI3601",
+      "relative_path": "metric/5.3b/oi3601/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3601/"
+    },
+    {
+      "title": "Employee Involuntary Turnover Rate",
+      "data_id": "OI3989",
+      "relative_path": "metric/5.3b/oi3989/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3989/"
+    },
+    {
+      "title": "Employee Policy Documentation",
+      "data_id": "OI5102",
+      "relative_path": "metric/5.3b/oi5102/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5102/"
+    },
+    {
+      "title": "Employee Training and Transition Programs Offered",
+      "data_id": "OI3368",
+      "relative_path": "metric/5.3b/oi3368/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3368/"
+    },
+    {
+      "title": "Employee Training Costs",
+      "data_id": "OI7390",
+      "relative_path": "metric/5.3b/oi7390/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7390/"
+    },
+    {
+      "title": "Employee Training Hours",
+      "data_id": "OI7877",
+      "relative_path": "metric/5.3b/oi7877/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7877/"
+    },
+    {
+      "title": "Employee Voluntary Turnover Rate",
+      "data_id": "OI1638",
+      "relative_path": "metric/5.3b/oi1638/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1638/"
+    },
+    {
+      "title": "Employees Covered by Collective Bargaining Agreements",
+      "data_id": "OI3703",
+      "relative_path": "metric/5.3b/oi3703/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3703/"
+    },
+    {
+      "title": "Employees Dedicated to Social and Environmental Performance",
+      "data_id": "OI6370",
+      "relative_path": "metric/5.3b/oi6370/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6370/"
+    },
+    {
+      "title": "Employees Earning a Living Wage or Higher",
+      "data_id": "OI4724",
+      "relative_path": "metric/5.3b/oi4724/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4724/"
+    },
+    {
+      "title": "Employees Earning Lowest Wage",
+      "data_id": "OI8296",
+      "relative_path": "metric/5.3b/oi8296/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8296/"
+    },
+    {
+      "title": "Employees Earning Minimum Wage",
+      "data_id": "OI5858",
+      "relative_path": "metric/5.3b/oi5858/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5858/"
+    },
+    {
+      "title": "Employees Promoted: Female",
+      "data_id": "OI8646",
+      "relative_path": "metric/5.3b/oi8646/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8646/"
+    },
+    {
+      "title": "Employees Promoted: Total",
+      "data_id": "OI6995",
+      "relative_path": "metric/5.3b/oi6995/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6995/"
+    },
+    {
+      "title": "Employees Receiving Regular Performance and Career Development Reviews",
+      "data_id": "OI0112",
+      "relative_path": "metric/5.3b/oi0112/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi0112/"
+    },
+    {
+      "title": "Employees Trained",
+      "data_id": "OI4229",
+      "relative_path": "metric/5.3b/oi4229/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4229/"
+    },
+    {
+      "title": "Employees with Written Contracts",
+      "data_id": "OI8358",
+      "relative_path": "metric/5.3b/oi8358/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8358/"
+    },
+    {
+      "title": "Employment Benefits",
+      "data_id": "OI2742",
+      "relative_path": "metric/5.3b/oi2742/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2742/"
+    },
+    {
+      "title": "Employment Benefits Uptake",
+      "data_id": "OI8865",
+      "relative_path": "metric/5.3b/oi8865/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8865/"
+    },
+    {
+      "title": "Energy Capacity",
+      "data_id": "PD3764",
+      "relative_path": "metric/5.3b/pd3764/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd3764/"
+    },
+    {
+      "title": "Energy Capacity Added",
+      "data_id": "PI9448",
+      "relative_path": "metric/5.3b/pi9448/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9448/"
+    },
+    {
+      "title": "Energy Capacity of Product",
+      "data_id": "PD2713",
+      "relative_path": "metric/5.3b/pd2713/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd2713/"
+    },
+    {
+      "title": "Energy Capacity of Products Sold",
+      "data_id": "PD1504",
+      "relative_path": "metric/5.3b/pd1504/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd1504/"
+    },
+    {
+      "title": "Energy Conservation Strategy",
+      "data_id": "OI4531",
+      "relative_path": "metric/5.3b/oi4531/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4531/"
+    },
+    {
+      "title": "Energy Conserved",
+      "data_id": "OI6697",
+      "relative_path": "metric/5.3b/oi6697/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6697/"
+    },
+    {
+      "title": "Energy Consumption of Product",
+      "data_id": "PD6596",
+      "relative_path": "metric/5.3b/pd6596/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd6596/"
+    },
+    {
+      "title": "Energy Consumption of Product Replaced",
+      "data_id": "PD5578",
+      "relative_path": "metric/5.3b/pd5578/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd5578/"
+    },
+    {
+      "title": "Energy Demand Hours Type",
+      "data_id": "PI1845",
+      "relative_path": "metric/5.3b/pi1845/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1845/"
+    },
+    {
+      "title": "Energy Discharge Rate",
+      "data_id": "PI1022",
+      "relative_path": "metric/5.3b/pi1022/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1022/"
+    },
+    {
+      "title": "Energy Discharged",
+      "data_id": "PI1595",
+      "relative_path": "metric/5.3b/pi1595/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1595/"
+    },
+    {
+      "title": "Energy Generated for Sale: Non-Renewable",
+      "data_id": "PI2210",
+      "relative_path": "metric/5.3b/pi2210/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2210/"
+    },
+    {
+      "title": "Energy Generated for Sale: Renewable",
+      "data_id": "PI5842",
+      "relative_path": "metric/5.3b/pi5842/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5842/"
+    },
+    {
+      "title": "Energy Generated for Sale: Total",
+      "data_id": "PI8706",
+      "relative_path": "metric/5.3b/pi8706/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8706/"
+    },
+    {
+      "title": "Energy Generated for Use: Non-Renewable",
+      "data_id": "OI1495",
+      "relative_path": "metric/5.3b/oi1495/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1495/"
+    },
+    {
+      "title": "Energy Generated for Use: Renewable",
+      "data_id": "OI2496",
+      "relative_path": "metric/5.3b/oi2496/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2496/"
+    },
+    {
+      "title": "Energy Generated for Use: Total",
+      "data_id": "OI9624",
+      "relative_path": "metric/5.3b/oi9624/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9624/"
+    },
+    {
+      "title": "Energy Purchased: Non-Renewable",
+      "data_id": "OI1496",
+      "relative_path": "metric/5.3b/oi1496/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1496/"
+    },
+    {
+      "title": "Energy Purchased: Renewable",
+      "data_id": "OI3324",
+      "relative_path": "metric/5.3b/oi3324/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3324/"
+    },
+    {
+      "title": "Energy Purchased: Total",
+      "data_id": "OI8825",
+      "relative_path": "metric/5.3b/oi8825/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8825/"
+    },
+    {
+      "title": "Energy Savings from Products Sold",
+      "data_id": "PI7623",
+      "relative_path": "metric/5.3b/pi7623/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7623/"
+    },
+    {
+      "title": "Energy Savings from Services Sold",
+      "data_id": "PD4927",
+      "relative_path": "metric/5.3b/pd4927/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd4927/"
+    },
+    {
+      "title": "Energy Storage Capacity",
+      "data_id": "PI0915",
+      "relative_path": "metric/5.3b/pi0915/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi0915/"
+    },
+    {
+      "title": "Energy Storage Device Cycle Life",
+      "data_id": "PD4577",
+      "relative_path": "metric/5.3b/pd4577/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd4577/"
+    },
+    {
+      "title": "Energy Stored",
+      "data_id": "PI1435",
+      "relative_path": "metric/5.3b/pi1435/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1435/"
+    },
+    {
+      "title": "Energy Transmitted: Total",
+      "data_id": "PI5193",
+      "relative_path": "metric/5.3b/pi5193/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5193/"
+    },
+    {
+      "title": "Environmental Impact Objectives",
+      "data_id": "OD4108",
+      "relative_path": "metric/5.3b/od4108/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od4108/"
+    },
+    {
+      "title": "Environmental Management System",
+      "data_id": "OI1254",
+      "relative_path": "metric/5.3b/oi1254/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1254/"
+    },
+    {
+      "title": "Environmental Policies for Financial Services Clients",
+      "data_id": "PD7932",
+      "relative_path": "metric/5.3b/pd7932/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd7932/"
+    },
+    {
+      "title": "Equity or Net Assets",
+      "data_id": "FP5317",
+      "relative_path": "metric/5.3b/fp5317/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp5317/"
+    },
+    {
+      "title": "Eviction Rate",
+      "data_id": "PI6303",
+      "relative_path": "metric/5.3b/pi6303/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6303/"
+    },
+    {
+      "title": "Extracurricular Programs Offered",
+      "data_id": "PD9759",
+      "relative_path": "metric/5.3b/pd9759/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd9759/"
+    },
+    {
+      "title": "Fair Career Advancement Policy",
+      "data_id": "OI4884",
+      "relative_path": "metric/5.3b/oi4884/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4884/"
+    },
+    {
+      "title": "Fair Compensation Policy",
+      "data_id": "OI3819",
+      "relative_path": "metric/5.3b/oi3819/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3819/"
+    },
+    {
+      "title": "Fair Dismissal Policy",
+      "data_id": "OI9478",
+      "relative_path": "metric/5.3b/oi9478/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9478/"
+    },
+    {
+      "title": "Fair Hiring/Recruiting Policy",
+      "data_id": "OI1150",
+      "relative_path": "metric/5.3b/oi1150/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1150/"
+    },
+    {
+      "title": "Financial Assets",
+      "data_id": "FP4649",
+      "relative_path": "metric/5.3b/fp4649/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp4649/"
+    },
+    {
+      "title": "Financial Expenses",
+      "data_id": "FP2553",
+      "relative_path": "metric/5.3b/fp2553/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp2553/"
+    },
+    {
+      "title": "Financial Statement Review",
+      "data_id": "OI5164",
+      "relative_path": "metric/5.3b/oi5164/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5164/"
+    },
+    {
+      "title": "Fixed Assets",
+      "data_id": "FP9148",
+      "relative_path": "metric/5.3b/fp9148/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp9148/"
+    },
+    {
+      "title": "Flexible Work Arrangements",
+      "data_id": "OI7983",
+      "relative_path": "metric/5.3b/oi7983/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7983/"
+    },
+    {
+      "title": "Flood Resilient Construction Practices",
+      "data_id": "OI9911",
+      "relative_path": "metric/5.3b/oi9911/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9911/"
+    },
+    {
+      "title": "Food Insecurity Experience",
+      "data_id": "PI2771",
+      "relative_path": "metric/5.3b/pi2771/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2771/"
+    },
+    {
+      "title": "Forced Labor Policy",
+      "data_id": "OI9650",
+      "relative_path": "metric/5.3b/oi9650/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9650/"
+    },
+    {
+      "title": "Forced Labor Policy: Child Labor",
+      "data_id": "OI4432",
+      "relative_path": "metric/5.3b/oi4432/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4432/"
+    },
+    {
+      "title": "Forest Management Plan",
+      "data_id": "OI2622",
+      "relative_path": "metric/5.3b/oi2622/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2622/"
+    },
+    {
+      "title": "Founder Demographics",
+      "data_id": "OI0933",
+      "relative_path": "metric/5.3b/oi0933/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi0933/"
+    },
+    {
+      "title": "Founders: Female",
+      "data_id": "OI8197",
+      "relative_path": "metric/5.3b/oi8197/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8197/"
+    },
+    {
+      "title": "Founders: Total",
+      "data_id": "OI2209",
+      "relative_path": "metric/5.3b/oi2209/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2209/"
+    },
+    {
+      "title": "Full-time Employees: Female",
+      "data_id": "OI6213",
+      "relative_path": "metric/5.3b/oi6213/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6213/"
+    },
+    {
+      "title": "Full-time Employees: Female Managers",
+      "data_id": "OI1571",
+      "relative_path": "metric/5.3b/oi1571/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1571/"
+    },
+    {
+      "title": "Full-time Employees: Hired",
+      "data_id": "OI5479",
+      "relative_path": "metric/5.3b/oi5479/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5479/"
+    },
+    {
+      "title": "Full-time Employees: Historically Marginalized",
+      "data_id": "OI8147",
+      "relative_path": "metric/5.3b/oi8147/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8147/"
+    },
+    {
+      "title": "Full-time Employees: Historically Marginalized Managers",
+      "data_id": "OI3140",
+      "relative_path": "metric/5.3b/oi3140/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3140/"
+    },
+    {
+      "title": "Full-time Employees: Managers",
+      "data_id": "OI8251",
+      "relative_path": "metric/5.3b/oi8251/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8251/"
+    },
+    {
+      "title": "Full-time Employees: Managers with Disabilities",
+      "data_id": "OI8292",
+      "relative_path": "metric/5.3b/oi8292/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8292/"
+    },
+    {
+      "title": "Full-time Employees: People with Disabilities",
+      "data_id": "OI2003",
+      "relative_path": "metric/5.3b/oi2003/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2003/"
+    },
+    {
+      "title": "Full-time Employees: Total",
+      "data_id": "OI3160",
+      "relative_path": "metric/5.3b/oi3160/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3160/"
+    },
+    {
+      "title": "Full-time Wages: Female",
+      "data_id": "OI8941",
+      "relative_path": "metric/5.3b/oi8941/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8941/"
+    },
+    {
+      "title": "Full-time Wages: Female Management",
+      "data_id": "OI5247",
+      "relative_path": "metric/5.3b/oi5247/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5247/"
+    },
+    {
+      "title": "Full-time Wages: Historically Marginalized",
+      "data_id": "OI1508",
+      "relative_path": "metric/5.3b/oi1508/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1508/"
+    },
+    {
+      "title": "Full-time Wages: Historically Marginalized Management",
+      "data_id": "OI3862",
+      "relative_path": "metric/5.3b/oi3862/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3862/"
+    },
+    {
+      "title": "Full-time Wages: Management",
+      "data_id": "OI6069",
+      "relative_path": "metric/5.3b/oi6069/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6069/"
+    },
+    {
+      "title": "Full-time Wages: Total",
+      "data_id": "OI5887",
+      "relative_path": "metric/5.3b/oi5887/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5887/"
+    },
+    {
+      "title": "Fund Managers: Considered for Investment",
+      "data_id": "II2107",
+      "relative_path": "metric/5.3b/ii2107/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/ii2107/"
+    },
+    {
+      "title": "Fund Managers: Total",
+      "data_id": "II5889",
+      "relative_path": "metric/5.3b/ii5889/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/ii5889/"
+    },
+    {
+      "title": "Gender Ratio of Promotions",
+      "data_id": "PI9467",
+      "relative_path": "metric/5.3b/pi9467/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9467/"
+    },
+    {
+      "title": "Gender Wage Equity",
+      "data_id": "OI1855",
+      "relative_path": "metric/5.3b/oi1855/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1855/"
+    },
+    {
+      "title": "Governance Policies",
+      "data_id": "OI2330",
+      "relative_path": "metric/5.3b/oi2330/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2330/"
+    },
+    {
+      "title": "Green Building Practices",
+      "data_id": "OI6765",
+      "relative_path": "metric/5.3b/oi6765/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6765/"
+    },
+    {
+      "title": "Green Product/Service Type",
+      "data_id": "PD5694",
+      "relative_path": "metric/5.3b/pd5694/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd5694/"
+    },
+    {
+      "title": "Greenhouse Gas Emissions Avoided",
+      "data_id": "PI2764",
+      "relative_path": "metric/5.3b/pi2764/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2764/"
+    },
+    {
+      "title": "Greenhouse Gas Emissions Avoided Due to Carbon Offsets Purchased",
+      "data_id": "OI6774",
+      "relative_path": "metric/5.3b/oi6774/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6774/"
+    },
+    {
+      "title": "Greenhouse Gas Emissions Avoided Due to Carbon Offsets Sold",
+      "data_id": "PI2787",
+      "relative_path": "metric/5.3b/pi2787/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2787/"
+    },
+    {
+      "title": "Greenhouse Gas Emissions Mitigated",
+      "data_id": "OI5951",
+      "relative_path": "metric/5.3b/oi5951/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5951/"
+    },
+    {
+      "title": "Greenhouse Gas Emissions Mitigation Types",
+      "data_id": "OI9839",
+      "relative_path": "metric/5.3b/oi9839/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9839/"
+    },
+    {
+      "title": "Greenhouse Gas Emissions of Energy Generated for Sale",
+      "data_id": "PI7015",
+      "relative_path": "metric/5.3b/pi7015/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7015/"
+    },
+    {
+      "title": "Greenhouse Gas Emissions of Product",
+      "data_id": "PD9427",
+      "relative_path": "metric/5.3b/pd9427/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd9427/"
+    },
+    {
+      "title": "Greenhouse Gas Emissions of Product Replaced",
+      "data_id": "PD2243",
+      "relative_path": "metric/5.3b/pd2243/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd2243/"
+    },
+    {
+      "title": "Greenhouse Gas Emissions Scopes",
+      "data_id": "OI5732",
+      "relative_path": "metric/5.3b/oi5732/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5732/"
+    },
+    {
+      "title": "Greenhouse Gas Emissions Sequestered",
+      "data_id": "PI9878",
+      "relative_path": "metric/5.3b/pi9878/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9878/"
+    },
+    {
+      "title": "Greenhouse Gas Emissions Strategy",
+      "data_id": "OI8237",
+      "relative_path": "metric/5.3b/oi8237/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8237/"
+    },
+    {
+      "title": "Greenhouse Gas Emissions: Direct",
+      "data_id": "OI4112",
+      "relative_path": "metric/5.3b/oi4112/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4112/"
+    },
+    {
+      "title": "Greenhouse Gas Emissions: Indirect",
+      "data_id": "OI9604",
+      "relative_path": "metric/5.3b/oi9604/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9604/"
+    },
+    {
+      "title": "Greenhouse Gas Emissions: Total",
+      "data_id": "OI1479",
+      "relative_path": "metric/5.3b/oi1479/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1479/"
+    },
+    {
+      "title": "Greenhouse Gas Reductions due to Products Sold",
+      "data_id": "PI5376",
+      "relative_path": "metric/5.3b/pi5376/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5376/"
+    },
+    {
+      "title": "Greenhouse Gas Types",
+      "data_id": "OI6041",
+      "relative_path": "metric/5.3b/oi6041/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6041/"
+    },
+    {
+      "title": "Gross Earned Premium",
+      "data_id": "PI2025",
+      "relative_path": "metric/5.3b/pi2025/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2025/"
+    },
+    {
+      "title": "Gross Incurred Claims",
+      "data_id": "FP2460",
+      "relative_path": "metric/5.3b/fp2460/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp2460/"
+    },
+    {
+      "title": "Gross Margin",
+      "data_id": "FP4373",
+      "relative_path": "metric/5.3b/fp4373/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp4373/"
+    },
+    {
+      "title": "Gross Profit",
+      "data_id": "FP7629",
+      "relative_path": "metric/5.3b/fp7629/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp7629/"
+    },
+    {
+      "title": "Gross Written Premium",
+      "data_id": "OI8115",
+      "relative_path": "metric/5.3b/oi8115/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8115/"
+    },
+    {
+      "title": "Hazardous Waste Avoided",
+      "data_id": "PI2073",
+      "relative_path": "metric/5.3b/pi2073/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2073/"
+    },
+    {
+      "title": "Healthcare Benefits Participants",
+      "data_id": "OI4061",
+      "relative_path": "metric/5.3b/oi4061/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4061/"
+    },
+    {
+      "title": "Healthcare Benefits Premium Covered",
+      "data_id": "OI1503",
+      "relative_path": "metric/5.3b/oi1503/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1503/"
+    },
+    {
+      "title": "Healthcare Crude Coverage",
+      "data_id": "PI3902",
+      "relative_path": "metric/5.3b/pi3902/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3902/"
+    },
+    {
+      "title": "Healthcare Effective Coverage",
+      "data_id": "PI7191",
+      "relative_path": "metric/5.3b/pi7191/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7191/"
+    },
+    {
+      "title": "Healthcare Facilities",
+      "data_id": "PI1017",
+      "relative_path": "metric/5.3b/pi1017/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1017/"
+    },
+    {
+      "title": "Historically Marginalized Wage Equity",
+      "data_id": "OI2362",
+      "relative_path": "metric/5.3b/oi2362/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2362/"
+    },
+    {
+      "title": "Hours of School Offered per Week",
+      "data_id": "PD4120",
+      "relative_path": "metric/5.3b/pd4120/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd4120/"
+    },
+    {
+      "title": "Housing Type",
+      "data_id": "PD2532",
+      "relative_path": "metric/5.3b/pd2532/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd2532/"
+    },
+    {
+      "title": "Impaired Assets",
+      "data_id": "FP1717",
+      "relative_path": "metric/5.3b/fp1717/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp1717/"
+    },
+    {
+      "title": "Impairment Loss Allowance",
+      "data_id": "FP2392",
+      "relative_path": "metric/5.3b/fp2392/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp2392/"
+    },
+    {
+      "title": "Importance of Outcome to Stakeholders",
+      "data_id": "OI5495",
+      "relative_path": "metric/5.3b/oi5495/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5495/"
+    },
+    {
+      "title": "Income Growth",
+      "data_id": "FP3297",
+      "relative_path": "metric/5.3b/fp3297/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp3297/"
+    },
+    {
+      "title": "Incurred Claims Ratio",
+      "data_id": "FP8478",
+      "relative_path": "metric/5.3b/fp8478/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp8478/"
+    },
+    {
+      "title": "Indigenous Rights and Stewardship Practices",
+      "data_id": "OI6482",
+      "relative_path": "metric/5.3b/oi6482/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6482/"
+    },
+    {
+      "title": "Individuals Displaced: Compensated",
+      "data_id": "PI3009",
+      "relative_path": "metric/5.3b/pi3009/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3009/"
+    },
+    {
+      "title": "Individuals Displaced: Total",
+      "data_id": "PI1297",
+      "relative_path": "metric/5.3b/pi1297/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1297/"
+    },
+    {
+      "title": "Individuals Housed",
+      "data_id": "PI2640",
+      "relative_path": "metric/5.3b/pi2640/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2640/"
+    },
+    {
+      "title": "Individuals Trained: Advisory Services",
+      "data_id": "PI5352",
+      "relative_path": "metric/5.3b/pi5352/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5352/"
+    },
+    {
+      "title": "Individuals Trained: Group-Based Training",
+      "data_id": "PI7997",
+      "relative_path": "metric/5.3b/pi7997/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7997/"
+    },
+    {
+      "title": "Individuals Trained: Total",
+      "data_id": "PI2998",
+      "relative_path": "metric/5.3b/pi2998/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2998/"
+    },
+    {
+      "title": "Interest Expenses",
+      "data_id": "FP1012",
+      "relative_path": "metric/5.3b/fp1012/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp1012/"
+    },
+    {
+      "title": "Interest Rate Method",
+      "data_id": "PD2691",
+      "relative_path": "metric/5.3b/pd2691/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd2691/"
+    },
+    {
+      "title": "Investment Committee Members: Female",
+      "data_id": "OI8709",
+      "relative_path": "metric/5.3b/oi8709/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8709/"
+    },
+    {
+      "title": "Investment Committee Members: Total",
+      "data_id": "OI7829",
+      "relative_path": "metric/5.3b/oi7829/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7829/"
+    },
+    {
+      "title": "IRIS ID",
+      "data_id": "OD3725",
+      "relative_path": "metric/5.3b/od3725/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od3725/"
+    },
+    {
+      "title": "Job Placement Rate",
+      "data_id": "PI3527",
+      "relative_path": "metric/5.3b/pi3527/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3527/"
+    },
+    {
+      "title": "Job Placements",
+      "data_id": "PI9465",
+      "relative_path": "metric/5.3b/pi9465/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9465/"
+    },
+    {
+      "title": "Jobs Created at Directly Supported/Financed Enterprises: Low-Income Areas",
+      "data_id": "PI2251",
+      "relative_path": "metric/5.3b/pi2251/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2251/"
+    },
+    {
+      "title": "Jobs Created at Directly Supported/Financed Enterprises: Total",
+      "data_id": "PI3687",
+      "relative_path": "metric/5.3b/pi3687/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3687/"
+    },
+    {
+      "title": "Jobs in Directly Supported/Financed Enterprises",
+      "data_id": "PI4874",
+      "relative_path": "metric/5.3b/pi4874/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4874/"
+    },
+    {
+      "title": "Jobs Maintained at Directly Supported/Financed Enterprises: Low-Income Areas",
+      "data_id": "PI2688",
+      "relative_path": "metric/5.3b/pi2688/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2688/"
+    },
+    {
+      "title": "Jobs Maintained at Directly Supported/Financed Enterprises: Total",
+      "data_id": "PI5691",
+      "relative_path": "metric/5.3b/pi5691/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5691/"
+    },
+    {
+      "title": "Jobs Type",
+      "data_id": "OD0660",
+      "relative_path": "metric/5.3b/od0660/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od0660/"
+    },
+    {
+      "title": "Land Directly Controlled: Cultivated",
+      "data_id": "OI1674",
+      "relative_path": "metric/5.3b/oi1674/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1674/"
+    },
+    {
+      "title": "Land Directly Controlled: Impervious Surfaces",
+      "data_id": "OI7560",
+      "relative_path": "metric/5.3b/oi7560/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7560/"
+    },
+    {
+      "title": "Land Directly Controlled: Sustainably Managed",
+      "data_id": "OI6912",
+      "relative_path": "metric/5.3b/oi6912/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6912/"
+    },
+    {
+      "title": "Land Directly Controlled: Total",
+      "data_id": "OI5408",
+      "relative_path": "metric/5.3b/oi5408/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5408/"
+    },
+    {
+      "title": "Land Directly Controlled: Treated with Pesticides",
+      "data_id": "OI2569",
+      "relative_path": "metric/5.3b/oi2569/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2569/"
+    },
+    {
+      "title": "Land Indirectly Controlled: Cultivated",
+      "data_id": "PI7403",
+      "relative_path": "metric/5.3b/pi7403/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7403/"
+    },
+    {
+      "title": "Land Indirectly Controlled: Sustainably Managed",
+      "data_id": "PI6796",
+      "relative_path": "metric/5.3b/pi6796/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6796/"
+    },
+    {
+      "title": "Land Indirectly Controlled: Total",
+      "data_id": "PI3789",
+      "relative_path": "metric/5.3b/pi3789/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3789/"
+    },
+    {
+      "title": "Leadership Demographics",
+      "data_id": "OI0667",
+      "relative_path": "metric/5.3b/oi0667/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi0667/"
+    },
+    {
+      "title": "Learning Environment Quality Assessment",
+      "data_id": "PD0754",
+      "relative_path": "metric/5.3b/pd0754/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd0754/"
+    },
+    {
+      "title": "Learning Hours",
+      "data_id": "PI1836",
+      "relative_path": "metric/5.3b/pi1836/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1836/"
+    },
+    {
+      "title": "Learning Hours Provided: Type",
+      "data_id": "PD9173",
+      "relative_path": "metric/5.3b/pd9173/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd9173/"
+    },
+    {
+      "title": "Legal Structure",
+      "data_id": "OD2999",
+      "relative_path": "metric/5.3b/od2999/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od2999/"
+    },
+    {
+      "title": "Length of Adjacent Protected Land",
+      "data_id": "PI2135",
+      "relative_path": "metric/5.3b/pi2135/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2135/"
+    },
+    {
+      "title": "Length of Coastline Present",
+      "data_id": "PI5840",
+      "relative_path": "metric/5.3b/pi5840/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5840/"
+    },
+    {
+      "title": "Length of Coastline Protected",
+      "data_id": "PI0510",
+      "relative_path": "metric/5.3b/pi0510/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi0510/"
+    },
+    {
+      "title": "Length of Coastline Restored",
+      "data_id": "PI2538",
+      "relative_path": "metric/5.3b/pi2538/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2538/"
+    },
+    {
+      "title": "Length of Road Built or Improved",
+      "data_id": "PI5587",
+      "relative_path": "metric/5.3b/pi5587/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5587/"
+    },
+    {
+      "title": "Length of Streams Present",
+      "data_id": "PI3239",
+      "relative_path": "metric/5.3b/pi3239/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3239/"
+    },
+    {
+      "title": "Length of Streams Restored",
+      "data_id": "PI6885",
+      "relative_path": "metric/5.3b/pi6885/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6885/"
+    },
+    {
+      "title": "Length of Transmission Lines Built or Improved",
+      "data_id": "PI4515",
+      "relative_path": "metric/5.3b/pi4515/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4515/"
+    },
+    {
+      "title": "Level of Flood Risk",
+      "data_id": "OI3344",
+      "relative_path": "metric/5.3b/oi3344/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3344/"
+    },
+    {
+      "title": "Level of Stream Connectivity",
+      "data_id": "PI3113",
+      "relative_path": "metric/5.3b/pi3113/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3113/"
+    },
+    {
+      "title": "Level of Water Stress",
+      "data_id": "OI2799",
+      "relative_path": "metric/5.3b/oi2799/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2799/"
+    },
+    {
+      "title": "Livestock/Fish Type",
+      "data_id": "PD4686",
+      "relative_path": "metric/5.3b/pd4686/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd4686/"
+    },
+    {
+      "title": "Loan Officer Wages",
+      "data_id": "OI5803",
+      "relative_path": "metric/5.3b/oi5803/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5803/"
+    },
+    {
+      "title": "Loan Officers Employed",
+      "data_id": "OI2818",
+      "relative_path": "metric/5.3b/oi2818/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2818/"
+    },
+    {
+      "title": "Loan to Deposit",
+      "data_id": "FP1192",
+      "relative_path": "metric/5.3b/fp1192/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp1192/"
+    },
+    {
+      "title": "Loan Write-Offs",
+      "data_id": "FP9717",
+      "relative_path": "metric/5.3b/fp9717/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp9717/"
+    },
+    {
+      "title": "Loans Payable",
+      "data_id": "FP6750",
+      "relative_path": "metric/5.3b/fp6750/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp6750/"
+    },
+    {
+      "title": "Loans Receivable Gross",
+      "data_id": "FP2630",
+      "relative_path": "metric/5.3b/fp2630/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp2630/"
+    },
+    {
+      "title": "Loans Receivable Net",
+      "data_id": "FP1129",
+      "relative_path": "metric/5.3b/fp1129/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp1129/"
+    },
+    {
+      "title": "Loans Recovered",
+      "data_id": "FP3939",
+      "relative_path": "metric/5.3b/fp3939/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp3939/"
+    },
+    {
+      "title": "Local Compliance",
+      "data_id": "OI9379",
+      "relative_path": "metric/5.3b/oi9379/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9379/"
+    },
+    {
+      "title": "Location of Organization's Headquarters",
+      "data_id": "OD6855",
+      "relative_path": "metric/5.3b/od6855/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od6855/"
+    },
+    {
+      "title": "Location of Organization's Operating Facilities",
+      "data_id": "OD1777",
+      "relative_path": "metric/5.3b/od1777/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od1777/"
+    },
+    {
+      "title": "Long Term Financial Liabilities",
+      "data_id": "FP6094",
+      "relative_path": "metric/5.3b/fp6094/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp6094/"
+    },
+    {
+      "title": "Loss of Marine Habitat",
+      "data_id": "PI3227",
+      "relative_path": "metric/5.3b/pi3227/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3227/"
+    },
+    {
+      "title": "Marine Area Directly Controlled: Total",
+      "data_id": "OI7876",
+      "relative_path": "metric/5.3b/oi7876/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7876/"
+    },
+    {
+      "title": "Marine Biodiversity Assessment",
+      "data_id": "PI2901",
+      "relative_path": "metric/5.3b/pi2901/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2901/"
+    },
+    {
+      "title": "Marine Environmental Pressures",
+      "data_id": "PI1899",
+      "relative_path": "metric/5.3b/pi1899/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1899/"
+    },
+    {
+      "title": "Marine Livelihoods",
+      "data_id": "PI2894",
+      "relative_path": "metric/5.3b/pi2894/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2894/"
+    },
+    {
+      "title": "Market Linkages Improved or Expanded",
+      "data_id": "OI0685",
+      "relative_path": "metric/5.3b/oi0685/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi0685/"
+    },
+    {
+      "title": "Market Research on Clients",
+      "data_id": "OI8113",
+      "relative_path": "metric/5.3b/oi8113/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8113/"
+    },
+    {
+      "title": "Market Share Increased",
+      "data_id": "OI4211",
+      "relative_path": "metric/5.3b/oi4211/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4211/"
+    },
+    {
+      "title": "Median Non-Salaried Wage",
+      "data_id": "OI3480",
+      "relative_path": "metric/5.3b/oi3480/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3480/"
+    },
+    {
+      "title": "Meeting Frequency of Board of Directors",
+      "data_id": "OI3630",
+      "relative_path": "metric/5.3b/oi3630/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3630/"
+    },
+    {
+      "title": "Meter Type",
+      "data_id": "PD8501",
+      "relative_path": "metric/5.3b/pd8501/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd8501/"
+    },
+    {
+      "title": "Microfinance Delivery Methodology",
+      "data_id": "PD7356",
+      "relative_path": "metric/5.3b/pd7356/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd7356/"
+    },
+    {
+      "title": "Minimum Insurance Premium",
+      "data_id": "PI3734",
+      "relative_path": "metric/5.3b/pi3734/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3734/"
+    },
+    {
+      "title": "Minimum Wage Multiple",
+      "data_id": "OI6176",
+      "relative_path": "metric/5.3b/oi6176/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6176/"
+    },
+    {
+      "title": "Mission Statement",
+      "data_id": "OD2735",
+      "relative_path": "metric/5.3b/od2735/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od2735/"
+    },
+    {
+      "title": "Name of Organization",
+      "data_id": "OD5828",
+      "relative_path": "metric/5.3b/od5828/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od5828/"
+    },
+    {
+      "title": "Net Income",
+      "data_id": "FP1301",
+      "relative_path": "metric/5.3b/fp1301/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp1301/"
+    },
+    {
+      "title": "Net Income Before Donations",
+      "data_id": "FP3274",
+      "relative_path": "metric/5.3b/fp3274/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp3274/"
+    },
+    {
+      "title": "New Businesses Created: Low Income Areas",
+      "data_id": "PI6414",
+      "relative_path": "metric/5.3b/pi6414/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6414/"
+    },
+    {
+      "title": "New Businesses Created: Total",
+      "data_id": "PI4583",
+      "relative_path": "metric/5.3b/pi4583/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4583/"
+    },
+    {
+      "title": "New Firms Entered",
+      "data_id": "OI3141",
+      "relative_path": "metric/5.3b/oi3141/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3141/"
+    },
+    {
+      "title": "New Investment Capital",
+      "data_id": "FP8293",
+      "relative_path": "metric/5.3b/fp8293/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp8293/"
+    },
+    {
+      "title": "New Market Entered",
+      "data_id": "OI3441",
+      "relative_path": "metric/5.3b/oi3441/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3441/"
+    },
+    {
+      "title": "Non-financial Support Offered",
+      "data_id": "PD9681",
+      "relative_path": "metric/5.3b/pd9681/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd9681/"
+    },
+    {
+      "title": "Non-hazardous Waste Avoided",
+      "data_id": "PI8177",
+      "relative_path": "metric/5.3b/pi8177/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8177/"
+    },
+    {
+      "title": "Non-operating Revenue",
+      "data_id": "FP4849",
+      "relative_path": "metric/5.3b/fp4849/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp4849/"
+    },
+    {
+      "title": "Non-Performing Loans",
+      "data_id": "FP2635",
+      "relative_path": "metric/5.3b/fp2635/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp2635/"
+    },
+    {
+      "title": "Non-Performing Loans",
+      "data_id": "FP6354",
+      "relative_path": "metric/5.3b/fp6354/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp6354/"
+    },
+    {
+      "title": "Non-Performing Loans",
+      "data_id": "FP6373",
+      "relative_path": "metric/5.3b/fp6373/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp6373/"
+    },
+    {
+      "title": "Number of Community Facilities Financed",
+      "data_id": "PI8007",
+      "relative_path": "metric/5.3b/pi8007/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8007/"
+    },
+    {
+      "title": "Number of Complaints Registered",
+      "data_id": "PI2197",
+      "relative_path": "metric/5.3b/pi2197/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2197/"
+    },
+    {
+      "title": "Number of Containers Handled",
+      "data_id": "OI7065",
+      "relative_path": "metric/5.3b/oi7065/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7065/"
+    },
+    {
+      "title": "Number of Employee Grievances Registered",
+      "data_id": "OI1042",
+      "relative_path": "metric/5.3b/oi1042/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1042/"
+    },
+    {
+      "title": "Number of Employee Grievances Resolved",
+      "data_id": "OI9077",
+      "relative_path": "metric/5.3b/oi9077/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9077/"
+    },
+    {
+      "title": "Number of Equity Investments Closed",
+      "data_id": "PI5066",
+      "relative_path": "metric/5.3b/pi5066/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5066/"
+    },
+    {
+      "title": "Number of Equity Investments Outstanding",
+      "data_id": "PI1914",
+      "relative_path": "metric/5.3b/pi1914/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1914/"
+    },
+    {
+      "title": "Number of Household and Business Connections",
+      "data_id": "PI8053",
+      "relative_path": "metric/5.3b/pi8053/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8053/"
+    },
+    {
+      "title": "Number of Housing Units Constructed",
+      "data_id": "PI2491",
+      "relative_path": "metric/5.3b/pi2491/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2491/"
+    },
+    {
+      "title": "Number of Housing Units Financed",
+      "data_id": "PI5965",
+      "relative_path": "metric/5.3b/pi5965/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5965/"
+    },
+    {
+      "title": "Number of Housing Units Improved",
+      "data_id": "PI6058",
+      "relative_path": "metric/5.3b/pi6058/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6058/"
+    },
+    {
+      "title": "Number of Individual Connections",
+      "data_id": "PI3317",
+      "relative_path": "metric/5.3b/pi3317/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3317/"
+    },
+    {
+      "title": "Number of Insurance Policies",
+      "data_id": "PI8785",
+      "relative_path": "metric/5.3b/pi8785/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8785/"
+    },
+    {
+      "title": "Number of Legal and Regulatory Complaints",
+      "data_id": "OI2165",
+      "relative_path": "metric/5.3b/oi2165/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2165/"
+    },
+    {
+      "title": "Number of Loans Disbursed",
+      "data_id": "PI8381",
+      "relative_path": "metric/5.3b/pi8381/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8381/"
+    },
+    {
+      "title": "Number of Loans Fully Repaid on Time",
+      "data_id": "FP5979",
+      "relative_path": "metric/5.3b/fp5979/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp5979/"
+    },
+    {
+      "title": "Number of Loans Outstanding",
+      "data_id": "PI1478",
+      "relative_path": "metric/5.3b/pi1478/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1478/"
+    },
+    {
+      "title": "Number of Potential Renewals",
+      "data_id": "PI3069",
+      "relative_path": "metric/5.3b/pi3069/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3069/"
+    },
+    {
+      "title": "Number of Renewals",
+      "data_id": "PI3212",
+      "relative_path": "metric/5.3b/pi3212/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3212/"
+    },
+    {
+      "title": "Number of Routes Served",
+      "data_id": "PI6504",
+      "relative_path": "metric/5.3b/pi6504/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6504/"
+    },
+    {
+      "title": "Number of Voluntary Savings Accounts",
+      "data_id": "PI6439",
+      "relative_path": "metric/5.3b/pi6439/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6439/"
+    },
+    {
+      "title": "Occupational Fatalities",
+      "data_id": "OI6525",
+      "relative_path": "metric/5.3b/oi6525/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6525/"
+    },
+    {
+      "title": "Occupational Illnesses",
+      "data_id": "OI7060",
+      "relative_path": "metric/5.3b/oi7060/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7060/"
+    },
+    {
+      "title": "Occupational Injuries",
+      "data_id": "OI3757",
+      "relative_path": "metric/5.3b/oi3757/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3757/"
+    },
+    {
+      "title": "Operating Efficiency",
+      "data_id": "FP8569",
+      "relative_path": "metric/5.3b/fp8569/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp8569/"
+    },
+    {
+      "title": "Operating Expenses",
+      "data_id": "FP1001",
+      "relative_path": "metric/5.3b/fp1001/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp1001/"
+    },
+    {
+      "title": "Operating Profit Margin",
+      "data_id": "FP7897",
+      "relative_path": "metric/5.3b/fp7897/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp7897/"
+    },
+    {
+      "title": "Operational Certifications",
+      "data_id": "OI1120",
+      "relative_path": "metric/5.3b/oi1120/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1120/"
+    },
+    {
+      "title": "Operational Model",
+      "data_id": "OD6306",
+      "relative_path": "metric/5.3b/od6306/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od6306/"
+    },
+    {
+      "title": "Organization Web Address",
+      "data_id": "OD7796",
+      "relative_path": "metric/5.3b/od7796/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od7796/"
+    },
+    {
+      "title": "Organizations Trained",
+      "data_id": "PI6065",
+      "relative_path": "metric/5.3b/pi6065/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6065/"
+    },
+    {
+      "title": "Other Financial Services Offered",
+      "data_id": "PD5098",
+      "relative_path": "metric/5.3b/pd5098/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd5098/"
+    },
+    {
+      "title": "Ownership Demographics",
+      "data_id": "OI4221",
+      "relative_path": "metric/5.3b/oi4221/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4221/"
+    },
+    {
+      "title": "Packaging Type",
+      "data_id": "PD2285",
+      "relative_path": "metric/5.3b/pd2285/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd2285/"
+    },
+    {
+      "title": "Packaging Weight",
+      "data_id": "PI1422",
+      "relative_path": "metric/5.3b/pi1422/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1422/"
+    },
+    {
+      "title": "Part-time Employee Hours Worked",
+      "data_id": "OI3098",
+      "relative_path": "metric/5.3b/oi3098/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3098/"
+    },
+    {
+      "title": "Part-time Employees: Employees with Disabilities",
+      "data_id": "OI4571",
+      "relative_path": "metric/5.3b/oi4571/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4571/"
+    },
+    {
+      "title": "Part-time Employees: Female",
+      "data_id": "OI8838",
+      "relative_path": "metric/5.3b/oi8838/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8838/"
+    },
+    {
+      "title": "Part-time Employees: Hired",
+      "data_id": "OI1903",
+      "relative_path": "metric/5.3b/oi1903/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1903/"
+    },
+    {
+      "title": "Part-time Employees: Historically Marginalized",
+      "data_id": "OI6508",
+      "relative_path": "metric/5.3b/oi6508/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6508/"
+    },
+    {
+      "title": "Part-time Employees: Total",
+      "data_id": "OI8864",
+      "relative_path": "metric/5.3b/oi8864/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8864/"
+    },
+    {
+      "title": "Part-time Wages: Female",
+      "data_id": "OI8725",
+      "relative_path": "metric/5.3b/oi8725/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8725/"
+    },
+    {
+      "title": "Part-time Wages: Historically Marginalized",
+      "data_id": "OI9956",
+      "relative_path": "metric/5.3b/oi9956/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9956/"
+    },
+    {
+      "title": "Part-time Wages: Total",
+      "data_id": "OI9948",
+      "relative_path": "metric/5.3b/oi9948/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9948/"
+    },
+    {
+      "title": "Patients Completing Treatment",
+      "data_id": "PI5060",
+      "relative_path": "metric/5.3b/pi5060/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5060/"
+    },
+    {
+      "title": "Patients Screened",
+      "data_id": "PI6845",
+      "relative_path": "metric/5.3b/pi6845/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6845/"
+    },
+    {
+      "title": "Payments to Government",
+      "data_id": "FP5261",
+      "relative_path": "metric/5.3b/fp5261/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp5261/"
+    },
+    {
+      "title": "Payments to Supplier Individuals: Female",
+      "data_id": "PI2302",
+      "relative_path": "metric/5.3b/pi2302/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2302/"
+    },
+    {
+      "title": "Payments to Supplier Individuals: Historically Marginalized",
+      "data_id": "PI7814",
+      "relative_path": "metric/5.3b/pi7814/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7814/"
+    },
+    {
+      "title": "Payments to Supplier Individuals: Low Income",
+      "data_id": "PI8999",
+      "relative_path": "metric/5.3b/pi8999/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8999/"
+    },
+    {
+      "title": "Payments to Supplier Individuals: People with Disabilities",
+      "data_id": "PI6858",
+      "relative_path": "metric/5.3b/pi6858/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6858/"
+    },
+    {
+      "title": "Payments to Supplier Individuals: Peri-Urban",
+      "data_id": "PI9850",
+      "relative_path": "metric/5.3b/pi9850/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9850/"
+    },
+    {
+      "title": "Payments to Supplier Individuals: Poor",
+      "data_id": "PI7815",
+      "relative_path": "metric/5.3b/pi7815/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7815/"
+    },
+    {
+      "title": "Payments to Supplier Individuals: Rural",
+      "data_id": "PI4096",
+      "relative_path": "metric/5.3b/pi4096/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4096/"
+    },
+    {
+      "title": "Payments to Supplier Individuals: Smallholder",
+      "data_id": "PI7852",
+      "relative_path": "metric/5.3b/pi7852/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7852/"
+    },
+    {
+      "title": "Payments to Supplier Individuals: Total",
+      "data_id": "PI1492",
+      "relative_path": "metric/5.3b/pi1492/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1492/"
+    },
+    {
+      "title": "Payments to Supplier Individuals: Urban",
+      "data_id": "PI3406",
+      "relative_path": "metric/5.3b/pi3406/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3406/"
+    },
+    {
+      "title": "Payments to Supplier Individuals: Very Poor",
+      "data_id": "PI9048",
+      "relative_path": "metric/5.3b/pi9048/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9048/"
+    },
+    {
+      "title": "Payments to Supplier Organizations: Local",
+      "data_id": "PI1849",
+      "relative_path": "metric/5.3b/pi1849/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1849/"
+    },
+    {
+      "title": "Payments to Supplier Organizations: SME",
+      "data_id": "PI7867",
+      "relative_path": "metric/5.3b/pi7867/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7867/"
+    },
+    {
+      "title": "Payments to Supplier Organizations: Total",
+      "data_id": "PI5478",
+      "relative_path": "metric/5.3b/pi5478/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5478/"
+    },
+    {
+      "title": "Peak Flow Rate",
+      "data_id": "OI8541",
+      "relative_path": "metric/5.3b/oi8541/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8541/"
+    },
+    {
+      "title": "Percent Affordable Housing",
+      "data_id": "PD5833",
+      "relative_path": "metric/5.3b/pd5833/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd5833/"
+    },
+    {
+      "title": "Percent Baggage Damaged or Lost",
+      "data_id": "PI5776",
+      "relative_path": "metric/5.3b/pi5776/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5776/"
+    },
+    {
+      "title": "Percent Charitable Donations",
+      "data_id": "OI5552",
+      "relative_path": "metric/5.3b/oi5552/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5552/"
+    },
+    {
+      "title": "Percent Employee Ownership",
+      "data_id": "OI5660",
+      "relative_path": "metric/5.3b/oi5660/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5660/"
+    },
+    {
+      "title": "Percent Female/Gender Non-Binary Ownership",
+      "data_id": "OI2840",
+      "relative_path": "metric/5.3b/oi2840/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2840/"
+    },
+    {
+      "title": "Percent Ownership by Historically Marginalized Groups",
+      "data_id": "OI7194",
+      "relative_path": "metric/5.3b/oi7194/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7194/"
+    },
+    {
+      "title": "Percent Recycled Materials",
+      "data_id": "PD9364",
+      "relative_path": "metric/5.3b/pd9364/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd9364/"
+    },
+    {
+      "title": "Percent Revenue Generated from Social/Environmental Products and Services",
+      "data_id": "PI8168",
+      "relative_path": "metric/5.3b/pi8168/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8168/"
+    },
+    {
+      "title": "Percent Students Receiving Free and Subsidized School Meals",
+      "data_id": "PI4555",
+      "relative_path": "metric/5.3b/pi4555/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4555/"
+    },
+    {
+      "title": "Percent Supplier Payments to Smalholders",
+      "data_id": "PI8632",
+      "relative_path": "metric/5.3b/pi8632/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8632/"
+    },
+    {
+      "title": "Permanent Employee Wages: Female",
+      "data_id": "OI4559",
+      "relative_path": "metric/5.3b/oi4559/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4559/"
+    },
+    {
+      "title": "Permanent Employee Wages: Historically Marginalized",
+      "data_id": "OI1084",
+      "relative_path": "metric/5.3b/oi1084/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1084/"
+    },
+    {
+      "title": "Permanent Employee Wages: Low-Income Areas",
+      "data_id": "OI7064",
+      "relative_path": "metric/5.3b/oi7064/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7064/"
+    },
+    {
+      "title": "Permanent Employee Wages: People with Disabilities",
+      "data_id": "OI1682",
+      "relative_path": "metric/5.3b/oi1682/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1682/"
+    },
+    {
+      "title": "Permanent Employee Wages: Total",
+      "data_id": "OI9677",
+      "relative_path": "metric/5.3b/oi9677/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9677/"
+    },
+    {
+      "title": "Permanent Employees: Female",
+      "data_id": "OI2444",
+      "relative_path": "metric/5.3b/oi2444/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2444/"
+    },
+    {
+      "title": "Permanent Employees: Hired",
+      "data_id": "OI3547",
+      "relative_path": "metric/5.3b/oi3547/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3547/"
+    },
+    {
+      "title": "Permanent Employees: Historically Marginalized",
+      "data_id": "OI3236",
+      "relative_path": "metric/5.3b/oi3236/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3236/"
+    },
+    {
+      "title": "Permanent Employees: Low-Income Areas",
+      "data_id": "OI8266",
+      "relative_path": "metric/5.3b/oi8266/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8266/"
+    },
+    {
+      "title": "Permanent Employees: People with Disabilities",
+      "data_id": "OI4038",
+      "relative_path": "metric/5.3b/oi4038/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4038/"
+    },
+    {
+      "title": "Permanent Employees: Total",
+      "data_id": "OI8869",
+      "relative_path": "metric/5.3b/oi8869/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8869/"
+    },
+    {
+      "title": "Personnel Efficiency",
+      "data_id": "FP8295",
+      "relative_path": "metric/5.3b/fp8295/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp8295/"
+    },
+    {
+      "title": "Personnel Expenses",
+      "data_id": "FP4831",
+      "relative_path": "metric/5.3b/fp4831/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp4831/"
+    },
+    {
+      "title": "Pesticide Hazard Classification Type",
+      "data_id": "OI7394",
+      "relative_path": "metric/5.3b/oi7394/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7394/"
+    },
+    {
+      "title": "Pesticide Use",
+      "data_id": "OI9891",
+      "relative_path": "metric/5.3b/oi9891/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9891/"
+    },
+    {
+      "title": "Poverty Assessment",
+      "data_id": "PD3569",
+      "relative_path": "metric/5.3b/pd3569/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd3569/"
+    },
+    {
+      "title": "Primary Energy Source",
+      "data_id": "OI3781",
+      "relative_path": "metric/5.3b/oi3781/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3781/"
+    },
+    {
+      "title": "Producer Price Premium",
+      "data_id": "PI1568",
+      "relative_path": "metric/5.3b/pi1568/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1568/"
+    },
+    {
+      "title": "Product Hours of Light Available",
+      "data_id": "PI3486",
+      "relative_path": "metric/5.3b/pi3486/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3486/"
+    },
+    {
+      "title": "Product Lifecycle Management Practices",
+      "data_id": "OI6209",
+      "relative_path": "metric/5.3b/oi6209/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6209/"
+    },
+    {
+      "title": "Product Lifetime",
+      "data_id": "PD4587",
+      "relative_path": "metric/5.3b/pd4587/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd4587/"
+    },
+    {
+      "title": "Product Targeted to Women",
+      "data_id": "PD5677",
+      "relative_path": "metric/5.3b/pd5677/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd5677/"
+    },
+    {
+      "title": "Product/Service Certifications",
+      "data_id": "PD2756",
+      "relative_path": "metric/5.3b/pd2756/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd2756/"
+    },
+    {
+      "title": "Product/Service Description",
+      "data_id": "PD7899",
+      "relative_path": "metric/5.3b/pd7899/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd7899/"
+    },
+    {
+      "title": "Product/Service Detailed Type",
+      "data_id": "PD1516",
+      "relative_path": "metric/5.3b/pd1516/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd1516/"
+    },
+    {
+      "title": "Product/Service Replaced Description",
+      "data_id": "PD4861",
+      "relative_path": "metric/5.3b/pd4861/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd4861/"
+    },
+    {
+      "title": "Product/Service Type",
+      "data_id": "PD3017",
+      "relative_path": "metric/5.3b/pd3017/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd3017/"
+    },
+    {
+      "title": "Product/Service Warranty",
+      "data_id": "PI7834",
+      "relative_path": "metric/5.3b/pi7834/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7834/"
+    },
+    {
+      "title": "Products Recalled",
+      "data_id": "PI4128",
+      "relative_path": "metric/5.3b/pi4128/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4128/"
+    },
+    {
+      "title": "Promptness of Claims Processing",
+      "data_id": "PI8919",
+      "relative_path": "metric/5.3b/pi8919/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8919/"
+    },
+    {
+      "title": "Promptness of Claims Settlement",
+      "data_id": "PI9897",
+      "relative_path": "metric/5.3b/pi9897/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9897/"
+    },
+    {
+      "title": "Promptness of Claims Submission",
+      "data_id": "PI2070",
+      "relative_path": "metric/5.3b/pi2070/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2070/"
+    },
+    {
+      "title": "Protected Area Connectedness Assessment",
+      "data_id": "OI2767",
+      "relative_path": "metric/5.3b/oi2767/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2767/"
+    },
+    {
+      "title": "Protected Land Area: Permanent",
+      "data_id": "PI3924",
+      "relative_path": "metric/5.3b/pi3924/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3924/"
+    },
+    {
+      "title": "Protected Land Area: Total",
+      "data_id": "PI4716",
+      "relative_path": "metric/5.3b/pi4716/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4716/"
+    },
+    {
+      "title": "Provided New Access",
+      "data_id": "PI9996",
+      "relative_path": "metric/5.3b/pi9996/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9996/"
+    },
+    {
+      "title": "Public Water Point Coverage",
+      "data_id": "PI3218",
+      "relative_path": "metric/5.3b/pi3218/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3218/"
+    },
+    {
+      "title": "Purchase Contracts",
+      "data_id": "PI9988",
+      "relative_path": "metric/5.3b/pi9988/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9988/"
+    },
+    {
+      "title": "Purchase Price of Product or Service Replaced",
+      "data_id": "PI1997",
+      "relative_path": "metric/5.3b/pi1997/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1997/"
+    },
+    {
+      "title": "Purchase Price of Product or Service Sold",
+      "data_id": "PI7643",
+      "relative_path": "metric/5.3b/pi7643/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7643/"
+    },
+    {
+      "title": "Quality Assurance Mechanism",
+      "data_id": "PI3863",
+      "relative_path": "metric/5.3b/pi3863/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3863/"
+    },
+    {
+      "title": "Racial Equity Advocacy Strategy",
+      "data_id": "OD2311",
+      "relative_path": "metric/5.3b/od2311/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od2311/"
+    },
+    {
+      "title": "Racial Equity Audit",
+      "data_id": "ID1046",
+      "relative_path": "metric/5.3b/id1046/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/id1046/"
+    },
+    {
+      "title": "Racial Equity Negative Screen",
+      "data_id": "ID0120",
+      "relative_path": "metric/5.3b/id0120/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/id0120/"
+    },
+    {
+      "title": "Racial Equity Strategy",
+      "data_id": "ID9449",
+      "relative_path": "metric/5.3b/id9449/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/id9449/"
+    },
+    {
+      "title": "Racial Equity Transparency Practice",
+      "data_id": "OD0482",
+      "relative_path": "metric/5.3b/od0482/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od0482/"
+    },
+    {
+      "title": "Records System",
+      "data_id": "OI1804",
+      "relative_path": "metric/5.3b/oi1804/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1804/"
+    },
+    {
+      "title": "Recycled Materials",
+      "data_id": "OI4328",
+      "relative_path": "metric/5.3b/oi4328/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4328/"
+    },
+    {
+      "title": "Recycling Policy",
+      "data_id": "OI6286",
+      "relative_path": "metric/5.3b/oi6286/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6286/"
+    },
+    {
+      "title": "Relationship to Target Stakeholders",
+      "data_id": "OD7900",
+      "relative_path": "metric/5.3b/od7900/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od7900/"
+    },
+    {
+      "title": "Renewable Energy Expenditures",
+      "data_id": "OI9206",
+      "relative_path": "metric/5.3b/oi9206/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9206/"
+    },
+    {
+      "title": "Renewal Ratio",
+      "data_id": "PI1275",
+      "relative_path": "metric/5.3b/pi1275/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1275/"
+    },
+    {
+      "title": "Repayment Capacity Analysis",
+      "data_id": "PI4733",
+      "relative_path": "metric/5.3b/pi4733/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4733/"
+    },
+    {
+      "title": "Report End Date",
+      "data_id": "OD7111",
+      "relative_path": "metric/5.3b/od7111/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od7111/"
+    },
+    {
+      "title": "Report Start Date",
+      "data_id": "OD6951",
+      "relative_path": "metric/5.3b/od6951/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od6951/"
+    },
+    {
+      "title": "Reporting Currency",
+      "data_id": "OD5990",
+      "relative_path": "metric/5.3b/od5990/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od5990/"
+    },
+    {
+      "title": "Responsible Financial Products/Services Offered",
+      "data_id": "PI1209",
+      "relative_path": "metric/5.3b/pi1209/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1209/"
+    },
+    {
+      "title": "Responsible Financial Products/Services Offered",
+      "data_id": "PI8255",
+      "relative_path": "metric/5.3b/pi8255/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8255/"
+    },
+    {
+      "title": "Restoration Success Rate",
+      "data_id": "PI2293",
+      "relative_path": "metric/5.3b/pi2293/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2293/"
+    },
+    {
+      "title": "Retained Earnings",
+      "data_id": "FP8653",
+      "relative_path": "metric/5.3b/fp8653/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp8653/"
+    },
+    {
+      "title": "Return on Assets",
+      "data_id": "FP4326",
+      "relative_path": "metric/5.3b/fp4326/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp4326/"
+    },
+    {
+      "title": "Return on Equity",
+      "data_id": "FP2651",
+      "relative_path": "metric/5.3b/fp2651/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp2651/"
+    },
+    {
+      "title": "Revenue from Grants and Donations",
+      "data_id": "FP3021",
+      "relative_path": "metric/5.3b/fp3021/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp3021/"
+    },
+    {
+      "title": "Revenue Generated at Directly Supported/Financed Enterprises",
+      "data_id": "PI3180",
+      "relative_path": "metric/5.3b/pi3180/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3180/"
+    },
+    {
+      "title": "Revenue Growth",
+      "data_id": "FP4761",
+      "relative_path": "metric/5.3b/fp4761/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp4761/"
+    },
+    {
+      "title": "Sales Revenue",
+      "data_id": "PI1775",
+      "relative_path": "metric/5.3b/pi1775/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1775/"
+    },
+    {
+      "title": "Sales Revenue: Certified",
+      "data_id": "PI7321",
+      "relative_path": "metric/5.3b/pi7321/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7321/"
+    },
+    {
+      "title": "Sales Revenue: Collected Directly",
+      "data_id": "FP8300",
+      "relative_path": "metric/5.3b/fp8300/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp8300/"
+    },
+    {
+      "title": "Sales Revenue: Collected from Third Party Payers",
+      "data_id": "FP5624",
+      "relative_path": "metric/5.3b/fp5624/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp5624/"
+    },
+    {
+      "title": "Sales Revenue: Exports",
+      "data_id": "PI5920",
+      "relative_path": "metric/5.3b/pi5920/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5920/"
+    },
+    {
+      "title": "Savings Account Incentives",
+      "data_id": "PD6343",
+      "relative_path": "metric/5.3b/pd6343/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd6343/"
+    },
+    {
+      "title": "School Enrollment: Female",
+      "data_id": "PI1081",
+      "relative_path": "metric/5.3b/pi1081/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1081/"
+    },
+    {
+      "title": "School Enrollment: Historically Marginalized",
+      "data_id": "PI7774",
+      "relative_path": "metric/5.3b/pi7774/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7774/"
+    },
+    {
+      "title": "School Enrollment: Low Income",
+      "data_id": "PI2173",
+      "relative_path": "metric/5.3b/pi2173/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2173/"
+    },
+    {
+      "title": "School Enrollment: People with Disabilities",
+      "data_id": "PI5954",
+      "relative_path": "metric/5.3b/pi5954/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5954/"
+    },
+    {
+      "title": "School Enrollment: Peri-urban",
+      "data_id": "PI3337",
+      "relative_path": "metric/5.3b/pi3337/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3337/"
+    },
+    {
+      "title": "School Enrollment: Poor",
+      "data_id": "PI7254",
+      "relative_path": "metric/5.3b/pi7254/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7254/"
+    },
+    {
+      "title": "School Enrollment: Rural",
+      "data_id": "PI6569",
+      "relative_path": "metric/5.3b/pi6569/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6569/"
+    },
+    {
+      "title": "School Enrollment: Total",
+      "data_id": "PI2389",
+      "relative_path": "metric/5.3b/pi2389/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2389/"
+    },
+    {
+      "title": "School Enrollment: Urban",
+      "data_id": "PI8069",
+      "relative_path": "metric/5.3b/pi8069/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8069/"
+    },
+    {
+      "title": "School Enrollment: Very Poor",
+      "data_id": "PI5583",
+      "relative_path": "metric/5.3b/pi5583/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5583/"
+    },
+    {
+      "title": "School Fees",
+      "data_id": "PI2718",
+      "relative_path": "metric/5.3b/pi2718/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2718/"
+    },
+    {
+      "title": "School Meals",
+      "data_id": "PI6971",
+      "relative_path": "metric/5.3b/pi6971/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6971/"
+    },
+    {
+      "title": "Schooling Status",
+      "data_id": "PI2250",
+      "relative_path": "metric/5.3b/pi2250/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2250/"
+    },
+    {
+      "title": "Sector of Operations",
+      "data_id": "PD8808",
+      "relative_path": "metric/5.3b/pd8808/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd8808/"
+    },
+    {
+      "title": "Selling, General, and Administration Expenses",
+      "data_id": "FP9649",
+      "relative_path": "metric/5.3b/fp9649/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp9649/"
+    },
+    {
+      "title": "Service Area Population",
+      "data_id": "PI6686",
+      "relative_path": "metric/5.3b/pi6686/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6686/"
+    },
+    {
+      "title": "Service Hours Interrupted",
+      "data_id": "PI2230",
+      "relative_path": "metric/5.3b/pi2230/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2230/"
+    },
+    {
+      "title": "Service Hours Provided",
+      "data_id": "PI5683",
+      "relative_path": "metric/5.3b/pi5683/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5683/"
+    },
+    {
+      "title": "Service Interruptions",
+      "data_id": "PI3720",
+      "relative_path": "metric/5.3b/pi3720/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3720/"
+    },
+    {
+      "title": "Service Level Type",
+      "data_id": "PD5205",
+      "relative_path": "metric/5.3b/pd5205/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd5205/"
+    },
+    {
+      "title": "Setting of Housing/Community Facilities",
+      "data_id": "PD1007",
+      "relative_path": "metric/5.3b/pd1007/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd1007/"
+    },
+    {
+      "title": "Sexual Harassment Policy",
+      "data_id": "OI9088",
+      "relative_path": "metric/5.3b/oi9088/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9088/"
+    },
+    {
+      "title": "Social and Environmental Board Committee",
+      "data_id": "OI1984",
+      "relative_path": "metric/5.3b/oi1984/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1984/"
+    },
+    {
+      "title": "Social and Environmental Performance Incentives",
+      "data_id": "OI4953",
+      "relative_path": "metric/5.3b/oi4953/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4953/"
+    },
+    {
+      "title": "Social and Environmental Performance Management Training",
+      "data_id": "OI4136",
+      "relative_path": "metric/5.3b/oi4136/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4136/"
+    },
+    {
+      "title": "Social and Environmental Performance Reporting",
+      "data_id": "OI4732",
+      "relative_path": "metric/5.3b/oi4732/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4732/"
+    },
+    {
+      "title": "Social and Environmental Performance Risk Assessment",
+      "data_id": "OI9106",
+      "relative_path": "metric/5.3b/oi9106/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9106/"
+    },
+    {
+      "title": "Social and Environmental Performance Staff Training",
+      "data_id": "OI3943",
+      "relative_path": "metric/5.3b/oi3943/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3943/"
+    },
+    {
+      "title": "Social and Environmental Targets",
+      "data_id": "OD4091",
+      "relative_path": "metric/5.3b/od4091/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od4091/"
+    },
+    {
+      "title": "Social Impact Objectives",
+      "data_id": "OD6247",
+      "relative_path": "metric/5.3b/od6247/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od6247/"
+    },
+    {
+      "title": "Social Responsibility Client Policies",
+      "data_id": "OI7783",
+      "relative_path": "metric/5.3b/oi7783/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7783/"
+    },
+    {
+      "title": "Soil Conservation Practices",
+      "data_id": "OI6381",
+      "relative_path": "metric/5.3b/oi6381/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6381/"
+    },
+    {
+      "title": "Soil Health Practices",
+      "data_id": "OI1047",
+      "relative_path": "metric/5.3b/oi1047/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1047/"
+    },
+    {
+      "title": "Solvency Ratio",
+      "data_id": "FP6152",
+      "relative_path": "metric/5.3b/fp6152/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp6152/"
+    },
+    {
+      "title": "Space Per Passenger",
+      "data_id": "PI8394",
+      "relative_path": "metric/5.3b/pi8394/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8394/"
+    },
+    {
+      "title": "Species Abundance",
+      "data_id": "PI8027",
+      "relative_path": "metric/5.3b/pi8027/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8027/"
+    },
+    {
+      "title": "Species Area of Habitat",
+      "data_id": "PD2584",
+      "relative_path": "metric/5.3b/pd2584/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd2584/"
+    },
+    {
+      "title": "Species Conservation Status",
+      "data_id": "PD6429",
+      "relative_path": "metric/5.3b/pd6429/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd6429/"
+    },
+    {
+      "title": "Species Extinction Threat",
+      "data_id": "PD6363",
+      "relative_path": "metric/5.3b/pd6363/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd6363/"
+    },
+    {
+      "title": "Species Recovery",
+      "data_id": "PI3419",
+      "relative_path": "metric/5.3b/pi3419/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3419/"
+    },
+    {
+      "title": "Species: Total",
+      "data_id": "PI7728",
+      "relative_path": "metric/5.3b/pi7728/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7728/"
+    },
+    {
+      "title": "Stakeholder Engagement",
+      "data_id": "OI7914",
+      "relative_path": "metric/5.3b/oi7914/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7914/"
+    },
+    {
+      "title": "Stormwater Runoff",
+      "data_id": "OD6737",
+      "relative_path": "metric/5.3b/od6737/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od6737/"
+    },
+    {
+      "title": "Stream Nutrient Levels Assessment",
+      "data_id": "OI3798",
+      "relative_path": "metric/5.3b/oi3798/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3798/"
+    },
+    {
+      "title": "Stream Turbidity Level",
+      "data_id": "OI3979",
+      "relative_path": "metric/5.3b/oi3979/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3979/"
+    },
+    {
+      "title": "Streamflow Rate",
+      "data_id": "OI9202",
+      "relative_path": "metric/5.3b/oi9202/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9202/"
+    },
+    {
+      "title": "Strikes and Lockouts",
+      "data_id": "OI8670",
+      "relative_path": "metric/5.3b/oi8670/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8670/"
+    },
+    {
+      "title": "Student Attendance Rate",
+      "data_id": "PI3786",
+      "relative_path": "metric/5.3b/pi3786/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3786/"
+    },
+    {
+      "title": "Student Dropout Rate",
+      "data_id": "PI9910",
+      "relative_path": "metric/5.3b/pi9910/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9910/"
+    },
+    {
+      "title": "Student Promotion Rate",
+      "data_id": "PI4924",
+      "relative_path": "metric/5.3b/pi4924/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4924/"
+    },
+    {
+      "title": "Student Tests Pass Rate",
+      "data_id": "PI8372",
+      "relative_path": "metric/5.3b/pi8372/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8372/"
+    },
+    {
+      "title": "Student to Classroom Ratio",
+      "data_id": "PI5501",
+      "relative_path": "metric/5.3b/pi5501/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5501/"
+    },
+    {
+      "title": "Student to Teacher Ratio",
+      "data_id": "PI5110",
+      "relative_path": "metric/5.3b/pi5110/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5110/"
+    },
+    {
+      "title": "Student to Toilet Ratio",
+      "data_id": "PI4243",
+      "relative_path": "metric/5.3b/pi4243/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4243/"
+    },
+    {
+      "title": "Student Transportation",
+      "data_id": "PI1136",
+      "relative_path": "metric/5.3b/pi1136/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1136/"
+    },
+    {
+      "title": "Students Provided Full Scholarship",
+      "data_id": "PI4509",
+      "relative_path": "metric/5.3b/pi4509/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4509/"
+    },
+    {
+      "title": "Students Provided Partial Scholarship",
+      "data_id": "PI3499",
+      "relative_path": "metric/5.3b/pi3499/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3499/"
+    },
+    {
+      "title": "Supplier Individuals: Female",
+      "data_id": "PI1728",
+      "relative_path": "metric/5.3b/pi1728/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1728/"
+    },
+    {
+      "title": "Supplier Individuals: Historically Marginalized",
+      "data_id": "PI9261",
+      "relative_path": "metric/5.3b/pi9261/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9261/"
+    },
+    {
+      "title": "Supplier Individuals: Low Income",
+      "data_id": "PI8819",
+      "relative_path": "metric/5.3b/pi8819/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8819/"
+    },
+    {
+      "title": "Supplier Individuals: People with Disabilities",
+      "data_id": "PI6189",
+      "relative_path": "metric/5.3b/pi6189/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6189/"
+    },
+    {
+      "title": "Supplier Individuals: Peri-urban",
+      "data_id": "PI6085",
+      "relative_path": "metric/5.3b/pi6085/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6085/"
+    },
+    {
+      "title": "Supplier Individuals: Poor",
+      "data_id": "PI2242",
+      "relative_path": "metric/5.3b/pi2242/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2242/"
+    },
+    {
+      "title": "Supplier Individuals: Rural",
+      "data_id": "PI2566",
+      "relative_path": "metric/5.3b/pi2566/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2566/"
+    },
+    {
+      "title": "Supplier Individuals: Smallholder",
+      "data_id": "PI9991",
+      "relative_path": "metric/5.3b/pi9991/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9991/"
+    },
+    {
+      "title": "Supplier Individuals: Total",
+      "data_id": "PI5350",
+      "relative_path": "metric/5.3b/pi5350/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5350/"
+    },
+    {
+      "title": "Supplier Individuals: Urban",
+      "data_id": "PI6179",
+      "relative_path": "metric/5.3b/pi6179/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6179/"
+    },
+    {
+      "title": "Supplier Individuals: Very Poor",
+      "data_id": "PI8337",
+      "relative_path": "metric/5.3b/pi8337/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8337/"
+    },
+    {
+      "title": "Supplier Locations",
+      "data_id": "PD4565",
+      "relative_path": "metric/5.3b/pd4565/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd4565/"
+    },
+    {
+      "title": "Supplier Organizations: Local",
+      "data_id": "PI6385",
+      "relative_path": "metric/5.3b/pi6385/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6385/"
+    },
+    {
+      "title": "Supplier Organizations: SME",
+      "data_id": "PI9495",
+      "relative_path": "metric/5.3b/pi9495/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9495/"
+    },
+    {
+      "title": "Supplier Organizations: Total",
+      "data_id": "PI9566",
+      "relative_path": "metric/5.3b/pi9566/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9566/"
+    },
+    {
+      "title": "Supplier Screening Policy",
+      "data_id": "OI4739",
+      "relative_path": "metric/5.3b/oi4739/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4739/"
+    },
+    {
+      "title": "Supplier Screening Ratio",
+      "data_id": "PI3016",
+      "relative_path": "metric/5.3b/pi3016/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3016/"
+    },
+    {
+      "title": "Sustainable Livelihood Opportunities Supported",
+      "data_id": "PI1207",
+      "relative_path": "metric/5.3b/pi1207/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1207/"
+    },
+    {
+      "title": "Target Area Ecoregion",
+      "data_id": "PD2854",
+      "relative_path": "metric/5.3b/pd2854/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd2854/"
+    },
+    {
+      "title": "Target Area Protected Status",
+      "data_id": "PD1676",
+      "relative_path": "metric/5.3b/pd1676/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd1676/"
+    },
+    {
+      "title": "Target Stakeholder Demographic",
+      "data_id": "PD5752",
+      "relative_path": "metric/5.3b/pd5752/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd5752/"
+    },
+    {
+      "title": "Target Stakeholder Fatalities",
+      "data_id": "PI8145",
+      "relative_path": "metric/5.3b/pi8145/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8145/"
+    },
+    {
+      "title": "Target Stakeholder Geography",
+      "data_id": "PD6424",
+      "relative_path": "metric/5.3b/pd6424/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd6424/"
+    },
+    {
+      "title": "Target Stakeholder Injuries",
+      "data_id": "PI7161",
+      "relative_path": "metric/5.3b/pi7161/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7161/"
+    },
+    {
+      "title": "Target Stakeholder Satisfaction Ratio",
+      "data_id": "PI7163",
+      "relative_path": "metric/5.3b/pi7163/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7163/"
+    },
+    {
+      "title": "Target Stakeholder Setting",
+      "data_id": "PD6384",
+      "relative_path": "metric/5.3b/pd6384/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd6384/"
+    },
+    {
+      "title": "Target Stakeholder Socioeconomics",
+      "data_id": "PD2541",
+      "relative_path": "metric/5.3b/pd2541/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd2541/"
+    },
+    {
+      "title": "Target Stakeholder Spending: Connectivity",
+      "data_id": "PI2111",
+      "relative_path": "metric/5.3b/pi2111/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2111/"
+    },
+    {
+      "title": "Target Stakeholder Spending: Energy",
+      "data_id": "PI5489",
+      "relative_path": "metric/5.3b/pi5489/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5489/"
+    },
+    {
+      "title": "Target Stakeholder Spending: Health",
+      "data_id": "PI7395",
+      "relative_path": "metric/5.3b/pi7395/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7395/"
+    },
+    {
+      "title": "Target Stakeholder Spending: Housing",
+      "data_id": "PI1409",
+      "relative_path": "metric/5.3b/pi1409/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1409/"
+    },
+    {
+      "title": "Target Stakeholder Spending: Total",
+      "data_id": "PI9626",
+      "relative_path": "metric/5.3b/pi9626/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9626/"
+    },
+    {
+      "title": "Target Stakeholders",
+      "data_id": "OD7212",
+      "relative_path": "metric/5.3b/od7212/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od7212/"
+    },
+    {
+      "title": "Teacher Attendance Rate",
+      "data_id": "PI3651",
+      "relative_path": "metric/5.3b/pi3651/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3651/"
+    },
+    {
+      "title": "Teachers Employed",
+      "data_id": "OI5896",
+      "relative_path": "metric/5.3b/oi5896/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5896/"
+    },
+    {
+      "title": "Teachers Qualified",
+      "data_id": "PI1902",
+      "relative_path": "metric/5.3b/pi1902/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1902/"
+    },
+    {
+      "title": "Teaching Experience",
+      "data_id": "PI7871",
+      "relative_path": "metric/5.3b/pi7871/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7871/"
+    },
+    {
+      "title": "Technology Type",
+      "data_id": "PD2348",
+      "relative_path": "metric/5.3b/pd2348/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd2348/"
+    },
+    {
+      "title": "Temporary Employee Wages",
+      "data_id": "OI4202",
+      "relative_path": "metric/5.3b/oi4202/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4202/"
+    },
+    {
+      "title": "Temporary Employees",
+      "data_id": "OI9028",
+      "relative_path": "metric/5.3b/oi9028/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9028/"
+    },
+    {
+      "title": "Temporary Employees Hours Worked",
+      "data_id": "OI8408",
+      "relative_path": "metric/5.3b/oi8408/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8408/"
+    },
+    {
+      "title": "Temporary Employees: Female",
+      "data_id": "OI6978",
+      "relative_path": "metric/5.3b/oi6978/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6978/"
+    },
+    {
+      "title": "Theory of Change",
+      "data_id": "OD6350",
+      "relative_path": "metric/5.3b/od6350/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od6350/"
+    },
+    {
+      "title": "Threatened Species Policy",
+      "data_id": "OI1618",
+      "relative_path": "metric/5.3b/oi1618/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1618/"
+    },
+    {
+      "title": "Total Assets",
+      "data_id": "FP5293",
+      "relative_path": "metric/5.3b/fp5293/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp5293/"
+    },
+    {
+      "title": "Total Deposits",
+      "data_id": "FP9083",
+      "relative_path": "metric/5.3b/fp9083/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp9083/"
+    },
+    {
+      "title": "Total Expenses",
+      "data_id": "FP2321",
+      "relative_path": "metric/5.3b/fp2321/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp2321/"
+    },
+    {
+      "title": "Total Liabilities",
+      "data_id": "FP1996",
+      "relative_path": "metric/5.3b/fp1996/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp1996/"
+    },
+    {
+      "title": "Total Personal Connectivity Devices",
+      "data_id": "OI5657",
+      "relative_path": "metric/5.3b/oi5657/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5657/"
+    },
+    {
+      "title": "Total Revenue",
+      "data_id": "FP6510",
+      "relative_path": "metric/5.3b/fp6510/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp6510/"
+    },
+    {
+      "title": "Toxic Materials",
+      "data_id": "OI5942",
+      "relative_path": "metric/5.3b/oi5942/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5942/"
+    },
+    {
+      "title": "Traceability System",
+      "data_id": "OI4194",
+      "relative_path": "metric/5.3b/oi4194/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4194/"
+    },
+    {
+      "title": "Training Type",
+      "data_id": "OI5044",
+      "relative_path": "metric/5.3b/oi5044/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi5044/"
+    },
+    {
+      "title": "Type of Financial Institution",
+      "data_id": "OD9109",
+      "relative_path": "metric/5.3b/od9109/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od9109/"
+    },
+    {
+      "title": "Type of Land Area",
+      "data_id": "PD3922",
+      "relative_path": "metric/5.3b/pd3922/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd3922/"
+    },
+    {
+      "title": "Unit of Measure",
+      "data_id": "PD1602",
+      "relative_path": "metric/5.3b/pd1602/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd1602/"
+    },
+    {
+      "title": "Units/Volume Produced",
+      "data_id": "PI1290",
+      "relative_path": "metric/5.3b/pi1290/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1290/"
+    },
+    {
+      "title": "Units/Volume Purchased at Price Premium",
+      "data_id": "PI2422",
+      "relative_path": "metric/5.3b/pi2422/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2422/"
+    },
+    {
+      "title": "Units/Volume Purchased from Supplier Individuals: Certified",
+      "data_id": "PI3825",
+      "relative_path": "metric/5.3b/pi3825/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3825/"
+    },
+    {
+      "title": "Units/Volume Purchased from Supplier Individuals: Female",
+      "data_id": "PI9428",
+      "relative_path": "metric/5.3b/pi9428/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9428/"
+    },
+    {
+      "title": "Units/Volume Purchased from Supplier Individuals: Historically Marginalized",
+      "data_id": "PI6646",
+      "relative_path": "metric/5.3b/pi6646/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi6646/"
+    },
+    {
+      "title": "Units/Volume Purchased from Supplier Individuals: Smallholder",
+      "data_id": "PI4982",
+      "relative_path": "metric/5.3b/pi4982/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4982/"
+    },
+    {
+      "title": "Units/Volume Purchased from Supplier Individuals: Total",
+      "data_id": "PI7923",
+      "relative_path": "metric/5.3b/pi7923/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7923/"
+    },
+    {
+      "title": "Units/Volume Purchased from Supplier Organizations: Local",
+      "data_id": "PI8418",
+      "relative_path": "metric/5.3b/pi8418/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8418/"
+    },
+    {
+      "title": "Units/Volume Purchased from Supplier Organizations: SME",
+      "data_id": "PI5473",
+      "relative_path": "metric/5.3b/pi5473/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5473/"
+    },
+    {
+      "title": "Units/Volume Purchased from Supplier Organizations: Total",
+      "data_id": "PI2019",
+      "relative_path": "metric/5.3b/pi2019/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2019/"
+    },
+    {
+      "title": "Units/Volume Replaced",
+      "data_id": "OI4564",
+      "relative_path": "metric/5.3b/oi4564/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4564/"
+    },
+    {
+      "title": "Units/Volume Sold: Certified",
+      "data_id": "PI7289",
+      "relative_path": "metric/5.3b/pi7289/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7289/"
+    },
+    {
+      "title": "Units/Volume Sold: Exported",
+      "data_id": "PI9029",
+      "relative_path": "metric/5.3b/pi9029/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9029/"
+    },
+    {
+      "title": "Units/Volume Sold: Free",
+      "data_id": "PI8329",
+      "relative_path": "metric/5.3b/pi8329/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8329/"
+    },
+    {
+      "title": "Units/Volume Sold: Lost/Leaked",
+      "data_id": "PI1509",
+      "relative_path": "metric/5.3b/pi1509/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1509/"
+    },
+    {
+      "title": "Units/Volume Sold: No Direct Payment",
+      "data_id": "PI8454",
+      "relative_path": "metric/5.3b/pi8454/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8454/"
+    },
+    {
+      "title": "Units/Volume Sold: Total",
+      "data_id": "PI1263",
+      "relative_path": "metric/5.3b/pi1263/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi1263/"
+    },
+    {
+      "title": "Value of Capacity Building and Advisory Services Provided",
+      "data_id": "II0324",
+      "relative_path": "metric/5.3b/ii0324/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/ii0324/"
+    },
+    {
+      "title": "Value of Carbon Credits Purchased",
+      "data_id": "OI2436",
+      "relative_path": "metric/5.3b/oi2436/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2436/"
+    },
+    {
+      "title": "Value of Commercial or Retail Infrastructure Financed",
+      "data_id": "PI5983",
+      "relative_path": "metric/5.3b/pi5983/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5983/"
+    },
+    {
+      "title": "Value of Community Development Contributions",
+      "data_id": "OI1619",
+      "relative_path": "metric/5.3b/oi1619/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1619/"
+    },
+    {
+      "title": "Value of Community Facilities Financed",
+      "data_id": "PI2410",
+      "relative_path": "metric/5.3b/pi2410/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2410/"
+    },
+    {
+      "title": "Value of Community Infrastructure",
+      "data_id": "PI7788",
+      "relative_path": "metric/5.3b/pi7788/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7788/"
+    },
+    {
+      "title": "Value of Equity Investments Closed",
+      "data_id": "PI4142",
+      "relative_path": "metric/5.3b/pi4142/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4142/"
+    },
+    {
+      "title": "Value of Equity Investments Outstanding",
+      "data_id": "PI7940",
+      "relative_path": "metric/5.3b/pi7940/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7940/"
+    },
+    {
+      "title": "Value of Fines and Settlements",
+      "data_id": "OI7639",
+      "relative_path": "metric/5.3b/oi7639/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7639/"
+    },
+    {
+      "title": "Value of Housing Units Financed",
+      "data_id": "PI7233",
+      "relative_path": "metric/5.3b/pi7233/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7233/"
+    },
+    {
+      "title": "Value of Investments in Communities Historically Marginalized Due to Race and/or Ethnicity",
+      "data_id": "II6610",
+      "relative_path": "metric/5.3b/ii6610/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/ii6610/"
+    },
+    {
+      "title": "Value of Investments in Company: Outstanding",
+      "data_id": "II8480",
+      "relative_path": "metric/5.3b/ii8480/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/ii8480/"
+    },
+    {
+      "title": "Value of Investments in Company: Total",
+      "data_id": "II9005",
+      "relative_path": "metric/5.3b/ii9005/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/ii9005/"
+    },
+    {
+      "title": "Value of Loans Disbursed",
+      "data_id": "PI5476",
+      "relative_path": "metric/5.3b/pi5476/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5476/"
+    },
+    {
+      "title": "Value of Loans Fully Repaid on Time",
+      "data_id": "FP9954",
+      "relative_path": "metric/5.3b/fp9954/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp9954/"
+    },
+    {
+      "title": "Value of Loans Outstanding",
+      "data_id": "PI7569",
+      "relative_path": "metric/5.3b/pi7569/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi7569/"
+    },
+    {
+      "title": "Value of New Education Facility Materials",
+      "data_id": "PI4554",
+      "relative_path": "metric/5.3b/pi4554/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi4554/"
+    },
+    {
+      "title": "Value of New Education Instructional Materials",
+      "data_id": "PI5736",
+      "relative_path": "metric/5.3b/pi5736/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5736/"
+    },
+    {
+      "title": "Value of Voluntary Savings Accounts",
+      "data_id": "PI3240",
+      "relative_path": "metric/5.3b/pi3240/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3240/"
+    },
+    {
+      "title": "Vehicle Distance Traveled",
+      "data_id": "PI2112",
+      "relative_path": "metric/5.3b/pi2112/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2112/"
+    },
+    {
+      "title": "Vehicle/Container Inactive Hours",
+      "data_id": "OI1010",
+      "relative_path": "metric/5.3b/oi1010/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1010/"
+    },
+    {
+      "title": "Vocational/Technical Training",
+      "data_id": "PI8836",
+      "relative_path": "metric/5.3b/pi8836/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8836/"
+    },
+    {
+      "title": "Volume of Plastic Removed",
+      "data_id": "PI3664",
+      "relative_path": "metric/5.3b/pi3664/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi3664/"
+    },
+    {
+      "title": "Volunteer Hours",
+      "data_id": "OI1166",
+      "relative_path": "metric/5.3b/oi1166/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1166/"
+    },
+    {
+      "title": "Wage Equity",
+      "data_id": "OI1582",
+      "relative_path": "metric/5.3b/oi1582/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1582/"
+    },
+    {
+      "title": "Wage Premium",
+      "data_id": "OI9767",
+      "relative_path": "metric/5.3b/oi9767/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9767/"
+    },
+    {
+      "title": "WASH Facilities Type",
+      "data_id": "PD3668",
+      "relative_path": "metric/5.3b/pd3668/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd3668/"
+    },
+    {
+      "title": "Waste Disposed: Composted",
+      "data_id": "OI9847",
+      "relative_path": "metric/5.3b/oi9847/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9847/"
+    },
+    {
+      "title": "Waste Disposed: Incinerated",
+      "data_id": "OI8357",
+      "relative_path": "metric/5.3b/oi8357/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8357/"
+    },
+    {
+      "title": "Waste Disposed: Landfill",
+      "data_id": "OI4483",
+      "relative_path": "metric/5.3b/oi4483/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4483/"
+    },
+    {
+      "title": "Waste Disposed: Other",
+      "data_id": "OI8843",
+      "relative_path": "metric/5.3b/oi8843/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8843/"
+    },
+    {
+      "title": "Waste Disposed: Recycled/Reused",
+      "data_id": "OI2535",
+      "relative_path": "metric/5.3b/oi2535/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi2535/"
+    },
+    {
+      "title": "Waste Disposed: Total",
+      "data_id": "OI6192",
+      "relative_path": "metric/5.3b/oi6192/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6192/"
+    },
+    {
+      "title": "Waste Produced: Hazardous Waste",
+      "data_id": "OI1346",
+      "relative_path": "metric/5.3b/oi1346/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1346/"
+    },
+    {
+      "title": "Waste Produced: Non-Hazardous Waste",
+      "data_id": "OI7442",
+      "relative_path": "metric/5.3b/oi7442/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7442/"
+    },
+    {
+      "title": "Waste Produced: Total",
+      "data_id": "OI6709",
+      "relative_path": "metric/5.3b/oi6709/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6709/"
+    },
+    {
+      "title": "Waste Reduced",
+      "data_id": "OI7920",
+      "relative_path": "metric/5.3b/oi7920/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7920/"
+    },
+    {
+      "title": "Waste Reductions from Products Sold",
+      "data_id": "PI5926",
+      "relative_path": "metric/5.3b/pi5926/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5926/"
+    },
+    {
+      "title": "Waste Reductions from Services Sold",
+      "data_id": "PI5678",
+      "relative_path": "metric/5.3b/pi5678/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi5678/"
+    },
+    {
+      "title": "Wastewater Removed",
+      "data_id": "OI1054",
+      "relative_path": "metric/5.3b/oi1054/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1054/"
+    },
+    {
+      "title": "Wastewater Treated",
+      "data_id": "OI9412",
+      "relative_path": "metric/5.3b/oi9412/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9412/"
+    },
+    {
+      "title": "Wastewater Treatment Compliance",
+      "data_id": "OI7860",
+      "relative_path": "metric/5.3b/oi7860/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7860/"
+    },
+    {
+      "title": "Water Conservation Strategy",
+      "data_id": "OI9326",
+      "relative_path": "metric/5.3b/oi9326/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9326/"
+    },
+    {
+      "title": "Water Conserved",
+      "data_id": "OI4015",
+      "relative_path": "metric/5.3b/oi4015/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4015/"
+    },
+    {
+      "title": "Water Consumed: Groundwater",
+      "data_id": "OI4467",
+      "relative_path": "metric/5.3b/oi4467/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4467/"
+    },
+    {
+      "title": "Water Consumed: Municipal",
+      "data_id": "OI3031",
+      "relative_path": "metric/5.3b/oi3031/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3031/"
+    },
+    {
+      "title": "Water Consumed: Rainwater",
+      "data_id": "OI6721",
+      "relative_path": "metric/5.3b/oi6721/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi6721/"
+    },
+    {
+      "title": "Water Consumed: Recycled",
+      "data_id": "OI1927",
+      "relative_path": "metric/5.3b/oi1927/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1927/"
+    },
+    {
+      "title": "Water Consumed: Regions with High Water Stress",
+      "data_id": "OI3637",
+      "relative_path": "metric/5.3b/oi3637/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi3637/"
+    },
+    {
+      "title": "Water Consumed: Surface Water",
+      "data_id": "OI8060",
+      "relative_path": "metric/5.3b/oi8060/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8060/"
+    },
+    {
+      "title": "Water Consumed: Total",
+      "data_id": "OI1697",
+      "relative_path": "metric/5.3b/oi1697/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi1697/"
+    },
+    {
+      "title": "Water Consumed: Wastewater",
+      "data_id": "OI8828",
+      "relative_path": "metric/5.3b/oi8828/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8828/"
+    },
+    {
+      "title": "Water Consumption of Product",
+      "data_id": "PD3931",
+      "relative_path": "metric/5.3b/pd3931/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd3931/"
+    },
+    {
+      "title": "Water Consumption of Product Replaced",
+      "data_id": "PD7621",
+      "relative_path": "metric/5.3b/pd7621/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd7621/"
+    },
+    {
+      "title": "Water Discharged",
+      "data_id": "OI0386",
+      "relative_path": "metric/5.3b/oi0386/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi0386/"
+    },
+    {
+      "title": "Water Provided for Sale: Potable",
+      "data_id": "PI8043",
+      "relative_path": "metric/5.3b/pi8043/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi8043/"
+    },
+    {
+      "title": "Water Provided for Sale: Total",
+      "data_id": "PI9468",
+      "relative_path": "metric/5.3b/pi9468/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi9468/"
+    },
+    {
+      "title": "Water Provision Capacity of Product: Potable",
+      "data_id": "PD6929",
+      "relative_path": "metric/5.3b/pd6929/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd6929/"
+    },
+    {
+      "title": "Water Provision Capacity of Product: Total",
+      "data_id": "PD6052",
+      "relative_path": "metric/5.3b/pd6052/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd6052/"
+    },
+    {
+      "title": "Water Provision Capacity of Products Sold: Potable",
+      "data_id": "PD1403",
+      "relative_path": "metric/5.3b/pd1403/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd1403/"
+    },
+    {
+      "title": "Water Provision Capacity of Products Sold: Total",
+      "data_id": "PD2020",
+      "relative_path": "metric/5.3b/pd2020/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd2020/"
+    },
+    {
+      "title": "Water Quality Practices",
+      "data_id": "OI7365",
+      "relative_path": "metric/5.3b/oi7365/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi7365/"
+    },
+    {
+      "title": "Water Quality Standards Pass Rate",
+      "data_id": "PI0478",
+      "relative_path": "metric/5.3b/pi0478/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi0478/"
+    },
+    {
+      "title": "Water Savings from Products Sold",
+      "data_id": "PD5786",
+      "relative_path": "metric/5.3b/pd5786/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd5786/"
+    },
+    {
+      "title": "Water Savings from Services Sold",
+      "data_id": "PI2884",
+      "relative_path": "metric/5.3b/pi2884/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pi2884/"
+    },
+    {
+      "title": "Water Treatment Capacity of Product: Potable",
+      "data_id": "PD5087",
+      "relative_path": "metric/5.3b/pd5087/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd5087/"
+    },
+    {
+      "title": "Water Treatment Capacity of Product: Total",
+      "data_id": "PD8586",
+      "relative_path": "metric/5.3b/pd8586/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd8586/"
+    },
+    {
+      "title": "Water Treatment Capacity of Products Sold",
+      "data_id": "PD3523",
+      "relative_path": "metric/5.3b/pd3523/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd3523/"
+    },
+    {
+      "title": "Water Treatment Level",
+      "data_id": "OI9278",
+      "relative_path": "metric/5.3b/oi9278/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi9278/"
+    },
+    {
+      "title": "Water Type",
+      "data_id": "OD7536",
+      "relative_path": "metric/5.3b/od7536/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od7536/"
+    },
+    {
+      "title": "Water Withdrawn",
+      "data_id": "OI0263",
+      "relative_path": "metric/5.3b/oi0263/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi0263/"
+    },
+    {
+      "title": "Weighted Average Tenor of Loans Outstanding",
+      "data_id": "PD3079",
+      "relative_path": "metric/5.3b/pd3079/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/pd3079/"
+    },
+    {
+      "title": "Women's Career Advancement Initiative",
+      "data_id": "OD4232",
+      "relative_path": "metric/5.3b/od4232/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od4232/"
+    },
+    {
+      "title": "Worker Freedom of Association Policy",
+      "data_id": "OI4364",
+      "relative_path": "metric/5.3b/oi4364/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4364/"
+    },
+    {
+      "title": "Worker Safety Policy",
+      "data_id": "OI8001",
+      "relative_path": "metric/5.3b/oi8001/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi8001/"
+    },
+    {
+      "title": "Working Capital",
+      "data_id": "FP6856",
+      "relative_path": "metric/5.3b/fp6856/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp6856/"
+    },
+    {
+      "title": "Working Capital Ratio",
+      "data_id": "FP4224",
+      "relative_path": "metric/5.3b/fp4224/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/fp4224/"
+    },
+    {
+      "title": "Working Hour Policy",
+      "data_id": "OI4972",
+      "relative_path": "metric/5.3b/oi4972/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/oi4972/"
+    },
+    {
+      "title": "Year Founded",
+      "data_id": "OD3520",
+      "relative_path": "metric/5.3b/od3520/",
+      "detail_url": "https://iris.thegiin.org/metric/5.3b/od3520/"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.env
+
+# 로그 파일들
+*.log
+
+# 임시 파일들
+data_temp/
+*.tmp
+*.temp
+
+# 대용량 데이터 파일 (선택적으로 제외)
+# data/*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
