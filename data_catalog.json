@@ -1,0 +1,90 @@
+{
+  "data_sources": {
+    "iris": {
+      "code": "iris",
+      "name": "IRIS+ Metrics",
+      "description": "Global Impact Investing Network의 임팩트 투자 메트릭",
+      "website": "https://iris.thegiin.org/",
+      "category": "impact_investing",
+      "update_frequency": "quarterly",
+      "last_updated": null,
+      "status": "active"
+    },
+    "un_sdg": {
+      "code": "un_sdg",
+      "name": "UN Sustainable Development Goals",
+      "description": "유엔 지속가능발전목표 지표",
+      "website": "https://unstats.un.org/sdgs/",
+      "category": "sustainability",
+      "update_frequency": "annual",
+      "last_updated": null,
+      "status": "active"
+    },
+    "esg_ratings": {
+      "code": "esg_ratings",
+      "name": "ESG Ratings",
+      "description": "ESG 평가 및 등급 데이터",
+      "website": "",
+      "category": "esg",
+      "update_frequency": "monthly",
+      "last_updated": null,
+      "status": "active"
+    }
+  },
+  "data_files": [
+    {
+      "filename": "iris_metrics_v1_20241219.json",
+      "data_source": "iris",
+      "data_type": "metrics",
+      "version": "v1",
+      "file_path": "data_sources/iris/raw/iris_metrics_v1_20241219.json",
+      "file_size": 151660,
+      "created_at": "2025-09-19T11:08:29.096363",
+      "updated_at": "2025-09-19T11:08:29.096373",
+      "description": "IRIS+ 메트릭 기본 목록 (750개)",
+      "tags": [
+        "iris",
+        "metrics",
+        "impact_investing"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "iris_metrics_complete_v1_20241219.json",
+      "data_source": "iris",
+      "data_type": "metrics",
+      "version": "v1",
+      "file_path": "data_sources/iris/processed/iris_metrics_complete_v1_20241219.json",
+      "file_size": 9710987,
+      "created_at": "2025-09-19T11:08:29.096751",
+      "updated_at": "2025-09-19T11:08:29.096759",
+      "description": "IRIS+ 메트릭 상세 정보 포함 완전 데이터",
+      "tags": [
+        "iris",
+        "metrics",
+        "detailed",
+        "impact_investing"
+      ],
+      "quality_score": null
+    },
+    {
+      "filename": "iris_metrics_supabase_v1_20241219.json",
+      "data_source": "iris",
+      "data_type": "metrics",
+      "version": "v1",
+      "file_path": "data_sources/iris/processed/iris_metrics_supabase_v1_20241219.json",
+      "file_size": 9675099,
+      "created_at": "2025-09-19T11:08:29.096954",
+      "updated_at": "2025-09-19T11:08:29.096956",
+      "description": "Supabase 형식으로 변환된 IRIS+ 메트릭 데이터",
+      "tags": [
+        "iris",
+        "metrics",
+        "supabase",
+        "database"
+      ],
+      "quality_score": null
+    }
+  ],
+  "last_updated": "2025-09-19T11:08:29.096972"
+}
